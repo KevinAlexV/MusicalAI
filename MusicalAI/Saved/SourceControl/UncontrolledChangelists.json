@@ -89,7 +89,10 @@
 				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/Levels/DemoScene/4/4Y/VBU09EM03IYGTA8WXS6F34.uasset",
 				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalObjects__/Levels/DemoScene/3/A9/OXZWR211YWJ2K7UQ92F7JX.uasset",
 				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/Levels/DemoScene/0/A9/WRR963NP6XVQY57DQLW9JX.uasset",
-				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Levels/DemoScene.umap"
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Levels/DemoScene.umap",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/ThirdPerson/Blueprints/AI.uasset"
 			]
 		}
 	]
