@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MusicalAI",
+			"Path": "F:\\Workspace\\Github\\MusicalAI\\MusicalAI\\Source\\MusicalAI.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MusicalAIEditor",
+			"Path": "F:\\Workspace\\Github\\MusicalAI\\MusicalAI\\Source\\MusicalAIEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

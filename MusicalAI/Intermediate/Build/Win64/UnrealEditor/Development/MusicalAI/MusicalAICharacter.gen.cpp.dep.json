@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\workspace\\github\\musicalai\\musicalai\\intermediate\\build\\win64\\unrealeditor\\inc\\musicalai\\uht\\musicalaicharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\workspace\\github\\musicalai\\musicalai\\intermediate\\build\\win64\\musicalaieditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\workspace\\github\\musicalai\\musicalai\\intermediate\\build\\win64\\unrealeditor\\development\\musicalai\\definitions.musicalai.h",
+            "f:\\workspace\\github\\musicalai\\musicalai\\source\\musicalai\\musicalaicharacter.h",
+            "d:\\[misc]\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\[misc]\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\[misc]\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\[misc]\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\[misc]\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\[misc]\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\[misc]\\ue_5.1\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\[misc]\\ue_5.1\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "f:\\workspace\\github\\musicalai\\musicalai\\intermediate\\build\\win64\\unrealeditor\\inc\\musicalai\\uht\\musicalaicharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

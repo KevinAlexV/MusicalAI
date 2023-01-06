@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\workspace\\github\\musicalai\\musicalai\\intermediate\\build\\win64\\unrealeditor\\inc\\musicalai\\uht\\musicalai.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\workspace\\github\\musicalai\\musicalai\\intermediate\\build\\win64\\musicalaieditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\workspace\\github\\musicalai\\musicalai\\intermediate\\build\\win64\\unrealeditor\\development\\musicalai\\definitions.musicalai.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
