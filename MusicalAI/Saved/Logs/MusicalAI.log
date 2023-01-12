@@ -1416,3 +1416,837 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.01.06-18.44.33:907][274]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
 [2023.01.06-18.53.21:825][858]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.130 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
 [2023.01.06-19.53.22:773][658]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.078 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.06-20.53.21:847][513]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.151 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.06-21.53.22:818][311]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.122 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.06-22.38.10:486][372]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.01.06-22.40.36:996][811]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.01.06-22.53.21:826][104]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.130 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.06-23.53.21:818][901]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.121 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-00.53.22:770][702]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.072 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-01.53.21:821][498]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.122 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-02.53.22:771][299]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.071 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-03.53.21:812][ 94]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.112 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-04.53.22:768][896]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.068 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-05.53.21:816][691]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.115 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-06.53.22:789][492]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.087 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-07.53.21:838][286]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.135 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-08.53.21:872][ 83]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.169 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-09.53.22:816][882]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.112 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-10.53.21:902][676]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.196 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-11.00.08:202][895]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=HP w2207 (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.07-11.00.08:419][896]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.07-11.00.08:757][896]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{48c9df0c-0ebc-44fd-9b49-1e8b7cbc73b8}, Name=HP w2207 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.97
+[2023.01.07-11.00.08:757][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.07-11.00.08:759][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.07-11.00.08:859][897]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Arctis Pro Wireless Game), InstanceID=1
+[2023.01.07-11.00.09:089][897]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.07-11.00.09:425][898]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{af823ccd-3c4e-4c86-847f-56e090d4c88f}, Name=Headphones (Arctis Pro Wireless Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=53.16
+[2023.01.07-11.00.09:425][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.07-11.00.09:435][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.07-11.53.22:820][476]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.114 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-12.53.21:856][271]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.151 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-13.53.22:826][ 71]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.120 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-14.53.21:848][865]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.142 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-15.53.22:812][661]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.105 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-16.53.21:834][456]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.127 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-17.53.21:849][253]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.141 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-18.53.22:768][ 54]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.060 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-19.53.21:876][848]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.167 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-20.53.22:786][648]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.077 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-21.53.21:822][444]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.112 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-22.53.22:787][245]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.077 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.07-23.53.21:825][ 41]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.115 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-00.53.22:781][842]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.071 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-01.53.21:823][638]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.113 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-02.53.22:782][439]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.072 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-03.53.21:821][235]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.111 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-04.53.21:825][ 33]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.114 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-05.53.22:785][835]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.074 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-06.53.21:826][630]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.114 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-07.53.22:801][431]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.088 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-08.53.21:890][225]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.176 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-09.53.22:815][ 25]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.100 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-10.53.21:827][820]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.112 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-11.53.22:790][622]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.074 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-12.53.21:828][417]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.112 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-13.53.21:880][215]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.164 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-14.53.22:835][ 14]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.118 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-15.53.21:860][809]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.143 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-16.53.22:798][609]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.080 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-17.53.21:828][405]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.110 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-18.53.22:799][206]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.081 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-19.53.21:853][  2]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.134 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-20.53.22:797][801]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.078 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-21.53.21:839][596]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.119 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-21.58.33:328][529]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.01.08-22.53.21:837][374]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.116 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.08-23.53.22:798][175]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.078 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-00.53.21:837][971]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.117 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-01.53.22:792][772]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.071 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-02.53.21:836][567]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.115 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-03.53.22:794][369]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.073 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-04.53.21:834][164]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.112 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-05.53.22:793][965]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.071 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-06.53.21:834][761]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.111 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-07.53.21:849][559]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.125 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-08.53.22:829][359]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.103 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-09.53.21:838][155]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.112 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-10.53.22:800][956]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.074 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-11.53.21:842][751]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.116 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-12.53.22:799][553]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.072 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-13.53.21:839][348]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.112 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-14.53.22:800][150]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.072 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-15.53.22:035][945]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.306 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-16.53.22:087][740]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.357 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-17.53.22:760][539]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.030 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-18.53.21:848][335]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.118 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-19.53.22:811][136]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.080 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-20.53.21:848][932]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.115 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-21.53.22:810][733]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.077 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-22.53.21:900][527]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.166 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.09-23.53.22:818][326]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.084 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-00.53.21:960][120]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.225 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-01.53.22:861][919]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.125 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-02.53.21:872][711]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.135 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-03.53.21:884][505]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.145 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-04.53.22:840][304]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.101 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-05.53.21:857][ 98]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.118 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-06.53.22:826][899]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.087 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-07.53.21:862][694]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.122 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-08.53.22:821][495]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.080 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-09.34.39:247][909]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.01.10-09.53.21:929][276]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.186 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-10.12.43:767][761]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=HP w2207 (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.10-10.12.43:974][761]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.10-10.12.44:318][762]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{48c9df0c-0ebc-44fd-9b49-1e8b7cbc73b8}, Name=HP w2207 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=16.35
+[2023.01.10-10.12.44:320][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.10-10.12.44:330][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.10-10.12.44:668][764]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Arctis Pro Wireless Game), InstanceID=1
+[2023.01.10-10.12.44:974][764]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.10-10.12.45:313][765]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{af823ccd-3c4e-4c86-847f-56e090d4c88f}, Name=Headphones (Arctis Pro Wireless Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=38.99
+[2023.01.10-10.12.45:313][765]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.10-10.12.45:316][765]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.10-10.53.22:825][ 77]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.082 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-11.35.16:573][616]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.01.10-11.53.21:858][871]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.115 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-12.53.21:865][669]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.122 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-13.53.22:829][470]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.086 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-14.53.21:860][265]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.116 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-15.53.22:826][ 66]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.081 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-16.53.21:859][861]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.113 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-17.53.22:826][662]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.080 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-18.53.21:859][457]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.113 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-19.53.22:818][259]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.070 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-20.53.21:870][ 54]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.122 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-21.53.22:052][852]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.302 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-22.53.22:830][649]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.080 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.10-23.53.21:967][443]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.215 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-00.53.22:960][242]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.208 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-01.53.21:918][ 34]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.165 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-02.53.22:895][834]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.141 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-03.53.21:895][627]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.141 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-04.53.22:853][427]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.099 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-05.14.07:398][159]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=HP w2207 (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.11-05.14.07:424][159]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-05.14.07:757][160]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{48c9df0c-0ebc-44fd-9b49-1e8b7cbc73b8}, Name=HP w2207 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=50.54
+[2023.01.11-05.14.07:757][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-05.14.07:759][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-05.14.08:147][162]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Arctis Pro Wireless Game), InstanceID=1
+[2023.01.11-05.14.08:421][162]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-05.14.08:757][163]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{af823ccd-3c4e-4c86-847f-56e090d4c88f}, Name=Headphones (Arctis Pro Wireless Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=63.51
+[2023.01.11-05.14.08:757][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-05.14.08:760][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-05.53.21:915][221]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.160 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-06.48.35:162][158]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=HP w2207 (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.11-06.48.35:286][159]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-06.48.35:621][159]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{48c9df0c-0ebc-44fd-9b49-1e8b7cbc73b8}, Name=HP w2207 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=21.14
+[2023.01.11-06.48.35:621][159]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-06.48.35:623][159]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-06.48.35:717][160]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Arctis Pro Wireless Game), InstanceID=1
+[2023.01.11-06.48.35:952][160]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-06.48.36:287][161]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{af823ccd-3c4e-4c86-847f-56e090d4c88f}, Name=Headphones (Arctis Pro Wireless Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=81.03
+[2023.01.11-06.48.36:287][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-06.48.36:289][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-06.53.21:877][ 18]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.122 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-07.53.22:832][819]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.077 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-08.53.21:869][615]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.114 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-09.53.22:829][416]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.074 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-10.53.21:870][212]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.114 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-11.53.22:830][ 13]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.073 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-12.53.21:879][809]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.121 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-13.53.22:835][610]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.077 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-14.52.36:266][268]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=HP w2207 (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.11-14.52.36:366][268]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-14.52.36:702][269]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{48c9df0c-0ebc-44fd-9b49-1e8b7cbc73b8}, Name=HP w2207 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.00
+[2023.01.11-14.52.36:702][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-14.52.36:704][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-14.52.37:005][270]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Arctis Pro Wireless Game), InstanceID=1
+[2023.01.11-14.52.37:033][270]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-14.52.37:369][271]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{af823ccd-3c4e-4c86-847f-56e090d4c88f}, Name=Headphones (Arctis Pro Wireless Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=101.83
+[2023.01.11-14.52.37:369][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-14.52.37:370][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-14.53.21:872][405]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.114 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-15.53.22:838][206]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.079 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-16.53.21:884][  1]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.125 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-17.53.21:874][799]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.114 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-18.53.22:834][601]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.074 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-19.53.21:880][396]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.119 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-20.53.22:840][198]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.078 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-21.08.17:775][882]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=HP w2207 (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.11-21.08.18:009][882]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-21.08.18:344][883]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Arctis Pro Wireless Game), InstanceID=1
+[2023.01.11-21.08.18:347][883]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{48c9df0c-0ebc-44fd-9b49-1e8b7cbc73b8}, Name=HP w2207 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.94
+[2023.01.11-21.08.18:348][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-21.08.18:350][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-21.08.18:675][884]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-21.08.19:013][885]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{af823ccd-3c4e-4c86-847f-56e090d4c88f}, Name=Headphones (Arctis Pro Wireless Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=66.70
+[2023.01.11-21.08.19:013][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-21.08.19:015][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-21.29.10:946][641]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=HP w2207 (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.11-21.29.11:201][641]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-21.29.11:535][642]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{48c9df0c-0ebc-44fd-9b49-1e8b7cbc73b8}, Name=HP w2207 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.71
+[2023.01.11-21.29.11:535][642]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-21.29.11:537][642]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-21.29.11:542][643]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Arctis Pro Wireless Game), InstanceID=1
+[2023.01.11-21.29.11:867][643]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-21.29.12:203][644]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{af823ccd-3c4e-4c86-847f-56e090d4c88f}, Name=Headphones (Arctis Pro Wireless Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=66.71
+[2023.01.11-21.29.12:203][644]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-21.29.12:204][644]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-21.53.21:885][993]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.123 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-22.41.31:410][660]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=HP w2207 (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.11-22.41.31:467][660]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-22.41.31:801][661]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{48c9df0c-0ebc-44fd-9b49-1e8b7cbc73b8}, Name=HP w2207 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.08
+[2023.01.11-22.41.31:801][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-22.41.31:802][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-22.41.32:021][662]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Arctis Pro Wireless Game), InstanceID=1
+[2023.01.11-22.41.32:133][662]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-22.41.32:469][663]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{af823ccd-3c4e-4c86-847f-56e090d4c88f}, Name=Headphones (Arctis Pro Wireless Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=66.85
+[2023.01.11-22.41.32:469][663]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-22.41.32:471][663]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-22.53.22:835][794]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.072 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.11-23.20.10:086][615]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=HP w2207 (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.11-23.20.10:145][615]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-23.20.10:479][616]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{48c9df0c-0ebc-44fd-9b49-1e8b7cbc73b8}, Name=HP w2207 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.34
+[2023.01.11-23.20.10:479][616]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-23.20.10:480][616]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-23.20.10:801][617]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Arctis Pro Wireless Game), InstanceID=1
+[2023.01.11-23.20.10:812][617]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-23.20.11:145][618]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{af823ccd-3c4e-4c86-847f-56e090d4c88f}, Name=Headphones (Arctis Pro Wireless Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=91.44
+[2023.01.11-23.20.11:146][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-23.20.11:147][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-23.46.38:923][381]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=HP w2207 (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.11-23.46.39:030][381]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-23.46.39:366][382]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{48c9df0c-0ebc-44fd-9b49-1e8b7cbc73b8}, Name=HP w2207 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.71
+[2023.01.11-23.46.39:366][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-23.46.39:367][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-23.46.39:665][383]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Arctis Pro Wireless Game), InstanceID=1
+[2023.01.11-23.46.39:697][383]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.11-23.46.40:032][384]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{af823ccd-3c4e-4c86-847f-56e090d4c88f}, Name=Headphones (Arctis Pro Wireless Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=85.66
+[2023.01.11-23.46.40:032][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-23.46.40:034][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-23.53.21:883][590]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.120 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-00.53.22:840][391]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.077 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-01.53.21:886][187]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.122 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-02.53.21:888][985]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.124 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-03.53.22:840][786]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.073 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-04.53.21:889][581]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.123 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-05.53.22:849][382]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.082 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-06.53.21:918][177]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.150 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-07.05.07:047][289]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=HP w2207 (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.12-07.05.07:280][289]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.12-07.05.07:615][290]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{48c9df0c-0ebc-44fd-9b49-1e8b7cbc73b8}, Name=HP w2207 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=39.82
+[2023.01.12-07.05.07:615][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.12-07.05.07:616][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.12-07.53.22:916][974]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.147 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-08.53.22:054][767]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.285 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-09.53.22:919][566]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.149 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-10.53.21:938][359]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.167 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-11.53.21:947][156]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.176 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-12.53.22:902][957]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.131 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-13.53.21:887][752]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.115 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-14.05.54:559][ 10]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.01.12-14.06.03:288][ 36]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Arctis Pro Wireless Game), InstanceID=1
+[2023.01.12-14.06.03:554][ 37]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.12-14.06.03:890][ 37]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{af823ccd-3c4e-4c86-847f-56e090d4c88f}, Name=Headphones (Arctis Pro Wireless Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=85.03
+[2023.01.12-14.06.03:890][ 37]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.12-14.06.03:894][ 37]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.12-14.53.22:881][552]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.109 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-15.53.21:904][345]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.132 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-16.53.22:854][146]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.082 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-17.53.21:893][940]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.120 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-18.53.22:853][741]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.079 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-19.53.21:900][536]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.126 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-20.53.21:907][334]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.133 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-21.09.24:426][221]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=HP w2207 (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.12-21.09.24:695][222]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.12-21.09.25:030][222]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{48c9df0c-0ebc-44fd-9b49-1e8b7cbc73b8}, Name=HP w2207 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=67.51
+[2023.01.12-21.09.25:030][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.12-21.09.25:032][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.12-21.18.55:189][933]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Arctis Pro Wireless Game), InstanceID=1
+[2023.01.12-21.18.55:515][933]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2023.01.12-21.18.55:853][934]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{af823ccd-3c4e-4c86-847f-56e090d4c88f}, Name=Headphones (Arctis Pro Wireless Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=52.94
+[2023.01.12-21.18.55:853][934]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.12-21.18.55:855][934]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.12-21.53.22:852][134]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.077 and deleted 0 files with total size 0 MiB. Scanned 1225 files in 1222 folders with total size 42 MiB.
+[2023.01.12-21.55.46:947][611]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2023.01.12-21.55.46:974][611]LogStall: Shutdown...
+[2023.01.12-21.55.46:991][611]LogStall: Shutdown complete.
+[2023.01.12-21.55.47:026][611]LogSlate: Window 'MusicalAI - Unreal Editor' being destroyed
+[2023.01.12-21.55.47:168][612]Cmd: QUIT_EDITOR
+[2023.01.12-21.55.47:169][612]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.01.12-21.55.47:175][612]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.01.12-21.55.47:177][612]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.01.12-21.55.47:178][612]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.01.12-21.55.47:196][612]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-21.55.47:200][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-21.55.47:204][612]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.01.12-21.55.47:220][612]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.01.12-21.55.47:228][612]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.01.12-21.55.47:401][612]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.01.12-21.55.47:401][612]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.01.12-21.55.47:401][612]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2023.01.12-21.55.47:420][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.01.12-21.55.47:421][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.01.12-21.55.47:448][612]LogAudio: Display: Audio Device Manager Shutdown
+[2023.01.12-21.55.47:454][612]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.01.12-21.55.47:454][612]LogExit: Preparing to exit.
+[2023.01.12-21.55.47:511][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.12-21.55.48:109][612]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-21.55.48:109][612]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-21.55.48:205][612]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.01.12-21.55.48:249][612]LogExit: Editor shut down
+[2023.01.12-21.55.48:256][612]LogExit: Transaction tracking system shut down
+[2023.01.12-21.55.48:610][612]LogExit: Object subsystem successfully closed.
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: ================================================
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Total job queries 109, among them cache hits 10 (9.17%)
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Tracking 99 distinct input hashes that result in 81 distinct outputs (81.82%)
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: RAM used: 0.85 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Shaders Compiled: 24
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Jobs assigned 24, completed 24 (100.00%)
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Time job spent in pending queue: average 9.95 s, longest 14.90 s
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Job execution time: average 3.49 s, max 11.81 s
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Job life time (pending + execution): average 13.44 s, max 16.02
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.77 s
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Average processing rate: 1.28 jobs/sec
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Total thread time: 31.22 s
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Total thread preprocess time: 1.61 s
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Percentage time preprocessing: 5.14%
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Effective parallelization: 1.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 1.96 sec, max 1.96 sec, min 1.96 sec)
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 1.68 sec, max 2.30 sec, min 1.15 sec)
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 1.66 sec, max 1.66 sec, min 1.66 sec)
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 1.41 sec, max 2.35 sec, min 1.09 sec)
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.83% of total time (compiled    5 times, average 1.68 sec, max 2.30 sec, min 1.15 sec)
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.67% of total time (compiled    5 times, average 1.23 sec, max 1.85 sec, min 1.02 sec)
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.02% of total time (compiled    4 times, average 1.41 sec, max 2.35 sec, min 1.09 sec)
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.91% of total time (compiled    4 times, average 1.16 sec, max 1.61 sec, min 0.72 sec)
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 6.75% of total time (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2023.01.12-21.55.48:619][612]LogShaderCompilers: Display: ================================================
+[2023.01.12-21.55.48:662][612]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.01.12-21.55.48:685][612]LogVirtualization: UE::Virtualization was shutdown
+[2023.01.12-21.55.48:797][612]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (993)
+[2023.01.12-21.55.48:797][612]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (991)
+[2023.01.12-21.55.48:797][612]LogModuleManager: Shutting down and abandoning module AddContentDialog (989)
+[2023.01.12-21.55.48:800][612]LogModuleManager: Shutting down and abandoning module WidgetCarousel (988)
+[2023.01.12-21.55.48:800][612]LogModuleManager: Shutting down and abandoning module SubobjectEditor (985)
+[2023.01.12-21.55.48:800][612]LogModuleManager: Shutting down and abandoning module SceneOutliner (983)
+[2023.01.12-21.55.48:800][612]LogModuleManager: Shutting down and abandoning module StatusBar (981)
+[2023.01.12-21.55.48:800][612]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (979)
+[2023.01.12-21.55.48:800][612]LogModuleManager: Shutting down and abandoning module StatsViewer (977)
+[2023.01.12-21.55.48:801][612]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (975)
+[2023.01.12-21.55.48:801][612]LogModuleManager: Shutting down and abandoning module AutomationWorker (973)
+[2023.01.12-21.55.48:801][612]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (971)
+[2023.01.12-21.55.48:803][612]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (969)
+[2023.01.12-21.55.48:805][612]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (967)
+[2023.01.12-21.55.48:806][612]LogModuleManager: Shutting down and abandoning module PlanarCut (965)
+[2023.01.12-21.55.48:806][612]LogModuleManager: Shutting down and abandoning module CharacterAI (963)
+[2023.01.12-21.55.48:806][612]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (961)
+[2023.01.12-21.55.48:807][612]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (959)
+[2023.01.12-21.55.48:807][612]LogModuleManager: Shutting down and abandoning module TakesCore (957)
+[2023.01.12-21.55.48:808][612]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (955)
+[2023.01.12-21.55.48:808][612]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (953)
+[2023.01.12-21.55.48:808][612]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (951)
+[2023.01.12-21.55.48:808][612]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (949)
+[2023.01.12-21.55.48:808][612]LogModuleManager: Shutting down and abandoning module WebMMedia (947)
+[2023.01.12-21.55.48:808][612]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (945)
+[2023.01.12-21.55.48:808][612]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (943)
+[2023.01.12-21.55.48:808][612]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (941)
+[2023.01.12-21.55.48:808][612]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (939)
+[2023.01.12-21.55.48:809][612]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (937)
+[2023.01.12-21.55.48:810][612]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (935)
+[2023.01.12-21.55.48:810][612]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (933)
+[2023.01.12-21.55.48:810][612]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (931)
+[2023.01.12-21.55.48:810][612]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (929)
+[2023.01.12-21.55.48:810][612]LogModuleManager: Shutting down and abandoning module IKRigEditor (927)
+[2023.01.12-21.55.48:811][612]LogModuleManager: Shutting down and abandoning module ControlRigEditor (925)
+[2023.01.12-21.55.48:813][612]LogModuleManager: Shutting down and abandoning module WaveTableEditor (923)
+[2023.01.12-21.55.48:813][612]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (921)
+[2023.01.12-21.55.48:813][612]LogModuleManager: Shutting down and abandoning module GooglePADEditor (919)
+[2023.01.12-21.55.48:813][612]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (917)
+[2023.01.12-21.55.48:813][612]LogModuleManager: Shutting down and abandoning module SequenceRecorder (916)
+[2023.01.12-21.55.48:813][612]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (913)
+[2023.01.12-21.55.48:814][612]LogModuleManager: Shutting down and abandoning module TextureAlignMode (911)
+[2023.01.12-21.55.48:814][612]LogModuleManager: Shutting down and abandoning module BspMode (909)
+[2023.01.12-21.55.48:814][612]LogModuleManager: Shutting down and abandoning module GeometryMode (907)
+[2023.01.12-21.55.48:814][612]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (905)
+[2023.01.12-21.55.48:815][612]LogModuleManager: Shutting down and abandoning module SmartSnapping (903)
+[2023.01.12-21.55.48:815][612]LogModuleManager: Shutting down and abandoning module SessionServices (901)
+[2023.01.12-21.55.48:815][612]LogModuleManager: Shutting down and abandoning module MeshPaint (899)
+[2023.01.12-21.55.48:816][612]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (897)
+[2023.01.12-21.55.48:816][612]LogModuleManager: Shutting down and abandoning module PlacementMode (896)
+[2023.01.12-21.55.48:816][612]LogModuleManager: Shutting down and abandoning module FoliageEdit (893)
+[2023.01.12-21.55.48:817][612]LogModuleManager: Shutting down and abandoning module LandscapeEditor (891)
+[2023.01.12-21.55.48:818][612]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (889)
+[2023.01.12-21.55.48:818][612]LogModuleManager: Shutting down and abandoning module ActorPickerMode (887)
+[2023.01.12-21.55.48:819][612]LogModuleManager: Shutting down and abandoning module ViewportSnapping (885)
+[2023.01.12-21.55.48:819][612]LogModuleManager: Shutting down and abandoning module ViewportInteraction (883)
+[2023.01.12-21.55.48:819][612]LogModuleManager: Shutting down and abandoning module ClothPainter (881)
+[2023.01.12-21.55.48:819][612]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (880)
+[2023.01.12-21.55.48:820][612]LogModuleManager: Shutting down and abandoning module LogVisualizer (877)
+[2023.01.12-21.55.48:821][612]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (875)
+[2023.01.12-21.55.48:822][612]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (873)
+[2023.01.12-21.55.48:822][612]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (872)
+[2023.01.12-21.55.48:822][612]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (870)
+[2023.01.12-21.55.49:034][612]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (867)
+[2023.01.12-21.55.49:034][612]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (865)
+[2023.01.12-21.55.49:035][612]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (863)
+[2023.01.12-21.55.49:035][612]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (861)
+[2023.01.12-21.55.49:035][612]LogModuleManager: Shutting down and abandoning module AnimationSettings (859)
+[2023.01.12-21.55.49:035][612]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (857)
+[2023.01.12-21.55.49:035][612]LogModuleManager: Shutting down and abandoning module CSVtoSVG (855)
+[2023.01.12-21.55.49:035][612]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (853)
+[2023.01.12-21.55.49:035][612]LogModuleManager: Shutting down and abandoning module EditorConfig (851)
+[2023.01.12-21.55.49:035][612]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (849)
+[2023.01.12-21.55.49:035][612]LogModuleManager: Shutting down and abandoning module EditorFramework (847)
+[2023.01.12-21.55.49:035][612]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (845)
+[2023.01.12-21.55.49:036][612]LogModuleManager: Shutting down and abandoning module TraceInsights (843)
+[2023.01.12-21.55.49:040][612]MemoryProfiler: Shutdown
+[2023.01.12-21.55.49:041][612]NetworkingProfiler: Shutdown
+[2023.01.12-21.55.49:041][612]LoadingProfiler: Shutdown
+[2023.01.12-21.55.49:041][612]TimingProfiler: Shutdown
+[2023.01.12-21.55.49:043][612]LogModuleManager: Shutting down and abandoning module TraceServices (842)
+[2023.01.12-21.55.49:044][612]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (839)
+[2023.01.12-21.55.49:044][612]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (838)
+[2023.01.12-21.55.49:044][612]LogModuleManager: Shutting down and abandoning module InputBindingEditor (835)
+[2023.01.12-21.55.49:044][612]LogModuleManager: Shutting down and abandoning module MergeActors (833)
+[2023.01.12-21.55.49:045][612]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (831)
+[2023.01.12-21.55.49:045][612]LogModuleManager: Shutting down and abandoning module LocalizationService (830)
+[2023.01.12-21.55.49:045][612]LogModuleManager: Shutting down and abandoning module HardwareTargeting (827)
+[2023.01.12-21.55.49:045][612]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (825)
+[2023.01.12-21.55.49:045][612]LogModuleManager: Shutting down and abandoning module UndoHistory (823)
+[2023.01.12-21.55.49:045][612]LogModuleManager: Shutting down and abandoning module XmlParser (821)
+[2023.01.12-21.55.49:045][612]LogModuleManager: Shutting down and abandoning module Blutility (819)
+[2023.01.12-21.55.49:045][612]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (817)
+[2023.01.12-21.55.49:045][612]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (816)
+[2023.01.12-21.55.49:045][612]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (813)
+[2023.01.12-21.55.49:045][612]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (812)
+[2023.01.12-21.55.49:046][612]LogModuleManager: Shutting down and abandoning module SettingsEditor (809)
+[2023.01.12-21.55.49:046][612]LogModuleManager: Shutting down and abandoning module ProjectLauncher (807)
+[2023.01.12-21.55.49:046][612]LogModuleManager: Shutting down and abandoning module SessionFrontend (805)
+[2023.01.12-21.55.49:046][612]LogModuleManager: Shutting down and abandoning module ProfilerClient (803)
+[2023.01.12-21.55.49:046][612]LogModuleManager: Shutting down and abandoning module DeviceManager (801)
+[2023.01.12-21.55.49:047][612]LogModuleManager: Shutting down and abandoning module AutomationController (799)
+[2023.01.12-21.55.49:047][612]LogModuleManager: Shutting down and abandoning module AutomationWindow (797)
+[2023.01.12-21.55.49:048][612]LogModuleManager: Shutting down and abandoning module Layers (795)
+[2023.01.12-21.55.49:049][612]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (793)
+[2023.01.12-21.55.49:049][612]LogModuleManager: Shutting down and abandoning module DetailCustomizations (791)
+[2023.01.12-21.55.49:049][612]LogModuleManager: Shutting down and abandoning module PackagesDialog (789)
+[2023.01.12-21.55.49:050][612]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (787)
+[2023.01.12-21.55.49:051][612]LogModuleManager: Shutting down and abandoning module Persona (785)
+[2023.01.12-21.55.49:053][612]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (784)
+[2023.01.12-21.55.49:053][612]LogModuleManager: Shutting down and abandoning module Kismet (781)
+[2023.01.12-21.55.49:057][612]LogModuleManager: Shutting down and abandoning module KismetWidgets (780)
+[2023.01.12-21.55.49:057][612]LogModuleManager: Shutting down and abandoning module GraphEditor (777)
+[2023.01.12-21.55.49:058][612]LogModuleManager: Shutting down and abandoning module StructViewer (775)
+[2023.01.12-21.55.49:058][612]LogModuleManager: Shutting down and abandoning module ClassViewer (773)
+[2023.01.12-21.55.49:058][612]LogModuleManager: Shutting down and abandoning module NaniteTools (771)
+[2023.01.12-21.55.49:058][612]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (769)
+[2023.01.12-21.55.49:061][612]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (767)
+[2023.01.12-21.55.49:061][612]LogModuleManager: Shutting down and abandoning module SourceControlWindows (765)
+[2023.01.12-21.55.49:061][612]LogModuleManager: Shutting down and abandoning module OutputLog (763)
+[2023.01.12-21.55.49:062][612]LogModuleManager: Shutting down and abandoning module Documentation (761)
+[2023.01.12-21.55.49:062][612]LogModuleManager: Shutting down and abandoning module LiveCoding (759)
+[2023.01.12-21.55.49:072][612]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (757)
+[2023.01.12-21.55.49:072][612]LogModuleManager: Shutting down and abandoning module MovieScene (755)
+[2023.01.12-21.55.49:072][612]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (753)
+[2023.01.12-21.55.49:072][612]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (751)
+[2023.01.12-21.55.49:072][612]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (749)
+[2023.01.12-21.55.49:072][612]LogModuleManager: Shutting down and abandoning module AudioMixer (748)
+[2023.01.12-21.55.49:072][612]LogModuleManager: Shutting down and abandoning module AudioMixerCore (747)
+[2023.01.12-21.55.49:072][612]LogModuleManager: Shutting down and abandoning module LauncherPlatform (743)
+[2023.01.12-21.55.49:073][612]LogModuleManager: Shutting down and abandoning module AnalyticsET (741)
+[2023.01.12-21.55.49:073][612]LogModuleManager: Shutting down and abandoning module PortalServices (739)
+[2023.01.12-21.55.49:073][612]LogModuleManager: Shutting down and abandoning module PortalRpc (737)
+[2023.01.12-21.55.49:073][612]LogModuleManager: Shutting down and abandoning module MessagingRpc (735)
+[2023.01.12-21.55.49:073][612]LogModuleManager: Shutting down and abandoning module AIModule (733)
+[2023.01.12-21.55.49:073][612]LogModuleManager: Shutting down and abandoning module GameplayDebugger (732)
+[2023.01.12-21.55.49:074][612]LogModuleManager: Shutting down and abandoning module AITestSuite (730)
+[2023.01.12-21.55.49:074][612]LogModuleManager: Shutting down and abandoning module NavigationSystem (728)
+[2023.01.12-21.55.49:074][612]LogModuleManager: Shutting down and abandoning module DataLayerEditor (725)
+[2023.01.12-21.55.49:074][612]LogModuleManager: Shutting down and abandoning module EditorWidgets (724)
+[2023.01.12-21.55.49:074][612]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (721)
+[2023.01.12-21.55.49:074][612]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (719)
+[2023.01.12-21.55.49:074][612]LogModuleManager: Shutting down and abandoning module TypedElementFramework (717)
+[2023.01.12-21.55.49:074][612]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (715)
+[2023.01.12-21.55.49:075][612]LogModuleManager: Shutting down and abandoning module ProfilerService (713)
+[2023.01.12-21.55.49:115][612]LogModuleManager: Shutting down and abandoning module TaskGraph (711)
+[2023.01.12-21.55.49:116][612]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (709)
+[2023.01.12-21.55.49:116][612]LogModuleManager: Shutting down and abandoning module MegascansPlugin (707)
+[2023.01.12-21.55.49:117][612]LogModuleManager: Shutting down and abandoning module Bridge (705)
+[2023.01.12-21.55.49:117][612]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (703)
+[2023.01.12-21.55.49:118][612]LogModuleManager: Shutting down and abandoning module LightMixer (701)
+[2023.01.12-21.55.49:118][612]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (699)
+[2023.01.12-21.55.49:118][612]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (697)
+[2023.01.12-21.55.49:118][612]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (695)
+[2023.01.12-21.55.49:118][612]LogModuleManager: Shutting down and abandoning module CollectionManager (694)
+[2023.01.12-21.55.49:119][612]LogModuleManager: Shutting down and abandoning module TemplateSequence (691)
+[2023.01.12-21.55.49:119][612]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (689)
+[2023.01.12-21.55.49:119][612]LogModuleManager: Shutting down and abandoning module SequencerScripting (687)
+[2023.01.12-21.55.49:119][612]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (685)
+[2023.01.12-21.55.49:119][612]LogModuleManager: Shutting down and abandoning module UVEditorTools (683)
+[2023.01.12-21.55.49:119][612]LogModuleManager: Shutting down and abandoning module UVEditor (681)
+[2023.01.12-21.55.49:119][612]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (679)
+[2023.01.12-21.55.49:119][612]LogOpenImageDenoise: OIDN shutting down
+[2023.01.12-21.55.49:119][612]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (677)
+[2023.01.12-21.55.49:119][612]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (675)
+[2023.01.12-21.55.49:120][612]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (673)
+[2023.01.12-21.55.49:120][612]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (671)
+[2023.01.12-21.55.49:120][612]LogModuleManager: Shutting down and abandoning module MeshLODToolset (669)
+[2023.01.12-21.55.49:121][612]LogModuleManager: Shutting down and abandoning module Iris (667)
+[2023.01.12-21.55.49:121][612]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (665)
+[2023.01.12-21.55.49:121][612]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (663)
+[2023.01.12-21.55.49:121][612]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (661)
+[2023.01.12-21.55.49:121][612]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (659)
+[2023.01.12-21.55.49:121][612]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (657)
+[2023.01.12-21.55.49:121][612]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (656)
+[2023.01.12-21.55.49:121][612]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (654)
+[2023.01.12-21.55.49:121][612]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (651)
+[2023.01.12-21.55.49:121][612]LogModuleManager: Shutting down and abandoning module DataflowNodes (649)
+[2023.01.12-21.55.49:121][612]LogModuleManager: Shutting down and abandoning module DataflowEditor (647)
+[2023.01.12-21.55.49:121][612]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (645)
+[2023.01.12-21.55.49:121][612]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (643)
+[2023.01.12-21.55.49:121][612]LogModuleManager: Shutting down and abandoning module ChaosNiagara (641)
+[2023.01.12-21.55.49:122][612]LogModuleManager: Shutting down and abandoning module FractureEditor (639)
+[2023.01.12-21.55.49:123][612]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (637)
+[2023.01.12-21.55.49:123][612]LogModuleManager: Shutting down and abandoning module BackChannel (635)
+[2023.01.12-21.55.49:123][612]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (633)
+[2023.01.12-21.55.49:123][612]LogModuleManager: Shutting down and abandoning module AutomationUtils (631)
+[2023.01.12-21.55.49:123][612]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (629)
+[2023.01.12-21.55.49:123][612]LogModuleManager: Shutting down and abandoning module TakeSequencer (627)
+[2023.01.12-21.55.49:123][612]LogModuleManager: Shutting down and abandoning module TakeMovieScene (625)
+[2023.01.12-21.55.49:123][612]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (623)
+[2023.01.12-21.55.49:125][612]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (621)
+[2023.01.12-21.55.49:125][612]LogModuleManager: Shutting down and abandoning module InterchangeTests (619)
+[2023.01.12-21.55.49:125][612]LogModuleManager: Shutting down and abandoning module ImgMedia (617)
+[2023.01.12-21.55.49:125][612]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (615)
+[2023.01.12-21.55.49:125][612]LogModuleManager: Shutting down and abandoning module MediaPlate (613)
+[2023.01.12-21.55.49:125][612]LogModuleManager: Shutting down and abandoning module MediaCompositing (611)
+[2023.01.12-21.55.49:125][612]LogModuleManager: Shutting down and abandoning module AlembicImporter (609)
+[2023.01.12-21.55.49:125][612]LogModuleManager: Shutting down and abandoning module AlembicLibrary (608)
+[2023.01.12-21.55.49:126][612]LogModuleManager: Shutting down and abandoning module PluginUtils (605)
+[2023.01.12-21.55.49:126][612]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (603)
+[2023.01.12-21.55.49:126][612]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (601)
+[2023.01.12-21.55.49:126][612]LogModuleManager: Shutting down and abandoning module UObjectPlugin (599)
+[2023.01.12-21.55.49:126][612]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (597)
+[2023.01.12-21.55.49:126][612]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (595)
+[2023.01.12-21.55.49:127][612]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (593)
+[2023.01.12-21.55.49:127][612]LogModuleManager: Shutting down and abandoning module GitSourceControl (591)
+[2023.01.12-21.55.49:128][612]LogModuleManager: Shutting down and abandoning module DumpGPUServices (589)
+[2023.01.12-21.55.49:128][612]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (587)
+[2023.01.12-21.55.49:128][612]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (585)
+[2023.01.12-21.55.49:128][612]LogModuleManager: Shutting down and abandoning module VariantManager (583)
+[2023.01.12-21.55.49:130][612]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (582)
+[2023.01.12-21.55.49:130][612]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (579)
+[2023.01.12-21.55.49:131][612]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (577)
+[2023.01.12-21.55.49:131][612]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (575)
+[2023.01.12-21.55.49:132][612]LogModuleManager: Shutting down and abandoning module ControlRigSpline (573)
+[2023.01.12-21.55.49:132][612]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (571)
+[2023.01.12-21.55.49:132][612]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (569)
+[2023.01.12-21.55.49:132][612]LogModuleManager: Shutting down and abandoning module SynthesisEditor (567)
+[2023.01.12-21.55.49:132][612]LogModuleManager: Shutting down and abandoning module ResonanceAudio (565)
+[2023.01.12-21.55.49:132][612]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (563)
+[2023.01.12-21.55.49:132][612]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (561)
+[2023.01.12-21.55.49:132][612]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (559)
+[2023.01.12-21.55.49:132][612]LogModuleManager: Shutting down and abandoning module ModelingOperators (557)
+[2023.01.12-21.55.49:132][612]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (555)
+[2023.01.12-21.55.49:132][612]LogModuleManager: Shutting down and abandoning module ModelingComponents (553)
+[2023.01.12-21.55.49:132][612]LogModuleManager: Shutting down and abandoning module GeometryFramework (552)
+[2023.01.12-21.55.49:133][612]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (549)
+[2023.01.12-21.55.49:133][612]LogModuleManager: Shutting down and abandoning module MeshModelingTools (547)
+[2023.01.12-21.55.49:133][612]LogModuleManager: Shutting down and abandoning module InputDebugging (545)
+[2023.01.12-21.55.49:133][612]LogModuleManager: Shutting down and abandoning module GooglePAD (543)
+[2023.01.12-21.55.49:133][612]LogModuleManager: Shutting down and abandoning module DynamicMesh (541)
+[2023.01.12-21.55.49:133][612]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (539)
+[2023.01.12-21.55.49:133][612]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (537)
+[2023.01.12-21.55.49:134][612]LogModuleManager: Shutting down and abandoning module GeometryCache (535)
+[2023.01.12-21.55.49:134][612]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (533)
+[2023.01.12-21.55.49:134][612]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (531)
+[2023.01.12-21.55.49:134][612]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (529)
+[2023.01.12-21.55.49:134][612]LogModuleManager: Shutting down and abandoning module AudioCapture (527)
+[2023.01.12-21.55.49:134][612]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (526)
+[2023.01.12-21.55.49:134][612]LogModuleManager: Shutting down and abandoning module AssetTags (523)
+[2023.01.12-21.55.49:134][612]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (521)
+[2023.01.12-21.55.49:134][612]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (519)
+[2023.01.12-21.55.49:134][612]LogModuleManager: Shutting down and abandoning module AppleImageUtils (517)
+[2023.01.12-21.55.49:134][612]LogModuleManager: Shutting down and abandoning module AndroidPermission (515)
+[2023.01.12-21.55.49:134][612]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (513)
+[2023.01.12-21.55.49:134][612]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (511)
+[2023.01.12-21.55.49:134][612]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (507)
+[2023.01.12-21.55.49:136][612]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (505)
+[2023.01.12-21.55.49:137][612]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (503)
+[2023.01.12-21.55.49:137][612]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (501)
+[2023.01.12-21.55.49:137][612]LogModuleManager: Shutting down and abandoning module InterchangePipelines (499)
+[2023.01.12-21.55.49:137][612]LogModuleManager: Shutting down and abandoning module InterchangeExport (497)
+[2023.01.12-21.55.49:137][612]LogModuleManager: Shutting down and abandoning module InterchangeMessages (495)
+[2023.01.12-21.55.49:137][612]LogModuleManager: Shutting down and abandoning module InterchangeImport (493)
+[2023.01.12-21.55.49:137][612]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (491)
+[2023.01.12-21.55.49:137][612]LogModuleManager: Shutting down and abandoning module InterchangeNodes (489)
+[2023.01.12-21.55.49:137][612]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (487)
+[2023.01.12-21.55.49:137][612]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (485)
+[2023.01.12-21.55.49:138][612]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (483)
+[2023.01.12-21.55.49:138][612]LogModuleManager: Shutting down and abandoning module InterchangeEditor (481)
+[2023.01.12-21.55.49:138][612]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (479)
+[2023.01.12-21.55.49:138][612]LogModuleManager: Shutting down and abandoning module StylusInput (477)
+[2023.01.12-21.55.49:138][612]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (475)
+[2023.01.12-21.55.49:138][612]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (473)
+[2023.01.12-21.55.49:138][612]LogModuleManager: Shutting down and abandoning module PluginBrowser (471)
+[2023.01.12-21.55.49:139][612]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (469)
+[2023.01.12-21.55.49:140][612]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (467)
+[2023.01.12-21.55.49:140][612]LogModuleManager: Shutting down and abandoning module GLTFImporter (465)
+[2023.01.12-21.55.49:140][612]LogModuleManager: Shutting down and abandoning module GLTFCore (463)
+[2023.01.12-21.55.49:140][612]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (461)
+[2023.01.12-21.55.49:140][612]LogModuleManager: Shutting down and abandoning module EditorDebugTools (459)
+[2023.01.12-21.55.49:141][612]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (457)
+[2023.01.12-21.55.49:141][612]LogModuleManager: Shutting down and abandoning module CryptoKeys (455)
+[2023.01.12-21.55.49:141][612]LogModuleManager: Shutting down and abandoning module CurveEditorTools (453)
+[2023.01.12-21.55.49:141][612]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (451)
+[2023.01.12-21.55.49:141][612]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (449)
+[2023.01.12-21.55.49:141][612]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (447)
+[2023.01.12-21.55.49:142][612]LogModuleManager: Shutting down and abandoning module Paper2DEditor (445)
+[2023.01.12-21.55.49:142][612]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (443)
+[2023.01.12-21.55.49:142][612]LogModuleManager: Shutting down and abandoning module TraceUtilities (441)
+[2023.01.12-21.55.49:142][612]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (439)
+[2023.01.12-21.55.49:143][612]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (437)
+[2023.01.12-21.55.49:143][612]LogModuleManager: Shutting down and abandoning module InputEditor (435)
+[2023.01.12-21.55.49:143][612]LogModuleManager: Shutting down and abandoning module MusicalAI (433)
+[2023.01.12-21.55.49:143][612]LogModuleManager: Shutting down and abandoning module AnimGraph (432)
+[2023.01.12-21.55.49:143][612]LogModuleManager: Shutting down and abandoning module ActorSequence (429)
+[2023.01.12-21.55.49:143][612]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (427)
+[2023.01.12-21.55.49:146][612]LogModuleManager: Shutting down and abandoning module PBIK (425)
+[2023.01.12-21.55.49:146][612]LogModuleManager: Shutting down and abandoning module FullBodyIK (423)
+[2023.01.12-21.55.49:146][612]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (421)
+[2023.01.12-21.55.49:146][612]LogModuleManager: Shutting down and abandoning module TakeRecorder (420)
+[2023.01.12-21.55.49:147][612]LogModuleManager: Shutting down and abandoning module ChaosCaching (417)
+[2023.01.12-21.55.49:147][612]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (415)
+[2023.01.12-21.55.49:148][612]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (413)
+[2023.01.12-21.55.49:148][612]LogModuleManager: Shutting down and abandoning module Niagara (411)
+[2023.01.12-21.55.49:148][612]LogModuleManager: Shutting down and abandoning module NiagaraEditor (410)
+[2023.01.12-21.55.49:150][612]LogModuleManager: Shutting down and abandoning module NiagaraCore (407)
+[2023.01.12-21.55.49:150][612]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (405)
+[2023.01.12-21.55.49:150][612]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (403)
+[2023.01.12-21.55.49:151][612]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (401)
+[2023.01.12-21.55.49:151][612]LogModuleManager: Shutting down and abandoning module AnimationSharing (399)
+[2023.01.12-21.55.49:151][612]LogModuleManager: Shutting down and abandoning module UdpMessaging (397)
+[2023.01.12-21.55.49:252][612]LogModuleManager: Shutting down and abandoning module TcpMessaging (395)
+[2023.01.12-21.55.49:352][612]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (393)
+[2023.01.12-21.55.49:352][612]LogModuleManager: Shutting down and abandoning module IKRig (391)
+[2023.01.12-21.55.49:352][612]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (389)
+[2023.01.12-21.55.49:352][612]LogModuleManager: Shutting down and abandoning module ControlRig (387)
+[2023.01.12-21.55.49:352][612]LogModuleManager: Shutting down and abandoning module LevelSequence (386)
+[2023.01.12-21.55.49:352][612]LogModuleManager: Shutting down and abandoning module Synthesis (383)
+[2023.01.12-21.55.49:352][612]LogModuleManager: Shutting down and abandoning module SoundFields (381)
+[2023.01.12-21.55.49:352][612]LogModuleManager: Shutting down and abandoning module SignificanceManager (379)
+[2023.01.12-21.55.49:352][612]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (377)
+[2023.01.12-21.55.49:352][612]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (375)
+[2023.01.12-21.55.49:353][612]LogModuleManager: Shutting down and abandoning module MetasoundEditor (373)
+[2023.01.12-21.55.49:354][612]LogModuleManager: Shutting down and abandoning module AudioWidgets (372)
+[2023.01.12-21.55.49:354][612]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (371)
+[2023.01.12-21.55.49:355][612]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (367)
+[2023.01.12-21.55.49:355][612]LogModuleManager: Shutting down and abandoning module MetasoundEngine (365)
+[2023.01.12-21.55.49:355][612]LogModuleManager: Shutting down and abandoning module WaveTable (364)
+[2023.01.12-21.55.49:355][612]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (362)
+[2023.01.12-21.55.49:355][612]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (359)
+[2023.01.12-21.55.49:356][612]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (357)
+[2023.01.12-21.55.49:358][612]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (355)
+[2023.01.12-21.55.49:358][612]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (353)
+[2023.01.12-21.55.49:358][612]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (351)
+[2023.01.12-21.55.49:358][612]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (349)
+[2023.01.12-21.55.49:358][612]LogModuleManager: Shutting down and abandoning module CableComponent (347)
+[2023.01.12-21.55.49:358][612]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (345)
+[2023.01.12-21.55.49:358][612]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (344)
+[2023.01.12-21.55.49:358][612]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (341)
+[2023.01.12-21.55.49:358][612]LogModuleManager: Shutting down and abandoning module SignalProcessing (340)
+[2023.01.12-21.55.49:358][612]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (337)
+[2023.01.12-21.55.49:358][612]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (335)
+[2023.01.12-21.55.49:358][612]LogModuleManager: Shutting down and abandoning module FacialAnimation (333)
+[2023.01.12-21.55.49:358][612]LogModuleManager: Shutting down and abandoning module DataValidation (331)
+[2023.01.12-21.55.49:358][612]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (329)
+[2023.01.12-21.55.49:359][612]LogModuleManager: Shutting down and abandoning module LevelEditor (328)
+[2023.01.12-21.55.49:363][612]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (327)
+[2023.01.12-21.55.49:363][612]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (325)
+[2023.01.12-21.55.49:363][612]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (323)
+[2023.01.12-21.55.49:364][612]LogModuleManager: Shutting down and abandoning module MainFrame (321)
+[2023.01.12-21.55.49:365][612]LogModuleManager: Shutting down and abandoning module HotReload (320)
+[2023.01.12-21.55.49:365][612]LogModuleManager: Shutting down and abandoning module ContentBrowser (316)
+[2023.01.12-21.55.49:365][612]LogModuleManager: Shutting down and abandoning module ToolMenus (315)
+[2023.01.12-21.55.49:365][612]LogModuleManager: Shutting down and abandoning module ContentBrowserData (313)
+[2023.01.12-21.55.49:365][612]LogModuleManager: Shutting down and abandoning module TreeMap (310)
+[2023.01.12-21.55.49:365][612]LogModuleManager: Shutting down and abandoning module GameplayCameras (307)
+[2023.01.12-21.55.49:366][612]LogModuleManager: Shutting down and abandoning module Paper2D (305)
+[2023.01.12-21.55.49:366][612]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (303)
+[2023.01.12-21.55.49:366][612]LogModuleManager: Shutting down and abandoning module EnhancedInput (301)
+[2023.01.12-21.55.49:366][612]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (299)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (297)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module AndroidFileServer (295)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (293)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module PacketHandler (291)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module TimeManagement (289)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module AnimationDataController (287)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (285)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (283)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module MediaAssets (281)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module Overlay (279)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module OverlayEditor (278)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module VREditor (275)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module StringTableEditor (273)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (271)
+[2023.01.12-21.55.49:367][612]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (269)
+[2023.01.12-21.55.49:368][612]LogModuleManager: Shutting down and abandoning module FunctionalTesting (267)
+[2023.01.12-21.55.49:368][612]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (265)
+[2023.01.12-21.55.49:369][612]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (264)
+[2023.01.12-21.55.49:370][612]LogModuleManager: Shutting down and abandoning module UMG (261)
+[2023.01.12-21.55.49:370][612]LogModuleManager: Shutting down and abandoning module UMGEditor (260)
+[2023.01.12-21.55.49:372][612]LogModuleManager: Shutting down and abandoning module EditorStyle (255)
+[2023.01.12-21.55.49:372][612]LogModuleManager: Shutting down and abandoning module SlateReflector (253)
+[2023.01.12-21.55.49:374][612]LogModuleManager: Shutting down and abandoning module Slate (251)
+[2023.01.12-21.55.49:374][612]LogModuleManager: Shutting down and abandoning module SlateCore (249)
+[2023.01.12-21.55.49:375][612]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (247)
+[2023.01.12-21.55.49:375][612]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (245)
+[2023.01.12-21.55.49:375][612]LogModuleManager: Shutting down and abandoning module UnrealEd (243)
+[2023.01.12-21.55.49:375][612]LogModuleManager: Shutting down and abandoning module MRMesh (241)
+[2023.01.12-21.55.49:375][612]LogModuleManager: Shutting down and abandoning module Messaging (239)
+[2023.01.12-21.55.49:375][612]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (237)
+[2023.01.12-21.55.49:375][612]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (235)
+[2023.01.12-21.55.49:376][612]LogModuleManager: Shutting down and abandoning module Networking (233)
+[2023.01.12-21.55.49:376][612]LogModuleManager: Shutting down and abandoning module Core (231)
+[2023.01.12-21.55.49:376][612]LogModuleManager: Shutting down and abandoning module MaterialEditor (229)
+[2023.01.12-21.55.49:377][612]LogModuleManager: Shutting down and abandoning module MovieSceneTools (227)
+[2023.01.12-21.55.49:378][612]LogModuleManager: Shutting down and abandoning module CurveEditor (226)
+[2023.01.12-21.55.49:379][612]LogModuleManager: Shutting down and abandoning module Sequencer (224)
+[2023.01.12-21.55.49:380][612]LogModuleManager: Shutting down and abandoning module KismetCompiler (221)
+[2023.01.12-21.55.49:380][612]LogModuleManager: Shutting down and abandoning module MeshBuilder (219)
+[2023.01.12-21.55.49:380][612]LogModuleManager: Shutting down and abandoning module NaniteBuilder (217)
+[2023.01.12-21.55.49:381][612]LogModuleManager: Shutting down and abandoning module MeshUtilities (215)
+[2023.01.12-21.55.49:381][612]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (214)
+[2023.01.12-21.55.49:381][612]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (213)
+[2023.01.12-21.55.49:381][612]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (212)
+[2023.01.12-21.55.49:381][612]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (210)
+[2023.01.12-21.55.49:382][612]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (208)
+[2023.01.12-21.55.49:384][612]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (206)
+[2023.01.12-21.55.49:384][612]LogModuleManager: Shutting down and abandoning module MaterialBaking (202)
+[2023.01.12-21.55.49:385][612]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (199)
+[2023.01.12-21.55.49:396][612]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (195)
+[2023.01.12-21.55.49:396][612]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2023.01.12-21.55.49:405][612]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2023.01.12-21.55.49:406][612]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2023.01.12-21.55.49:406][612]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2023.01.12-21.55.49:406][612]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2023.01.12-21.55.49:408][612]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2023.01.12-21.55.49:408][612]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2023.01.12-21.55.49:408][612]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (180)
+[2023.01.12-21.55.49:408][612]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (178)
+[2023.01.12-21.55.49:408][612]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2023.01.12-21.55.49:408][612]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (174)
+[2023.01.12-21.55.49:408][612]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.01.12-21.55.49:409][612]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2023.01.12-21.55.49:409][612]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2023.01.12-21.55.49:409][612]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2023.01.12-21.55.49:409][612]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2023.01.12-21.55.49:409][612]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2023.01.12-21.55.49:410][612]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2023.01.12-21.55.49:410][612]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2023.01.12-21.55.49:410][612]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2023.01.12-21.55.49:410][612]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2023.01.12-21.55.49:412][612]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2023.01.12-21.55.49:412][612]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2023.01.12-21.55.49:413][612]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.01.12-21.55.49:413][612]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.01.12-21.55.49:413][612]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2023.01.12-21.55.49:413][612]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2023.01.12-21.55.49:413][612]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.01.12-21.55.49:413][612]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.01.12-21.55.49:413][612]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.01.12-21.55.49:414][612]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2023.01.12-21.55.49:415][612]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2023.01.12-21.55.49:415][612]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.01.12-21.55.49:415][612]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2023.01.12-21.55.49:415][612]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2023.01.12-21.55.49:415][612]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2023.01.12-21.55.49:415][612]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2023.01.12-21.55.49:415][612]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2023.01.12-21.55.49:415][612]LogModuleManager: Shutting down and abandoning module ChaosCloth (112)
+[2023.01.12-21.55.49:415][612]LogModuleManager: Shutting down and abandoning module AISupportModule (110)
+[2023.01.12-21.55.49:415][612]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (108)
+[2023.01.12-21.55.49:415][612]LogModuleManager: Shutting down and abandoning module NiagaraShader (106)
+[2023.01.12-21.55.49:416][612]LogModuleManager: Shutting down and abandoning module WmfMedia (104)
+[2023.01.12-21.55.49:421][612]LogModuleManager: Shutting down and abandoning module Media (103)
+[2023.01.12-21.55.49:423][612]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (100)
+[2023.01.12-21.55.49:423][612]LogModuleManager: Shutting down and abandoning module PixWinPlugin (98)
+[2023.01.12-21.55.49:423][612]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (96)
+[2023.01.12-21.55.49:423][612]LogModuleManager: Shutting down and abandoning module VariantManagerContent (94)
+[2023.01.12-21.55.49:423][612]LogModuleManager: Shutting down and abandoning module GLTFExporter (92)
+[2023.01.12-21.55.49:423][612]LogModuleManager: Shutting down and abandoning module DatasmithContent (90)
+[2023.01.12-21.55.49:423][612]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (88)
+[2023.01.12-21.55.49:423][612]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (86)
+[2023.01.12-21.55.49:423][612]LogModuleManager: Shutting down and abandoning module ChunkDownloader (84)
+[2023.01.12-21.55.49:424][612]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (82)
+[2023.01.12-21.55.49:424][612]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (80)
+[2023.01.12-21.55.49:424][612]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (78)
+[2023.01.12-21.55.49:428][612]LogModuleManager: Shutting down and abandoning module XMPP (73)
+[2023.01.12-21.55.49:428][612]LogModuleManager: Shutting down and abandoning module WebSockets (72)
+[2023.01.12-21.55.49:463][612]LogModuleManager: Shutting down and abandoning module HTTP (69)
+[2023.01.12-21.55.49:464][612]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.01.12-21.55.49:465][612]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B74A8F483-424E-BB27-45B9-6DBEBB20D723%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=98818e7749e9dbdd00d29d802564e689%7C8a40f9eda75b41b1be119b685872dd2e%7C4630ceec-1158-4c8a-b444-0e56c77f7958&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.01.12-21.55.49:487][612]LogModuleManager: Shutting down and abandoning module SSL (68)
+[2023.01.12-21.55.49:493][612]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (64)
+[2023.01.12-21.55.49:493][612]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (62)
+[2023.01.12-21.55.49:494][612]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (60)
+[2023.01.12-21.55.49:494][612]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.01.12-21.55.49:494][612]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2023.01.12-21.55.49:494][612]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2023.01.12-21.55.49:495][612]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2023.01.12-21.55.49:495][612]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2023.01.12-21.55.49:495][612]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2023.01.12-21.55.49:496][612]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2023.01.12-21.55.49:496][612]LogModuleManager: Shutting down and abandoning module FastBuildController (44)
+[2023.01.12-21.55.49:496][612]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2023.01.12-21.55.49:497][612]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.01.12-21.55.49:497][612]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.01.12-21.55.49:499][612]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.01.12-21.55.49:500][612]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.01.12-21.55.49:500][612]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.01.12-21.55.49:501][612]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.01.12-21.55.49:501][612]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.01.12-21.55.49:501][612]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.01.12-21.55.49:501][612]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.01.12-21.55.49:503][612]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.01.12-21.55.49:503][612]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.01.12-21.55.49:504][612]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.01.12-21.55.49:504][612]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.01.12-21.55.49:504][612]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.01.12-21.55.49:504][612]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.01.12-21.55.49:505][612]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.01.12-21.55.49:505][612]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.01.12-21.55.49:505][612]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.01.12-21.55.49:505][612]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.01.12-21.55.49:505][612]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.01.12-21.55.49:760][612]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.01.12-21.55.49:778][612]LogExit: Exiting.
+[2023.01.12-21.55.49:806][612]Log file closed, 01/12/23 13:55:49
