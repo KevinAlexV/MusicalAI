@@ -53,6 +53,10 @@ Plugins/Developer/RiderLink/Binaries
 Plugins/Developer/RiderLink/Intermediate
 Plugins/Developer/RiderLink/*
 
+#Log files
+*/Saved/Crashes/*
+*/Saved/Logs/*
+
 # Builds
 Build/*
 
