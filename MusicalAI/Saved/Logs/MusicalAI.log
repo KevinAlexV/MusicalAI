@@ -1740,3 +1740,80 @@ Please see Output Log for details.
 [2023.01.21-10.06.30:494][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 9.41 sec)
 [2023.01.21-10.06.30:499][338]AssetCheck: New page: Asset Save: MusicAnalyzer
 [2023.01.21-10.06.30:499][338]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Audio/MusicAnalyzer.MusicAnalyzer
+[2023.01.21-10.10.50:427][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.21-10.10.50:429][833]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.044
+[2023.01.21-10.20.50:790][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.01.21-10.20.50:791][694]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2023.01.21-10.30.51:251][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.01.21-10.30.51:252][495]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2023.01.21-10.40.51:706][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.21-10.40.51:706][296]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.031
+[2023.01.21-10.54.45:493][579]LogEditorTransaction: Undo Delete current selection
+[2023.01.21-10.55.19:063][362]LogEditorTransaction: Undo Create Reroute Node
+[2023.01.21-10.55.20:086][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.21-10.55.20:133][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MusicAnalyzer" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/MusicAnalyzer.uasset" SILENT=true
+[2023.01.21-10.55.20:138][430]LogSavePackage: Moving output files for package: /Game/Audio/MusicAnalyzer
+[2023.01.21-10.55.20:138][430]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MusicAnalyzer92DE6CC644A94E2F81475A8D3BD54D1B.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/MusicAnalyzer.uasset'
+[2023.01.21-10.55.20:146][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 9.47 sec)
+[2023.01.21-10.55.20:153][430]AssetCheck: New page: Asset Save: MusicAnalyzer
+[2023.01.21-10.55.20:153][430]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Audio/MusicAnalyzer.MusicAnalyzer
+[2023.01.21-10.55.21:035][532]BlueprintLog: New page: Compile MusicAnalyzer
+[2023.01.21-10.55.21:088][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.01.21-10.55.21:764][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.21-10.55.21:818][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MusicAnalyzer" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/MusicAnalyzer.uasset" SILENT=true
+[2023.01.21-10.55.21:823][603]LogSavePackage: Moving output files for package: /Game/Audio/MusicAnalyzer
+[2023.01.21-10.55.21:823][603]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MusicAnalyzerE35B15C2446DD61BA129FD9C0C7C21E0.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/MusicAnalyzer.uasset'
+[2023.01.21-10.55.21:830][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 9.54 sec)
+[2023.01.21-10.55.21:835][603]AssetCheck: New page: Asset Save: MusicAnalyzer
+[2023.01.21-10.55.21:835][603]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Audio/MusicAnalyzer.MusicAnalyzer
+[2023.01.21-10.56.04:473][688]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.109 and deleted 0 files with total size 0 MiB. Scanned 1449 files in 1448 folders with total size 211 MiB.
+[2023.01.21-10.56.30:800][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.01.21-10.56.30:801][623]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2023.01.21-10.56.30:802][623]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MusicAnalyzer] ([2] browsable assets)...
+[2023.01.21-10.56.30:802][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MusicAnalyzer]
+[2023.01.21-10.56.30:802][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MusicAnalyzer" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Saved/Autosaves/Game/Audio/MusicAnalyzer_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.01.21-10.56.30:806][623]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/MusicAnalyzer_Auto1
+[2023.01.21-10.56.30:806][623]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MusicAnalyzer_Auto1E07E4A9F474849E2E0FA2BBC0A48E4AB.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/Autosaves/Game/Audio/MusicAnalyzer_Auto1.uasset'
+[2023.01.21-10.56.30:806][623]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.01.21-11.06.31:046][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.01.21-11.06.31:047][949]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.037
+[2023.01.21-11.16.31:527][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.01.21-11.16.31:528][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.042
+[2023.01.21-11.26.32:053][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.01.21-11.26.32:054][551]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.041
+[2023.01.21-11.35.01:912][665]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.01.21-11.35.06:151][129]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.01.21-11.35.22:940][ 67]BlueprintLog: New page: Compile MusicAnalyzer
+[2023.01.21-11.35.22:943][ 67]LogBlueprint: Warning: [AssetLog] F:\Workspace\Github\MusicalAI\MusicalAI\Content\Audio\MusicAnalyzer.uasset: [Compiler] Can't parse default value 'None' for  . Property: Duration.
+[2023.01.21-11.35.22:997][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.01.21-11.35.40:557][ 50]BlueprintLog: New page: Compile MusicAnalyzer
+[2023.01.21-11.35.40:610][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.01.21-11.35.41:663][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.21-11.35.41:722][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MusicAnalyzer" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/MusicAnalyzer.uasset" SILENT=true
+[2023.01.21-11.35.41:727][164]LogSavePackage: Moving output files for package: /Game/Audio/MusicAnalyzer
+[2023.01.21-11.35.41:727][164]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MusicAnalyzer0DFD00F2470C873495BF9C8B6E523262.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/MusicAnalyzer.uasset'
+[2023.01.21-11.35.41:734][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 9.61 sec)
+[2023.01.21-11.35.41:739][164]AssetCheck: New page: Asset Save: MusicAnalyzer
+[2023.01.21-11.35.41:740][164]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Audio/MusicAnalyzer.MusicAnalyzer
+[2023.01.21-11.36.03:506][604]LogEditorTransaction: Undo Add Node
+[2023.01.21-11.36.16:661][ 35]LogEditorTransaction: Undo Rename Node
+[2023.01.21-11.37.51:446][999]BlueprintLog: New page: Compile MusicAnalyzer
+[2023.01.21-11.37.51:502][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.01.21-11.37.52:202][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.21-11.37.52:253][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MusicAnalyzer" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/MusicAnalyzer.uasset" SILENT=true
+[2023.01.21-11.37.52:259][ 71]LogSavePackage: Moving output files for package: /Game/Audio/MusicAnalyzer
+[2023.01.21-11.37.52:259][ 71]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MusicAnalyzerEA006E4B4B16D45EA9715DB86348F6C8.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/MusicAnalyzer.uasset'
+[2023.01.21-11.37.52:267][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 9.68 sec)
+[2023.01.21-11.37.52:271][ 71]AssetCheck: New page: Asset Save: MusicAnalyzer
+[2023.01.21-11.37.52:271][ 71]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Audio/MusicAnalyzer.MusicAnalyzer
+[2023.01.21-11.37.59:575][932]BlueprintLog: New page: Compile MusicAnalyzer
+[2023.01.21-11.37.59:627][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.01.21-11.38.00:205][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.21-11.38.00:253][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MusicAnalyzer" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/MusicAnalyzer.uasset" SILENT=true
+[2023.01.21-11.38.00:259][996]LogSavePackage: Moving output files for package: /Game/Audio/MusicAnalyzer
+[2023.01.21-11.38.00:259][996]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MusicAnalyzerF88AAA49411075149E087DA1238C2CE9.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/MusicAnalyzer.uasset'
+[2023.01.21-11.38.00:266][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 9.74 sec)
+[2023.01.21-11.38.00:271][996]AssetCheck: New page: Asset Save: MusicAnalyzer
+[2023.01.21-11.38.00:271][996]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Audio/MusicAnalyzer.MusicAnalyzer
+[2023.01.21-11.38.41:954][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.01.21-11.38.41:956][217]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.036
