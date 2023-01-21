@@ -22,9 +22,25 @@
 				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/93/B41QBNGL9FFMOLLSIXH7GA.uasset",
 				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/StarterContent/Audio/Collapse01.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/ConstantAudioSynesthesiaNRTSettings.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/OnsetAudioSynesthesiaNRT.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/LoudnessAudioSynesthesiaNRT.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/ConstantAudioSynesthesiaNRT.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/OnsetAudioSynesthesiaNRTSettings.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/LoudnessAudioSynesthesiaNRTSettings.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HJ/XGJUZ2HBKWSKY6Z6VJKSL8.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/Music/UNTITLED_INSTRUMENTAL_NO__4.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/Music/Acolytes_of_the_New_God.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/Music/Radiation_Storm.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/Music/Secunda__Skyrim_.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/Music/Sexualizer.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/Music/The_Hunting.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/PI/BVR7FMZ2X979T4CDIWZ5X7.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/MusicAnalyzer.uasset",
 				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Blueprints/AudioSynesthesiaNRT.uasset",
 				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Blueprints/LoudnessAudioSynesthesiaNRT.uasset",
-				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Blueprints/LoudnessAudioSynesthesiaNRTSettings.uasset"
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Blueprints/LoudnessAudioSynesthesiaNRTSettings.uasset",
+				"F:/Workspace/Github/MusicalAI/MusicalAI/Content/Audio/AudioAnalyzer.uasset"
 			]
 		}
 	]
