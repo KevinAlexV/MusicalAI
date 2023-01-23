@@ -3,6 +3,7 @@
 #include "MusicalAIGameMode.h"
 #include "MusicalAICharacter.h"
 #include "UObject/ConstructorHelpers.h"
+#include "Sound/SoundBase.h"
 
 AMusicalAIGameMode::AMusicalAIGameMode()
 {
