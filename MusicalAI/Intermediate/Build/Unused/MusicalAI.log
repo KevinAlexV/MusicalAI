@@ -1,0 +1,6 @@
+﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" MusicalAIEditor Win64 Development -Project="F:\Workspace\Github\MusicalAI\MusicalAI\MusicalAI.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\Kevin\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (F:\Workspace\Github\MusicalAI).
+  Waiting for 'git status' command to complete
+  Unable to build while Live Coding is active. Exit the editor and game, or press Ctrl+Alt+F11 if iterating on code in the editor or game
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command "D:\[Misc]\UE_5.1\Engine\Build\BatchFiles\Build.bat MusicalAIEditor Win64 Development -Project="F:\Workspace\Github\MusicalAI\MusicalAI\MusicalAI.uproject" -WaitMutex -FromMsBuild" exited with code 6.
