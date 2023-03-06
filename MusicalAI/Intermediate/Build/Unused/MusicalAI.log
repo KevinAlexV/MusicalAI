@@ -3,12 +3,6 @@
   Using 'git status' to determine working set for adaptive non-unity build (F:\Workspace\Github\MusicalAI).
   Waiting for 'git status' command to complete
   Terminating git child process due to timeout
-  Building MusicalAIEditor...
-  Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Determining max actions to execute in parallel (4 physical cores, 8 logical cores)
-    Executing up to 4 processes, one per physical core
-  Building 2 actions with 2 processes...
-  [1/2] WriteMetadata MusicalAIEditor.target cancelled
-  [2/2] Link UnrealEditor-MusicalAI.dll
-LINK : fatal error LNK1104: cannot open file 'F:\Workspace\Github\MusicalAI\MusicalAI\Binaries\Win64\UnrealEditor-MusicalAI.dll'
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command "D:\[Misc]\UE_5.1\Engine\Build\BatchFiles\Build.bat MusicalAIEditor Win64 Development -Project="F:\Workspace\Github\MusicalAI\MusicalAI\MusicalAI.uproject" -WaitMutex -FromMsBuild" exited with code 6.
+  Invalidating makefile for MusicalAIEditor (working set of source files changed)
+  Target is up to date
+  Total execution time: 18.33 seconds

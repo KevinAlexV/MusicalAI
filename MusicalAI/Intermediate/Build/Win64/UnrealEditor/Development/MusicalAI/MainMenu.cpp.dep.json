@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\workspace\\github\\musicalai\\musicalai\\source\\musicalai\\private\\mainmenu.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\workspace\\github\\musicalai\\musicalai\\intermediate\\build\\win64\\musicalaieditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\workspace\\github\\musicalai\\musicalai\\intermediate\\build\\win64\\unrealeditor\\development\\musicalai\\definitions.musicalai.h",
+            "f:\\workspace\\github\\musicalai\\musicalai\\source\\musicalai\\public\\mainmenu.h",
+            "d:\\[misc]\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\[misc]\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\[misc]\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\[misc]\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "f:\\workspace\\github\\musicalai\\musicalai\\intermediate\\build\\win64\\unrealeditor\\inc\\musicalai\\uht\\mainmenu.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

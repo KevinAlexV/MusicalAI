@@ -35,7 +35,7 @@ bool JoyFileIO_GetFiles(TArray<FString>& Files, FString RootFolderFullPath, FStr
 AMusicalAIGameMode::AMusicalAIGameMode()
 {
 	// set default pawn class to our Blueprinted character
-	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/ThirdPerson/Blueprints/BP_ThirdPersonSprite"));
+	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter"));
 
 	/*if(FPaths::FileExists("F:\\Workspace\\Github\\MusicalAI\\MusicalAI\\Content\\ThirdPerson\\Blueprints"))
 	{
