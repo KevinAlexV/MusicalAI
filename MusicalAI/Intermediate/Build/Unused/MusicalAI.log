@@ -2,7 +2,5 @@
   Log file: C:\Users\Kevin\AppData\Local\UnrealBuildTool\Log.txt
   Using 'git status' to determine working set for adaptive non-unity build (F:\Workspace\Github\MusicalAI).
   Waiting for 'git status' command to complete
-  Terminating git child process due to timeout
-  Invalidating makefile for MusicalAIEditor (working set of source files changed)
   Target is up to date
-  Total execution time: 18.33 seconds
+  Total execution time: 8.86 seconds
