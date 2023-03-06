@@ -28787,3 +28787,11 @@ Script call stack:
 [2023.03.06-16.03.37:952][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.03.06-16.03.37:958][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
 [2023.03.06-16.03.38:000][319]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.03.06-16.05.41:565][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.03.06-16.05.43:021][641]LogSlate: Window 'Save Content' being destroyed
+[2023.03.06-16.05.43:030][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.06-16.05.43:090][641]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/2/N7/SU4M8ST3DOF8NDGJOOZ9VF
+[2023.03.06-16.05.43:091][641]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/SU4M8ST3DOF8NDGJOOZ9VF27A1E16D4B51BB4254ACAC8B37E56301.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/2/N7/SU4M8ST3DOF8NDGJOOZ9VF.uasset'
+[2023.03.06-16.05.43:099][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.29 sec)
+[2023.03.06-16.05.43:109][641]AssetCheck: New page: Asset Save: BP_NPC_C_UAID_309C234598BF396201_1408002679
+[2023.03.06-16.05.43:109][641]LogContentValidation: Display: Validating /Game/Characters/AI/BP_NPC.BP_NPC_C /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_309C234598BF396201_1408002679
