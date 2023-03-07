@@ -18665,3 +18665,1969 @@ Script call stack:
 [2023.03.07-08.34.41:564][137]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2023.03.07-08.34.41:564][137]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
 [2023.03.07-08.34.41:564][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-08.36.12:463][632]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.07-08.36.12:463][632]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-08.36.12:463][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-08.36.44:517][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.07-08.36.44:581][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/AI_SpawnPoint" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/Characters/AI/AI_SpawnPoint.uasset" SILENT=true
+[2023.03.07-08.36.44:588][390]LogSavePackage: Moving output files for package: /Game/Characters/AI/AI_SpawnPoint
+[2023.03.07-08.36.44:589][390]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/AI_SpawnPoint859E709347EF7DA2D2EB539EC0B33E46.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/Characters/AI/AI_SpawnPoint.uasset'
+[2023.03.07-08.36.44:601][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1:25 min)
+[2023.03.07-08.36.44:614][390]AssetCheck: New page: Asset Save: AI_SpawnPoint
+[2023.03.07-08.36.44:614][390]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/AI/AI_SpawnPoint.AI_SpawnPoint
+[2023.03.07-08.36.56:132][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.07-08.36.56:193][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/AI_SpawnPoint" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/Characters/AI/AI_SpawnPoint.uasset" SILENT=true
+[2023.03.07-08.36.56:202][729]LogSavePackage: Moving output files for package: /Game/Characters/AI/AI_SpawnPoint
+[2023.03.07-08.36.56:202][729]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/AI_SpawnPointCF8C676441E89F2DCFD10D8797864D58.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/Characters/AI/AI_SpawnPoint.uasset'
+[2023.03.07-08.36.56:213][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1:25 min)
+[2023.03.07-08.36.56:225][729]AssetCheck: New page: Asset Save: AI_SpawnPoint
+[2023.03.07-08.36.56:225][729]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/AI/AI_SpawnPoint.AI_SpawnPoint
+[2023.03.07-08.37.06:592][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.07-08.37.06:660][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/AI_SpawnPoint" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/Characters/AI/AI_SpawnPoint.uasset" SILENT=true
+[2023.03.07-08.37.06:667][937]LogSavePackage: Moving output files for package: /Game/Characters/AI/AI_SpawnPoint
+[2023.03.07-08.37.06:668][937]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/AI_SpawnPointE188C3924EE18D65E4F0C19706D85014.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/Characters/AI/AI_SpawnPoint.uasset'
+[2023.03.07-08.37.06:677][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1:25 min)
+[2023.03.07-08.37.06:688][937]AssetCheck: New page: Asset Save: AI_SpawnPoint
+[2023.03.07-08.37.06:688][937]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/AI/AI_SpawnPoint.AI_SpawnPoint
+[2023.03.07-08.38.14:375][933]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.07-08.38.14:383][933]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.03.07-08.38.14:387][933]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.07-08.38.14:387][933]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.07-08.38.14:387][933]LogWorldPartition: Display: GetPartitionedActors took 9 us (total: 254 us)
+[2023.03.07-08.38.14:397][933]LogWorldPartition: Display: GenerateStreaming took 10 ms (total: 153 ms)
+[2023.03.07-08.38.14:397][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.07-08.38.14:397][933]PIE: New page: PIE session: ThirdPersonMap (Mar. 6, 2023, 4:38:14 p.m.)
+[2023.03.07-08.38.14:397][933]LogPlayLevel: Creating play world package: /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.07-08.38.14:421][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023231s)
+[2023.03.07-08.38.14:421][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap to /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.023260s)
+[2023.03.07-08.38.14:421][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.07-08.38.14:421][933]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.03.07-08.38.14:422][933]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.07-08.38.14:422][933]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.07-08.38.14:422][933]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.07-08.38.14:428][933]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.03.07-08.38.14:428][933]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 853 ms)
+[2023.03.07-08.38.14:428][933]LogPlayLevel: PIE: World Init took: (0.007111s)
+[2023.03.07-08.38.14:576][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.03.07-08.38.14:597][933]LogBlueprintUserMessages: [MusicAI_GameInstance_C_18] Length of returned assets:39 | 39
+[2023.03.07-08.38.14:611][933]LogBlueprintUserMessages: [MusicAI_GameInstance_C_18] Sexualizer
+[2023.03.07-08.38.14:611][933]LogBlueprintUserMessages: [MusicAI_GameInstance_C_18] The_Hunting
+[2023.03.07-08.38.14:611][933]LogBlueprintUserMessages: [MusicAI_GameInstance_C_18] UNTITLED_INSTRUMENTAL_NO__4
+[2023.03.07-08.38.14:611][933]LogBlueprintUserMessages: [MusicAI_GameInstance_C_18] Unforeseen_Consequences
+[2023.03.07-08.38.14:611][933]LogBlueprintUserMessages: [MusicAI_GameInstance_C_18] The_Death_That_I_Deservioli
+[2023.03.07-08.38.14:611][933]LogBlueprintUserMessages: [MusicAI_GameInstance_C_18] Starter_Music01
+[2023.03.07-08.38.14:611][933]LogBlueprintUserMessages: [MusicAI_GameInstance_C_18] Secunda__Skyrim_
+[2023.03.07-08.38.14:611][933]LogBlueprintUserMessages: [MusicAI_GameInstance_C_18] Radiation_Storm
+[2023.03.07-08.38.14:611][933]LogBlueprintUserMessages: [MusicAI_GameInstance_C_18] Murder_-_Psycho__Bernard_Herrmann_
+[2023.03.07-08.38.14:611][933]LogBlueprintUserMessages: [MusicAI_GameInstance_C_18] Ketchup___Mustard_Color_Scheme
+[2023.03.07-08.38.14:611][933]LogBlueprintUserMessages: [MusicAI_GameInstance_C_18] Acolytes_of_the_New_God
+[2023.03.07-08.38.14:611][933]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.03.07-08.38.14:611][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.07-08.38.14:611][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.07-08.38.14:611][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.07-08.38.14:611][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.07-08.38.14:611][933]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.07-08.38.14:611][933]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.07-08.38.14:611][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.07-08.38.14:611][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.07-08.38.14:612][933]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.07-08.38.14:612][933]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.07-08.38.14:612][933]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.07-08.38.14:614][933]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.07-08.38.14:651][933]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Kitty Edition)
+[2023.03.07-08.38.14:651][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.07-08.38.14:651][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.07-08.38.14:651][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.07-08.38.14:652][933]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.03.07-08.38.14:652][933]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.03.07-08.38.14:653][933]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.03.07-08.38.14:653][933]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.03.07-08.38.14:653][933]LogInit: FAudioDevice initialized.
+[2023.03.07-08.38.14:653][933]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonMap'.
+[2023.03.07-08.38.14:708][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-08.38.14:708][933]LogLoad: Game class is 'MusicAnalyzer_C'
+[2023.03.07-08.38.14:723][933]LogWorld: Bringing World /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.03.07-00.38.14
+[2023.03.07-08.38.14:724][933]LogWorld: Bringing up level for play took: 0.015901
+[2023.03.07-08.38.14:733][933]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.07-08.38.14:733][933]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.07-08.38.14:743][933]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.03.07-08.38.14:745][933]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=460.000 Y=1204.000 Z=1256.013
+[2023.03.07-08.38.14:745][933]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.07-08.38.14:827][933]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Avg Loudness: 0.949683 | Avg High: -40.074264 | Avg Mid: -22.824775 | Avg Low: -26.024199
+[2023.03.07-08.38.14:827][933]LogBlueprintUserMessages: [MusicAnalyzer_C_0] IsAggressive: false | Amp Peak: 3 | Amp Silence: 1 | Beats: 18
+[2023.03.07-08.38.14:833][933]PIE: Server logged in
+[2023.03.07-08.38.14:835][933]PIE: Play in editor total start time 0.452 seconds.
+[2023.03.07-08.38.14:861][933]LogViewport: Scene viewport resized to 1127x770, mode Windowed.
+[2023.03.07-08.38.14:931][934]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.061692 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2023.03.07-08.38.14:933][934]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.216998
+[2023.03.07-08.38.15:113][935]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.216998
+[2023.03.07-08.38.15:196][936]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.46s
+[2023.03.07-08.38.15:197][936]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:1
+[2023.03.07-08.38.15:198][936]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 3515
+[2023.03.07-08.38.15:198][936]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:Quant Event
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:ExecuteUbergraph_MusicAnalyzer
+
+[2023.03.07-08.38.18:645][936]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SpawnEnemy', from offset 276
+[2023.03.07-08.38.18:645][936]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:Quant Event
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:ExecuteUbergraph_MusicAnalyzer
+
+[2023.03.07-08.38.31:074][936]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.742892
+[2023.03.07-08.38.31:088][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:2
+[2023.03.07-08.38.31:088][937]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 3515
+[2023.03.07-08.38.31:088][937]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:Quant Event
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:ExecuteUbergraph_MusicAnalyzer
+
+[2023.03.07-08.38.32:761][937]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SpawnEnemy', from offset 276
+[2023.03.07-08.38.32:761][937]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:Quant Event
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:ExecuteUbergraph_MusicAnalyzer
+
+[2023.03.07-08.38.38:718][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:3
+[2023.03.07-08.38.38:718][937]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 3515
+[2023.03.07-08.38.38:718][937]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:Quant Event
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:ExecuteUbergraph_MusicAnalyzer
+
+[2023.03.07-08.38.39:330][937]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SpawnEnemy', from offset 276
+[2023.03.07-08.38.39:330][937]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:Quant Event
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:ExecuteUbergraph_MusicAnalyzer
+
+[2023.03.07-08.38.42:209][937]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 458
+[2023.03.07-08.38.42:209][937]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:Quant Event
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:ExecuteUbergraph_MusicAnalyzer
+	Function /Game/Characters/AI/AI_SpawnPoint.AI_SpawnPoint_C:SpawnEnemy
+
+[2023.03.07-08.38.42:566][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:4
+[2023.03.07-08.38.42:566][937]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 3515
+[2023.03.07-08.38.42:566][937]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:Quant Event
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:ExecuteUbergraph_MusicAnalyzer
+
+[2023.03.07-08.38.45:403][937]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SpawnEnemy', from offset 276
+[2023.03.07-08.38.45:403][937]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:Quant Event
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:ExecuteUbergraph_MusicAnalyzer
+
+[2023.03.07-08.39.26:414][937]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 458
+[2023.03.07-08.39.26:414][937]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:Quant Event
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:ExecuteUbergraph_MusicAnalyzer
+	Function /Game/Characters/AI/AI_SpawnPoint.AI_SpawnPoint_C:SpawnEnemy
+
+[2023.03.07-08.39.33:882][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:1
+[2023.03.07-08.39.33:882][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:2
+[2023.03.07-08.39.33:882][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:3
+[2023.03.07-08.39.33:882][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:4
+[2023.03.07-08.39.33:887][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:1
+[2023.03.07-08.39.33:887][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:2
+[2023.03.07-08.39.33:892][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:3
+[2023.03.07-08.39.33:897][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:4
+[2023.03.07-08.39.33:897][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 4 Beat:1
+[2023.03.07-08.39.33:897][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 4 Beat:2
+[2023.03.07-08.39.33:897][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 4 Beat:3
+[2023.03.07-08.39.33:897][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 4 Beat:4
+[2023.03.07-08.39.33:903][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.321535
+[2023.03.07-08.39.33:903][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.321535
+[2023.03.07-08.39.33:925][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-08.39.33:925][937]LogWorld: BeginTearingDown for /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.07-08.39.33:925][937]LogSlate: Window 'MusicalAI Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.07-08.39.33:975][937]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-08.39.33:978][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-08.39.33:979][937]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.03.07-08.39.33:999][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.07-08.39.34:007][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-08.39.34:093][937]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.07-08.39.34:093][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.03.07-08.39.34:095][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.03.07-08.39.34:177][937]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2023.03.07-08.39.34:235][938]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.03.07-08.39.40:401][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.07-08.39.40:528][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/AI_SpawnPoint" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/Characters/AI/AI_SpawnPoint.uasset" SILENT=true
+[2023.03.07-08.39.40:535][662]LogSavePackage: Moving output files for package: /Game/Characters/AI/AI_SpawnPoint
+[2023.03.07-08.39.40:536][662]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/AI_SpawnPoint8E5ED0C34C40FA89580B1B9D9875279B.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/Characters/AI/AI_SpawnPoint.uasset'
+[2023.03.07-08.39.40:546][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 1:25 min)
+[2023.03.07-08.39.40:556][662]AssetCheck: New page: Asset Save: AI_SpawnPoint
+[2023.03.07-08.39.40:556][662]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/AI/AI_SpawnPoint.AI_SpawnPoint
+[2023.03.07-08.39.41:898][804]BlueprintLog: New page: Compile AI_SpawnPoint
+[2023.03.07-08.39.42:005][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.03.07-08.39.42:562][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.07-08.39.42:669][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/AI_SpawnPoint" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/Characters/AI/AI_SpawnPoint.uasset" SILENT=true
+[2023.03.07-08.39.42:676][846]LogSavePackage: Moving output files for package: /Game/Characters/AI/AI_SpawnPoint
+[2023.03.07-08.39.42:677][846]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/AI_SpawnPoint73A78AD94CA600C12B84E28DC8F41091.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/Characters/AI/AI_SpawnPoint.uasset'
+[2023.03.07-08.39.42:687][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 1:26 min)
+[2023.03.07-08.39.42:695][846]AssetCheck: New page: Asset Save: AI_SpawnPoint
+[2023.03.07-08.39.42:695][846]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/AI/AI_SpawnPoint.AI_SpawnPoint
+[2023.03.07-08.39.43:140][898]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.07-08.39.43:151][898]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.03.07-08.39.43:155][898]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.07-08.39.43:155][898]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.07-08.39.43:155][898]LogWorldPartition: Display: GetPartitionedActors took 17 us (total: 272 us)
+[2023.03.07-08.39.43:164][898]LogWorldPartition: Display: GenerateStreaming took 9 ms (total: 162 ms)
+[2023.03.07-08.39.43:164][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.07-08.39.43:164][898]PIE: New page: PIE session: ThirdPersonMap (Mar. 6, 2023, 4:39:43 p.m.)
+[2023.03.07-08.39.43:164][898]LogPlayLevel: Creating play world package: /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.07-08.39.43:187][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021731s)
+[2023.03.07-08.39.43:187][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap to /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.021764s)
+[2023.03.07-08.39.43:187][898]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.07-08.39.43:187][898]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.03.07-08.39.43:188][898]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.07-08.39.43:188][898]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.07-08.39.43:188][898]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.07-08.39.43:193][898]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.03.07-08.39.43:193][898]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 858 ms)
+[2023.03.07-08.39.43:193][898]LogPlayLevel: PIE: World Init took: (0.006776s)
+[2023.03.07-08.39.43:248][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.03.07-08.39.43:260][898]LogBlueprintUserMessages: [MusicAI_GameInstance_C_19] Length of returned assets:39 | 39
+[2023.03.07-08.39.43:268][898]LogBlueprintUserMessages: [MusicAI_GameInstance_C_19] Sexualizer
+[2023.03.07-08.39.43:268][898]LogBlueprintUserMessages: [MusicAI_GameInstance_C_19] The_Hunting
+[2023.03.07-08.39.43:268][898]LogBlueprintUserMessages: [MusicAI_GameInstance_C_19] UNTITLED_INSTRUMENTAL_NO__4
+[2023.03.07-08.39.43:268][898]LogBlueprintUserMessages: [MusicAI_GameInstance_C_19] Unforeseen_Consequences
+[2023.03.07-08.39.43:268][898]LogBlueprintUserMessages: [MusicAI_GameInstance_C_19] The_Death_That_I_Deservioli
+[2023.03.07-08.39.43:268][898]LogBlueprintUserMessages: [MusicAI_GameInstance_C_19] Starter_Music01
+[2023.03.07-08.39.43:268][898]LogBlueprintUserMessages: [MusicAI_GameInstance_C_19] Secunda__Skyrim_
+[2023.03.07-08.39.43:268][898]LogBlueprintUserMessages: [MusicAI_GameInstance_C_19] Radiation_Storm
+[2023.03.07-08.39.43:268][898]LogBlueprintUserMessages: [MusicAI_GameInstance_C_19] Murder_-_Psycho__Bernard_Herrmann_
+[2023.03.07-08.39.43:268][898]LogBlueprintUserMessages: [MusicAI_GameInstance_C_19] Ketchup___Mustard_Color_Scheme
+[2023.03.07-08.39.43:268][898]LogBlueprintUserMessages: [MusicAI_GameInstance_C_19] Acolytes_of_the_New_God
+[2023.03.07-08.39.43:268][898]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.03.07-08.39.43:268][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.07-08.39.43:268][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.07-08.39.43:268][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.07-08.39.43:268][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.07-08.39.43:268][898]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.07-08.39.43:268][898]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.07-08.39.43:268][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.07-08.39.43:268][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.07-08.39.43:269][898]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.07-08.39.43:269][898]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.07-08.39.43:269][898]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.07-08.39.43:270][898]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.07-08.39.43:306][898]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Kitty Edition)
+[2023.03.07-08.39.43:306][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.07-08.39.43:306][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.07-08.39.43:306][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.07-08.39.43:307][898]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.03.07-08.39.43:307][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.03.07-08.39.43:308][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.03.07-08.39.43:308][898]LogInit: FAudioDevice initialized.
+[2023.03.07-08.39.43:309][898]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.03.07-08.39.43:309][898]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2023.03.07-08.39.43:374][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-08.39.43:374][898]LogLoad: Game class is 'MusicAnalyzer_C'
+[2023.03.07-08.39.43:389][898]LogWorld: Bringing World /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.03.07-00.39.43
+[2023.03.07-08.39.43:389][898]LogWorld: Bringing up level for play took: 0.014695
+[2023.03.07-08.39.43:397][898]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.07-08.39.43:397][898]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.07-08.39.43:407][898]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.03.07-08.39.43:408][898]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=460.000 Y=1204.000 Z=1256.013
+[2023.03.07-08.39.43:408][898]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.07-08.39.43:490][898]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Avg Loudness: 0.949683 | Avg High: -40.074264 | Avg Mid: -22.824775 | Avg Low: -26.024199
+[2023.03.07-08.39.43:490][898]LogBlueprintUserMessages: [MusicAnalyzer_C_0] IsAggressive: false | Amp Peak: 3 | Amp Silence: 1 | Beats: 18
+[2023.03.07-08.39.43:493][898]PIE: Server logged in
+[2023.03.07-08.39.43:494][898]PIE: Play in editor total start time 0.342 seconds.
+[2023.03.07-08.39.43:518][898]LogViewport: Scene viewport resized to 1127x770, mode Windowed.
+[2023.03.07-08.39.43:576][899]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.061692 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2023.03.07-08.39.43:578][899]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.216998
+[2023.03.07-08.39.43:737][900]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.216998
+[2023.03.07-08.39.43:820][901]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.42s
+[2023.03.07-08.39.43:822][901]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:1
+[2023.03.07-08.39.43:822][901]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 3515
+[2023.03.07-08.39.43:822][901]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:Quant Event
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:ExecuteUbergraph_MusicAnalyzer
+
+[2023.03.07-08.39.46:463][901]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer without an associated node. The blueprint breakpoint has been removed
+[2023.03.07-08.39.46:463][901]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer without an associated node. The blueprint breakpoint has been removed
+[2023.03.07-08.39.47:745][901]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SpawnEnemy', from offset 276
+[2023.03.07-08.39.47:745][901]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:Quant Event
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:ExecuteUbergraph_MusicAnalyzer
+
+[2023.03.07-08.39.54:198][901]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 458
+[2023.03.07-08.39.54:198][901]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:Quant Event
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:ExecuteUbergraph_MusicAnalyzer
+	Function /Game/Characters/AI/AI_SpawnPoint.AI_SpawnPoint_C:SpawnEnemy
+
+[2023.03.07-08.39.58:279][901]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Characters/AI/AI_SpawnPoint.AI_SpawnPoint without an associated node. The blueprint breakpoint has been removed
+[2023.03.07-08.39.58:279][901]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Characters/AI/AI_SpawnPoint.AI_SpawnPoint without an associated node. The blueprint breakpoint has been removed
+[2023.03.07-08.39.59:286][901]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.668682
+[2023.03.07-08.39.59:351][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:2
+[2023.03.07-08.39.59:351][902]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SpawnEnemy', from offset 276
+[2023.03.07-08.39.59:351][902]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:Quant Event
+	Function /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer_C:ExecuteUbergraph_MusicAnalyzer
+
+[2023.03.07-08.40.01:017][902]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer without an associated node. The blueprint breakpoint has been removed
+[2023.03.07-08.40.01:017][902]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer without an associated node. The blueprint breakpoint has been removed
+[2023.03.07-08.40.01:880][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:3
+[2023.03.07-08.40.01:885][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:4
+[2023.03.07-08.40.01:885][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:1
+[2023.03.07-08.40.01:890][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:2
+[2023.03.07-08.40.01:895][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:3
+[2023.03.07-08.40.01:900][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:4
+[2023.03.07-08.40.01:905][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:1
+[2023.03.07-08.40.01:909][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:2
+[2023.03.07-08.40.01:915][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:3
+[2023.03.07-08.40.01:919][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:4
+[2023.03.07-08.40.01:919][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 4 Beat:1
+[2023.03.07-08.40.01:919][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 4 Beat:2
+[2023.03.07-08.40.01:920][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 4 Beat:3
+[2023.03.07-08.40.01:920][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 4 Beat:4
+[2023.03.07-08.40.01:933][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.625885
+[2023.03.07-08.40.01:945][903]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085714 > MaxSimulationTimeStep (0.050) for 'BP_NPC_C_2', movement 'Falling'
+[2023.03.07-08.40.01:960][903]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 5 Beat:1
+[2023.03.07-08.40.01:960][903]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 5 Beat:2
+[2023.03.07-08.40.01:960][903]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 5 Beat:3
+[2023.03.07-08.40.01:968][903]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.637488
+[2023.03.07-08.40.02:006][904]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.649086
+[2023.03.07-08.40.02:029][905]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.654888
+[2023.03.07-08.40.02:057][906]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.66069
+[2023.03.07-08.40.02:088][907]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.672437
+[2023.03.07-08.40.02:112][908]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.679049
+[2023.03.07-08.40.02:140][909]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.685668
+[2023.03.07-08.40.02:167][910]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.698906
+[2023.03.07-08.40.02:193][911]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.705524
+[2023.03.07-08.40.02:216][912]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.712136
+[2023.03.07-08.40.02:240][913]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.718755
+[2023.03.07-08.40.02:270][914]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.725373
+[2023.03.07-08.40.02:289][915]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.731992
+[2023.03.07-08.40.02:315][916]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.745223
+[2023.03.07-08.40.02:340][917]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.744777
+[2023.03.07-08.40.02:360][918]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.744777
+[2023.03.07-08.40.02:383][919]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.735938
+[2023.03.07-08.40.02:406][920]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.718258
+[2023.03.07-08.40.02:430][921]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.709428
+[2023.03.07-08.40.02:455][922]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.700588
+[2023.03.07-08.40.02:477][923]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.691748
+[2023.03.07-08.40.02:499][924]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.682909
+[2023.03.07-08.40.02:523][925]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.674068
+[2023.03.07-08.40.02:545][926]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.665238
+[2023.03.07-08.40.02:569][927]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.656399
+[2023.03.07-08.40.02:588][928]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.647558
+[2023.03.07-08.40.02:609][929]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.630121
+[2023.03.07-08.40.02:633][930]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.609637
+[2023.03.07-08.40.02:657][931]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.568695
+[2023.03.07-08.40.02:684][932]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.568695
+[2023.03.07-08.40.02:710][933]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.52773
+[2023.03.07-08.40.02:734][934]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.507246
+[2023.03.07-08.40.02:763][935]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 5 Beat:4
+[2023.03.07-08.40.02:765][935]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.466304
+[2023.03.07-08.40.02:791][936]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.445822
+[2023.03.07-08.40.02:816][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.425338
+[2023.03.07-08.40.02:836][938]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.405706
+[2023.03.07-08.40.02:859][939]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.427269
+[2023.03.07-08.40.02:888][940]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.448856
+[2023.03.07-08.40.02:906][941]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.470443
+[2023.03.07-08.40.02:929][942]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.492032
+[2023.03.07-08.40.02:948][943]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.513619
+[2023.03.07-08.40.02:968][944]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.535183
+[2023.03.07-08.40.02:988][945]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.556772
+[2023.03.07-08.40.03:006][946]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.578357
+[2023.03.07-08.40.03:024][947]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.578357
+[2023.03.07-08.40.03:045][948]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.599946
+[2023.03.07-08.40.03:065][949]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.643096
+[2023.03.07-08.40.03:083][950]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.643096
+[2023.03.07-08.40.03:106][951]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.661602
+[2023.03.07-08.40.03:124][952]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.661602
+[2023.03.07-08.40.03:145][953]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.666845
+[2023.03.07-08.40.03:166][954]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.666845
+[2023.03.07-08.40.03:188][955]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.669464
+[2023.03.07-08.40.03:211][956]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.672086
+[2023.03.07-08.40.03:233][957]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.674707
+[2023.03.07-08.40.03:250][958]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.677329
+[2023.03.07-08.40.03:269][959]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.67995
+[2023.03.07-08.40.03:290][960]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.682569
+[2023.03.07-08.40.03:314][961]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.68519
+[2023.03.07-08.40.03:333][962]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.687812
+[2023.03.07-08.40.03:354][963]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.694432
+[2023.03.07-08.40.03:370][964]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.703918
+[2023.03.07-08.40.03:393][965]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.713394
+[2023.03.07-08.40.03:415][966]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.72288
+[2023.03.07-08.40.03:433][967]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.732367
+[2023.03.07-08.40.03:452][968]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.741853
+[2023.03.07-08.40.03:479][969]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.751339
+[2023.03.07-08.40.03:500][970]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.760816
+[2023.03.07-08.40.03:517][971]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.770301
+[2023.03.07-08.40.03:538][972]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.779788
+[2023.03.07-08.40.03:558][973]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.789274
+[2023.03.07-08.40.03:579][974]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.798761
+[2023.03.07-08.40.03:600][975]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.793329
+[2023.03.07-08.40.03:621][976]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.785539
+[2023.03.07-08.40.03:642][977]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.785539
+[2023.03.07-08.40.03:670][978]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.76996
+[2023.03.07-08.40.03:694][979]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.76217
+[2023.03.07-08.40.03:721][980]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.754388
+[2023.03.07-08.40.03:746][981]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.738809
+[2023.03.07-08.40.03:767][982]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 6 Beat:1
+[2023.03.07-08.40.03:768][982]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.731019
+[2023.03.07-08.40.03:794][983]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.723229
+[2023.03.07-08.40.03:816][984]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.715448
+[2023.03.07-08.40.03:837][985]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.709057
+[2023.03.07-08.40.03:859][986]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.710946
+[2023.03.07-08.40.03:882][987]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.712835
+[2023.03.07-08.40.03:905][988]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.714725
+[2023.03.07-08.40.03:927][989]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.716612
+[2023.03.07-08.40.03:950][990]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.718501
+[2023.03.07-08.40.03:972][991]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.720391
+[2023.03.07-08.40.03:996][992]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.72228
+[2023.03.07-08.40.04:018][993]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.724169
+[2023.03.07-08.40.04:040][994]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.726057
+[2023.03.07-08.40.04:062][995]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.727946
+[2023.03.07-08.40.04:085][996]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.727657
+[2023.03.07-08.40.04:109][997]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.720003
+[2023.03.07-08.40.04:131][998]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.720003
+[2023.03.07-08.40.04:153][999]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.712356
+[2023.03.07-08.40.04:176][  0]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.697046
+[2023.03.07-08.40.04:199][  1]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.689391
+[2023.03.07-08.40.04:220][  2]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.681736
+[2023.03.07-08.40.04:241][  3]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.674089
+[2023.03.07-08.40.04:268][  4]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.666435
+[2023.03.07-08.40.04:296][  5]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.65878
+[2023.03.07-08.40.04:318][  6]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.651125
+[2023.03.07-08.40.04:341][  7]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.643469
+[2023.03.07-08.40.04:365][  8]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.623967
+[2023.03.07-08.40.04:390][  9]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.61385
+[2023.03.07-08.40.04:414][ 10]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.603734
+[2023.03.07-08.40.04:437][ 11]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.593617
+[2023.03.07-08.40.04:461][ 12]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.583511
+[2023.03.07-08.40.04:483][ 13]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.573394
+[2023.03.07-08.40.04:508][ 14]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.563277
+[2023.03.07-08.40.04:537][ 15]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.543044
+[2023.03.07-08.40.04:565][ 16]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.532939
+[2023.03.07-08.40.04:589][ 17]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.522822
+[2023.03.07-08.40.04:611][ 18]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.517275
+[2023.03.07-08.40.04:635][ 19]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.511782
+[2023.03.07-08.40.04:658][ 20]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.506289
+[2023.03.07-08.40.04:683][ 21]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.500802
+[2023.03.07-08.40.04:706][ 22]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.489817
+[2023.03.07-08.40.04:730][ 23]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.484324
+[2023.03.07-08.40.04:752][ 24]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 6 Beat:2
+[2023.03.07-08.40.04:754][ 24]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.478831
+[2023.03.07-08.40.04:775][ 25]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.473344
+[2023.03.07-08.40.04:802][ 26]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.467851
+[2023.03.07-08.40.04:823][ 27]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.462359
+[2023.03.07-08.40.04:843][ 28]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.464841
+[2023.03.07-08.40.04:868][ 29]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.488893
+[2023.03.07-08.40.04:887][ 30]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.51292
+[2023.03.07-08.40.04:907][ 31]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.536974
+[2023.03.07-08.40.04:929][ 32]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.561024
+[2023.03.07-08.40.04:950][ 33]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.585078
+[2023.03.07-08.40.04:970][ 34]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.60913
+[2023.03.07-08.40.04:992][ 35]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.633156
+[2023.03.07-08.40.05:016][ 36]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.657211
+[2023.03.07-08.40.05:039][ 37]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.681263
+[2023.03.07-08.40.05:063][ 38]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.705315
+[2023.03.07-08.40.05:085][ 39]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.729367
+[2023.03.07-08.40.05:107][ 40]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.736708
+[2023.03.07-08.40.05:130][ 41]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.730448
+[2023.03.07-08.40.05:152][ 42]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.724189
+[2023.03.07-08.40.05:173][ 43]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.717929
+[2023.03.07-08.40.05:197][ 44]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.705417
+[2023.03.07-08.40.05:218][ 45]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.699158
+[2023.03.07-08.40.05:241][ 46]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.699158
+[2023.03.07-08.40.05:266][ 47]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.686639
+[2023.03.07-08.40.05:288][ 48]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.680379
+[2023.03.07-08.40.05:310][ 49]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.674126
+[2023.03.07-08.40.05:335][ 50]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.667867
+[2023.03.07-08.40.05:357][ 51]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.664868
+[2023.03.07-08.40.05:382][ 52]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.662528
+[2023.03.07-08.40.05:403][ 53]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.660187
+[2023.03.07-08.40.05:425][ 54]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.657849
+[2023.03.07-08.40.05:450][ 55]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.655508
+[2023.03.07-08.40.05:470][ 56]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.653168
+[2023.03.07-08.40.05:496][ 57]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.648486
+[2023.03.07-08.40.05:515][ 58]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.646148
+[2023.03.07-08.40.05:538][ 59]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.643808
+[2023.03.07-08.40.05:557][ 60]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.643808
+[2023.03.07-08.40.05:579][ 61]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.641467
+[2023.03.07-08.40.05:602][ 62]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.638369
+[2023.03.07-08.40.05:624][ 63]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.629364
+[2023.03.07-08.40.05:649][ 64]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.611365
+[2023.03.07-08.40.05:676][ 65]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.602361
+[2023.03.07-08.40.05:696][ 66]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.593356
+[2023.03.07-08.40.05:721][ 67]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.584352
+[2023.03.07-08.40.05:748][ 68]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.575358
+[2023.03.07-08.40.05:770][ 69]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 6 Beat:3
+[2023.03.07-08.40.05:773][ 69]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.566352
+[2023.03.07-08.40.05:802][ 70]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.548344
+[2023.03.07-08.40.05:825][ 71]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.53934
+[2023.03.07-08.40.05:848][ 72]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.534627
+[2023.03.07-08.40.05:875][ 73]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.536483
+[2023.03.07-08.40.05:895][ 74]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.538339
+[2023.03.07-08.40.05:918][ 75]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.540195
+[2023.03.07-08.40.05:947][ 76]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.543905
+[2023.03.07-08.40.05:971][ 77]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.545762
+[2023.03.07-08.40.05:999][ 78]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.547618
+[2023.03.07-08.40.06:024][ 79]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.549474
+[2023.03.07-08.40.06:048][ 80]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.55133
+[2023.03.07-08.40.06:075][ 81]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.555041
+[2023.03.07-08.40.06:100][ 82]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.555908
+[2023.03.07-08.40.06:125][ 83]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.5563
+[2023.03.07-08.40.06:149][ 84]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.556693
+[2023.03.07-08.40.06:172][ 85]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.557085
+[2023.03.07-08.40.06:196][ 86]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.557478
+[2023.03.07-08.40.06:220][ 87]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.55787
+[2023.03.07-08.40.06:243][ 88]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.558263
+[2023.03.07-08.40.06:272][ 89]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.559048
+[2023.03.07-08.40.06:295][ 90]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.559441
+[2023.03.07-08.40.06:320][ 91]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.559833
+[2023.03.07-08.40.06:344][ 92]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.560226
+[2023.03.07-08.40.06:369][ 93]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.556501
+[2023.03.07-08.40.06:390][ 94]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.552598
+[2023.03.07-08.40.06:414][ 95]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.54869
+[2023.03.07-08.40.06:438][ 96]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.540875
+[2023.03.07-08.40.06:459][ 97]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.536968
+[2023.03.07-08.40.06:485][ 98]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.533064
+[2023.03.07-08.40.06:506][ 99]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.529157
+[2023.03.07-08.40.06:527][100]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.52525
+[2023.03.07-08.40.06:549][101]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.521342
+[2023.03.07-08.40.06:573][102]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.517435
+[2023.03.07-08.40.06:594][103]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.511581
+[2023.03.07-08.40.06:618][104]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.499481
+[2023.03.07-08.40.06:639][105]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.48738
+[2023.03.07-08.40.06:664][106]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.463179
+[2023.03.07-08.40.06:687][107]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.463179
+[2023.03.07-08.40.06:710][108]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.451092
+[2023.03.07-08.40.06:733][109]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.43899
+[2023.03.07-08.40.06:755][110]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 6 Beat:4
+[2023.03.07-08.40.06:759][110]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.41479
+[2023.03.07-08.40.06:781][111]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.40269
+[2023.03.07-08.40.06:808][112]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.390603
+[2023.03.07-08.40.06:826][113]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.378501
+[2023.03.07-08.40.06:849][114]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.374802
+[2023.03.07-08.40.06:874][115]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.378866
+[2023.03.07-08.40.06:896][116]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.382931
+[2023.03.07-08.40.06:922][117]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.386991
+[2023.03.07-08.40.06:944][118]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.391055
+[2023.03.07-08.40.06:967][119]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.399183
+[2023.03.07-08.40.06:989][120]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.403248
+[2023.03.07-08.40.07:013][121]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.403248
+[2023.03.07-08.40.07:035][122]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.411372
+[2023.03.07-08.40.07:061][123]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.415437
+[2023.03.07-08.40.07:083][124]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.419501
+[2023.03.07-08.40.07:105][125]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.425093
+[2023.03.07-08.40.07:130][126]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.431057
+[2023.03.07-08.40.07:153][127]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.437026
+[2023.03.07-08.40.07:176][128]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.442997
+[2023.03.07-08.40.07:201][129]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.448967
+[2023.03.07-08.40.07:221][130]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.454937
+[2023.03.07-08.40.07:244][131]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.460901
+[2023.03.07-08.40.07:267][132]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.472841
+[2023.03.07-08.40.07:288][133]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.478811
+[2023.03.07-08.40.07:314][134]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.484781
+[2023.03.07-08.40.07:338][135]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.488908
+[2023.03.07-08.40.07:358][136]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.472412
+[2023.03.07-08.40.07:381][137]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.455917
+[2023.03.07-08.40.07:402][138]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.439423
+[2023.03.07-08.40.07:427][139]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.422928
+[2023.03.07-08.40.07:453][140]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.406452
+[2023.03.07-08.40.07:476][141]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.389956
+[2023.03.07-08.40.07:500][142]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.373463
+[2023.03.07-08.40.07:523][143]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.356967
+[2023.03.07-08.40.07:548][144]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.323996
+[2023.03.07-08.40.07:572][145]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.3075
+[2023.03.07-08.40.07:592][146]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.302248
+[2023.03.07-08.40.07:614][147]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.316687
+[2023.03.07-08.40.07:637][148]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.331125
+[2023.03.07-08.40.07:664][149]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.345548
+[2023.03.07-08.40.07:688][150]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.359987
+[2023.03.07-08.40.07:710][151]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.374425
+[2023.03.07-08.40.07:735][152]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.388863
+[2023.03.07-08.40.07:755][153]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 7 Beat:1
+[2023.03.07-08.40.07:757][153]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.417726
+[2023.03.07-08.40.07:779][154]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.432164
+[2023.03.07-08.40.07:804][155]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.432164
+[2023.03.07-08.40.07:830][156]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.46104
+[2023.03.07-08.40.07:851][157]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.447489
+[2023.03.07-08.40.07:874][158]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.418564
+[2023.03.07-08.40.07:899][159]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.38961
+[2023.03.07-08.40.07:921][160]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.360656
+[2023.03.07-08.40.07:942][161]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.331702
+[2023.03.07-08.40.07:968][162]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.302746
+[2023.03.07-08.40.07:992][163]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.273823
+[2023.03.07-08.40.08:015][164]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.215916
+[2023.03.07-08.40.08:039][165]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.186962
+[2023.03.07-08.40.08:060][166]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.158006
+[2023.03.07-08.40.08:084][167]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.129083
+[2023.03.07-08.40.08:109][168]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.158569
+[2023.03.07-08.40.08:134][169]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.192753
+[2023.03.07-08.40.08:156][170]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.226932
+[2023.03.07-08.40.08:176][171]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.261116
+[2023.03.07-08.40.08:204][172]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.295261
+[2023.03.07-08.40.08:229][173]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.363624
+[2023.03.07-08.40.08:254][174]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.397806
+[2023.03.07-08.40.08:276][175]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.43199
+[2023.03.07-08.40.08:299][176]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.466135
+[2023.03.07-08.40.08:321][177]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.500316
+[2023.03.07-08.40.08:346][178]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.524535
+[2023.03.07-08.40.08:373][179]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.510632
+[2023.03.07-08.40.08:394][180]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.496731
+[2023.03.07-08.40.08:416][181]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.468941
+[2023.03.07-08.40.08:438][182]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.468941
+[2023.03.07-08.40.08:463][183]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.455039
+[2023.03.07-08.40.08:486][184]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.427235
+[2023.03.07-08.40.08:519][185]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.413347
+[2023.03.07-08.40.08:538][186]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.399445
+[2023.03.07-08.40.08:558][187]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.385542
+[2023.03.07-08.40.08:581][188]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.37164
+[2023.03.07-08.40.08:607][189]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.359319
+[2023.03.07-08.40.08:634][190]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.348659
+[2023.03.07-08.40.08:659][191]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.327319
+[2023.03.07-08.40.08:682][192]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.316649
+[2023.03.07-08.40.08:709][193]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.30598
+[2023.03.07-08.40.08:733][194]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.295321
+[2023.03.07-08.40.08:755][195]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 7 Beat:2
+[2023.03.07-08.40.08:757][195]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.284651
+[2023.03.07-08.40.08:780][196]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.27398
+[2023.03.07-08.40.08:801][197]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.263311
+[2023.03.07-08.40.08:825][198]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.241982
+[2023.03.07-08.40.08:849][199]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.241395
+[2023.03.07-08.40.08:871][200]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.243831
+[2023.03.07-08.40.08:891][201]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.246266
+[2023.03.07-08.40.08:917][202]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.248702
+[2023.03.07-08.40.08:941][203]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.251135
+[2023.03.07-08.40.08:962][204]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.253571
+[2023.03.07-08.40.08:983][205]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.256007
+[2023.03.07-08.40.09:006][206]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.258442
+[2023.03.07-08.40.09:032][207]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.260878
+[2023.03.07-08.40.09:059][208]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.265747
+[2023.03.07-08.40.09:085][209]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.265747
+[2023.03.07-08.40.09:107][210]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.249261
+[2023.03.07-08.40.09:130][211]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.231373
+[2023.03.07-08.40.09:160][212]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.213505
+[2023.03.07-08.40.09:196][213]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.177731
+[2023.03.07-08.40.09:224][214]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.159846
+[2023.03.07-08.40.09:252][215]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.141959
+[2023.03.07-08.40.09:280][216]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.106203
+[2023.03.07-08.40.09:300][217]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.088319
+[2023.03.07-08.40.09:322][218]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.070429
+[2023.03.07-08.40.09:350][219]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.067621
+[2023.03.07-08.40.09:375][220]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.097746
+[2023.03.07-08.40.09:400][221]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.122477
+[2023.03.07-08.40.09:421][222]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.149916
+[2023.03.07-08.40.09:451][223]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.204801
+[2023.03.07-08.40.09:474][224]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.232215
+[2023.03.07-08.40.09:499][225]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.259656
+[2023.03.07-08.40.09:520][226]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.287095
+[2023.03.07-08.40.09:543][227]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.314539
+[2023.03.07-08.40.09:569][228]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.34198
+[2023.03.07-08.40.09:598][229]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.373919
+[2023.03.07-08.40.09:619][230]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.363991
+[2023.03.07-08.40.09:640][231]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.35406
+[2023.03.07-08.40.09:661][232]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.344131
+[2023.03.07-08.40.09:691][233]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.334211
+[2023.03.07-08.40.09:715][234]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.324283
+[2023.03.07-08.40.09:738][235]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.314352
+[2023.03.07-08.40.09:758][236]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 7 Beat:3
+[2023.03.07-08.40.09:760][236]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.304423
+[2023.03.07-08.40.09:785][237]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.284574
+[2023.03.07-08.40.09:803][238]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.284574
+[2023.03.07-08.40.09:826][239]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.264714
+[2023.03.07-08.40.09:852][240]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.272974
+[2023.03.07-08.40.09:871][241]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.283372
+[2023.03.07-08.40.09:894][242]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.283372
+[2023.03.07-08.40.09:915][243]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.304155
+[2023.03.07-08.40.09:939][244]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.314555
+[2023.03.07-08.40.09:965][245]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.324951
+[2023.03.07-08.40.09:987][246]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.335349
+[2023.03.07-08.40.10:010][247]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.345736
+[2023.03.07-08.40.10:033][248]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.356132
+[2023.03.07-08.40.10:055][249]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.366531
+[2023.03.07-08.40.10:077][250]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.376928
+[2023.03.07-08.40.10:103][251]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.385055
+[2023.03.07-08.40.10:125][252]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.382581
+[2023.03.07-08.40.10:147][253]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.377628
+[2023.03.07-08.40.10:169][254]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.375151
+[2023.03.07-08.40.10:195][255]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.372675
+[2023.03.07-08.40.10:216][256]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.370201
+[2023.03.07-08.40.10:244][257]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.367724
+[2023.03.07-08.40.10:265][258]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.365248
+[2023.03.07-08.40.10:283][259]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.362771
+[2023.03.07-08.40.10:304][260]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.360294
+[2023.03.07-08.40.10:325][261]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.357821
+[2023.03.07-08.40.10:348][262]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.347323
+[2023.03.07-08.40.10:371][263]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.3273
+[2023.03.07-08.40.10:394][264]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.307276
+[2023.03.07-08.40.10:415][265]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.28725
+[2023.03.07-08.40.10:435][266]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.267249
+[2023.03.07-08.40.10:460][267]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.247222
+[2023.03.07-08.40.10:485][268]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.227198
+[2023.03.07-08.40.10:504][269]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.207172
+[2023.03.07-08.40.10:527][270]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.187147
+[2023.03.07-08.40.10:551][271]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.167142
+[2023.03.07-08.40.10:573][272]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.14712
+[2023.03.07-08.40.10:596][273]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.131037
+[2023.03.07-08.40.10:619][274]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.143461
+[2023.03.07-08.40.10:647][275]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.155873
+[2023.03.07-08.40.10:680][276]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.168296
+[2023.03.07-08.40.10:703][277]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.180721
+[2023.03.07-08.40.10:732][278]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.205571
+[2023.03.07-08.40.10:753][279]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 7 Beat:4
+[2023.03.07-08.40.10:755][279]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.217983
+[2023.03.07-08.40.10:780][280]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.230406
+[2023.03.07-08.40.10:807][281]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.255256
+[2023.03.07-08.40.10:833][282]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.267528
+[2023.03.07-08.40.10:855][283]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.272402
+[2023.03.07-08.40.10:877][284]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.277279
+[2023.03.07-08.40.10:907][285]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.282157
+[2023.03.07-08.40.10:933][286]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.287036
+[2023.03.07-08.40.10:954][287]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.296787
+[2023.03.07-08.40.10:978][288]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.301665
+[2023.03.07-08.40.11:001][289]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.301665
+[2023.03.07-08.40.11:027][290]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.311422
+[2023.03.07-08.40.11:055][291]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.3163
+[2023.03.07-08.40.11:079][292]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.321173
+[2023.03.07-08.40.11:104][293]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.339436
+[2023.03.07-08.40.11:128][294]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.350853
+[2023.03.07-08.40.11:151][295]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.362269
+[2023.03.07-08.40.11:174][296]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.362269
+[2023.03.07-08.40.11:201][297]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.385093
+[2023.03.07-08.40.11:224][298]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.396511
+[2023.03.07-08.40.11:247][299]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.407928
+[2023.03.07-08.40.11:270][300]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.419345
+[2023.03.07-08.40.11:299][301]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.442168
+[2023.03.07-08.40.11:325][302]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.442168
+[2023.03.07-08.40.11:350][303]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.444556
+[2023.03.07-08.40.11:371][304]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.420859
+[2023.03.07-08.40.11:398][305]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.397193
+[2023.03.07-08.40.11:421][306]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.373496
+[2023.03.07-08.40.11:449][307]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.326108
+[2023.03.07-08.40.11:475][308]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.302412
+[2023.03.07-08.40.11:500][309]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.278745
+[2023.03.07-08.40.11:520][310]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.255049
+[2023.03.07-08.40.11:543][311]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.231354
+[2023.03.07-08.40.11:569][312]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.20766
+[2023.03.07-08.40.11:595][313]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.192909
+[2023.03.07-08.40.11:621][314]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.20701
+[2023.03.07-08.40.11:650][315]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.22111
+[2023.03.07-08.40.11:672][316]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.235208
+[2023.03.07-08.40.11:692][317]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.249311
+[2023.03.07-08.40.11:717][318]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.263394
+[2023.03.07-08.40.11:744][319]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.277495
+[2023.03.07-08.40.11:768][320]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 8 Beat:1
+[2023.03.07-08.40.11:770][320]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.305696
+[2023.03.07-08.40.11:793][321]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.319796
+[2023.03.07-08.40.11:814][322]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.319796
+[2023.03.07-08.40.11:837][323]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.34321
+[2023.03.07-08.40.11:868][324]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.324309
+[2023.03.07-08.40.11:893][325]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.305407
+[2023.03.07-08.40.11:920][326]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.267626
+[2023.03.07-08.40.11:939][327]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.248725
+[2023.03.07-08.40.11:964][328]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.248725
+[2023.03.07-08.40.11:995][329]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.210922
+[2023.03.07-08.40.12:017][330]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.192023
+[2023.03.07-08.40.12:041][331]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.17314
+[2023.03.07-08.40.12:065][332]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.15424
+[2023.03.07-08.40.12:088][333]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.13139
+[2023.03.07-08.40.12:115][334]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.147573
+[2023.03.07-08.40.12:144][335]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.163742
+[2023.03.07-08.40.12:172][336]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.179926
+[2023.03.07-08.40.12:196][337]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.212297
+[2023.03.07-08.40.12:221][338]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.22848
+[2023.03.07-08.40.12:249][339]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.244649
+[2023.03.07-08.40.12:276][340]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.260833
+[2023.03.07-08.40.12:303][341]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.277019
+[2023.03.07-08.40.12:321][342]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.293204
+[2023.03.07-08.40.12:348][343]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.326732
+[2023.03.07-08.40.12:374][344]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.344581
+[2023.03.07-08.40.12:401][345]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.362431
+[2023.03.07-08.40.12:426][346]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.398127
+[2023.03.07-08.40.12:450][347]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.398127
+[2023.03.07-08.40.12:475][348]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.433808
+[2023.03.07-08.40.12:500][349]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.451658
+[2023.03.07-08.40.12:523][350]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.469506
+[2023.03.07-08.40.12:547][351]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.487355
+[2023.03.07-08.40.12:572][352]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.505186
+[2023.03.07-08.40.12:601][353]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.523037
+[2023.03.07-08.40.12:619][354]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.511887
+[2023.03.07-08.40.12:645][355]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.500398
+[2023.03.07-08.40.12:667][356]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.477429
+[2023.03.07-08.40.12:694][357]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.465937
+[2023.03.07-08.40.12:719][358]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.454447
+[2023.03.07-08.40.12:742][359]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.442958
+[2023.03.07-08.40.12:768][360]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 8 Beat:2
+[2023.03.07-08.40.12:772][360]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.431467
+[2023.03.07-08.40.12:794][361]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.419988
+[2023.03.07-08.40.12:826][362]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.397008
+[2023.03.07-08.40.12:868][363]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.371171
+[2023.03.07-08.40.12:897][364]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.343706
+[2023.03.07-08.40.12:920][365]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.343706
+[2023.03.07-08.40.12:942][366]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.329968
+[2023.03.07-08.40.12:964][367]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.316229
+[2023.03.07-08.40.12:987][368]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.288764
+[2023.03.07-08.40.13:016][369]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.275025
+[2023.03.07-08.40.13:037][370]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.261287
+[2023.03.07-08.40.13:063][371]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.247546
+[2023.03.07-08.40.13:084][372]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.233808
+[2023.03.07-08.40.13:108][373]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.228204
+[2023.03.07-08.40.13:130][374]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.229218
+[2023.03.07-08.40.13:155][375]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.231244
+[2023.03.07-08.40.13:173][376]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.231244
+[2023.03.07-08.40.13:197][377]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.23327
+[2023.03.07-08.40.13:217][378]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.234283
+[2023.03.07-08.40.13:238][379]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.234283
+[2023.03.07-08.40.13:265][380]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.235296
+[2023.03.07-08.40.13:286][381]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.237323
+[2023.03.07-08.40.13:309][382]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.238335
+[2023.03.07-08.40.13:332][383]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.239349
+[2023.03.07-08.40.13:353][384]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.240815
+[2023.03.07-08.40.13:379][385]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.242374
+[2023.03.07-08.40.13:402][386]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.243932
+[2023.03.07-08.40.13:423][387]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.245489
+[2023.03.07-08.40.13:446][388]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.247047
+[2023.03.07-08.40.13:472][389]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.248605
+[2023.03.07-08.40.13:497][390]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.251722
+[2023.03.07-08.40.13:520][391]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.253279
+[2023.03.07-08.40.13:541][392]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.254837
+[2023.03.07-08.40.13:565][393]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.256395
+[2023.03.07-08.40.13:588][394]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.256299
+[2023.03.07-08.40.13:611][395]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.243303
+[2023.03.07-08.40.13:632][396]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.23032
+[2023.03.07-08.40.13:655][397]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.217326
+[2023.03.07-08.40.13:676][398]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.204329
+[2023.03.07-08.40.13:699][399]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.191333
+[2023.03.07-08.40.13:724][400]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.178337
+[2023.03.07-08.40.13:747][401]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.165354
+[2023.03.07-08.40.13:767][402]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 8 Beat:3
+[2023.03.07-08.40.13:769][402]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.15236
+[2023.03.07-08.40.13:792][403]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.139363
+[2023.03.07-08.40.13:814][404]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.126367
+[2023.03.07-08.40.13:837][405]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.112114
+[2023.03.07-08.40.13:862][406]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.128864
+[2023.03.07-08.40.13:885][407]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.128864
+[2023.03.07-08.40.13:908][408]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.162356
+[2023.03.07-08.40.13:931][409]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.179104
+[2023.03.07-08.40.13:953][410]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.195831
+[2023.03.07-08.40.13:975][411]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.212581
+[2023.03.07-08.40.13:999][412]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.229327
+[2023.03.07-08.40.14:022][413]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.246073
+[2023.03.07-08.40.14:046][414]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.262822
+[2023.03.07-08.40.14:071][415]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.279549
+[2023.03.07-08.40.14:096][416]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.293875
+[2023.03.07-08.40.14:119][417]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.282261
+[2023.03.07-08.40.14:141][418]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.270645
+[2023.03.07-08.40.14:163][419]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.259045
+[2023.03.07-08.40.14:187][420]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.247429
+[2023.03.07-08.40.14:210][421]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.235815
+[2023.03.07-08.40.14:233][422]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.224199
+[2023.03.07-08.40.14:256][423]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.212585
+[2023.03.07-08.40.14:284][424]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.200982
+[2023.03.07-08.40.14:308][425]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.177754
+[2023.03.07-08.40.14:333][426]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.166139
+[2023.03.07-08.40.14:355][427]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.174158
+[2023.03.07-08.40.14:377][428]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.183039
+[2023.03.07-08.40.14:400][429]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.191928
+[2023.03.07-08.40.14:422][430]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.200817
+[2023.03.07-08.40.14:446][431]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.209708
+[2023.03.07-08.40.14:467][432]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.218598
+[2023.03.07-08.40.14:492][433]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.227479
+[2023.03.07-08.40.14:514][434]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.236368
+[2023.03.07-08.40.14:538][435]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.245257
+[2023.03.07-08.40.14:560][436]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.254148
+[2023.03.07-08.40.14:586][437]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.267946
+[2023.03.07-08.40.14:604][438]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.267946
+[2023.03.07-08.40.14:631][439]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.252354
+[2023.03.07-08.40.14:651][440]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.244557
+[2023.03.07-08.40.14:675][441]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.236761
+[2023.03.07-08.40.14:700][442]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.228973
+[2023.03.07-08.40.14:722][443]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.221177
+[2023.03.07-08.40.14:744][444]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.213381
+[2023.03.07-08.40.14:765][445]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 8 Beat:4
+[2023.03.07-08.40.14:767][445]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.205585
+[2023.03.07-08.40.14:792][446]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.197789
+[2023.03.07-08.40.14:816][447]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.182205
+[2023.03.07-08.40.14:835][448]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.182205
+[2023.03.07-08.40.14:861][449]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.185331
+[2023.03.07-08.40.14:884][450]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.198553
+[2023.03.07-08.40.14:905][451]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.224982
+[2023.03.07-08.40.14:928][452]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.238204
+[2023.03.07-08.40.14:951][453]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.251427
+[2023.03.07-08.40.14:974][454]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.264648
+[2023.03.07-08.40.14:999][455]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.277869
+[2023.03.07-08.40.15:025][456]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.291077
+[2023.03.07-08.40.15:047][457]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.304299
+[2023.03.07-08.40.15:070][458]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.317522
+[2023.03.07-08.40.15:093][459]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.330744
+[2023.03.07-08.40.15:118][460]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.312564
+[2023.03.07-08.40.15:142][461]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.301006
+[2023.03.07-08.40.15:165][462]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.301006
+[2023.03.07-08.40.15:188][463]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.27789
+[2023.03.07-08.40.15:210][464]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.266331
+[2023.03.07-08.40.15:233][465]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.254787
+[2023.03.07-08.40.15:260][466]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.243228
+[2023.03.07-08.40.15:280][467]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.23167
+[2023.03.07-08.40.15:301][468]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.220113
+[2023.03.07-08.40.15:324][469]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.208553
+[2023.03.07-08.40.15:345][470]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.197657
+[2023.03.07-08.40.15:367][471]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.194027
+[2023.03.07-08.40.15:388][472]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.190396
+[2023.03.07-08.40.15:408][473]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.186766
+[2023.03.07-08.40.15:433][474]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.183135
+[2023.03.07-08.40.15:452][475]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.179509
+[2023.03.07-08.40.15:473][476]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.175878
+[2023.03.07-08.40.15:494][477]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.172248
+[2023.03.07-08.40.15:517][478]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.168617
+[2023.03.07-08.40.15:538][479]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.164987
+[2023.03.07-08.40.15:562][480]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.16136
+[2023.03.07-08.40.15:585][481]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.15773
+[2023.03.07-08.40.15:611][482]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.149483
+[2023.03.07-08.40.15:635][483]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.14513
+[2023.03.07-08.40.15:656][484]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.14078
+[2023.03.07-08.40.15:686][485]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.136426
+[2023.03.07-08.40.15:708][486]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.132073
+[2023.03.07-08.40.15:730][487]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.127719
+[2023.03.07-08.40.15:754][488]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.123366
+[2023.03.07-08.40.15:777][489]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 9 Beat:1
+[2023.03.07-08.40.15:780][489]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.114663
+[2023.03.07-08.40.15:807][490]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.110309
+[2023.03.07-08.40.15:832][491]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.105955
+[2023.03.07-08.40.15:858][492]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.104383
+[2023.03.07-08.40.15:885][493]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.104341
+[2023.03.07-08.40.15:911][494]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.104256
+[2023.03.07-08.40.15:940][495]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.104214
+[2023.03.07-08.40.15:968][496]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.104172
+[2023.03.07-08.40.15:990][497]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.10413
+[2023.03.07-08.40.16:015][498]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.104046
+[2023.03.07-08.40.16:040][499]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.104004
+[2023.03.07-08.40.16:065][500]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.103962
+[2023.03.07-08.40.16:088][501]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.10392
+[2023.03.07-08.40.16:117][502]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.123721
+[2023.03.07-08.40.16:139][503]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.14512
+[2023.03.07-08.40.16:160][504]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.166519
+[2023.03.07-08.40.16:183][505]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.187914
+[2023.03.07-08.40.16:208][506]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.230686
+[2023.03.07-08.40.16:229][507]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.252085
+[2023.03.07-08.40.16:255][508]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.273484
+[2023.03.07-08.40.16:282][509]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.29488
+[2023.03.07-08.40.16:307][510]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.316256
+[2023.03.07-08.40.16:331][511]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.337655
+[2023.03.07-08.40.16:358][512]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.356123
+[2023.03.07-08.40.16:383][513]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.357371
+[2023.03.07-08.40.16:406][514]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.358617
+[2023.03.07-08.40.16:430][515]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.359864
+[2023.03.07-08.40.16:455][516]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.361111
+[2023.03.07-08.40.16:483][517]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.362359
+[2023.03.07-08.40.16:507][518]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.364852
+[2023.03.07-08.40.16:529][519]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.3661
+[2023.03.07-08.40.16:549][520]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.367347
+[2023.03.07-08.40.16:571][521]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.368595
+[2023.03.07-08.40.16:597][522]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.367716
+[2023.03.07-08.40.16:620][523]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.364618
+[2023.03.07-08.40.16:641][524]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.361516
+[2023.03.07-08.40.16:664][525]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.358415
+[2023.03.07-08.40.16:689][526]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.355313
+[2023.03.07-08.40.16:713][527]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.352211
+[2023.03.07-08.40.16:736][528]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.346011
+[2023.03.07-08.40.16:758][529]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 9 Beat:2
+[2023.03.07-08.40.16:760][529]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.346011
+[2023.03.07-08.40.16:785][530]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.342909
+[2023.03.07-08.40.16:808][531]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.336706
+[2023.03.07-08.40.16:830][532]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.333608
+[2023.03.07-08.40.16:854][533]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.328156
+[2023.03.07-08.40.16:877][534]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.322001
+[2023.03.07-08.40.16:900][535]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.315845
+[2023.03.07-08.40.16:920][536]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.30969
+[2023.03.07-08.40.16:944][537]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.303541
+[2023.03.07-08.40.16:967][538]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.297385
+[2023.03.07-08.40.16:988][539]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.29123
+[2023.03.07-08.40.17:011][540]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.285074
+[2023.03.07-08.40.17:034][541]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.278919
+[2023.03.07-08.40.17:055][542]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.266614
+[2023.03.07-08.40.17:076][543]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.266614
+[2023.03.07-08.40.17:099][544]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.259712
+[2023.03.07-08.40.17:122][545]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.238901
+[2023.03.07-08.40.17:145][546]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.197304
+[2023.03.07-08.40.17:168][547]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.176492
+[2023.03.07-08.40.17:190][548]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.155681
+[2023.03.07-08.40.17:213][549]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.134873
+[2023.03.07-08.40.17:235][550]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.114065
+[2023.03.07-08.40.17:258][551]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.093276
+[2023.03.07-08.40.17:283][552]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.072464
+[2023.03.07-08.40.17:305][553]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.051653
+[2023.03.07-08.40.17:328][554]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.030845
+[2023.03.07-08.40.17:350][555]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.020451
+[2023.03.07-08.40.17:374][556]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.030947
+[2023.03.07-08.40.17:396][557]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.041455
+[2023.03.07-08.40.17:418][558]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.051963
+[2023.03.07-08.40.17:440][559]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.062469
+[2023.03.07-08.40.17:463][560]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.072975
+[2023.03.07-08.40.17:492][561]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.09398
+[2023.03.07-08.40.17:512][562]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.104488
+[2023.03.07-08.40.17:535][563]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.114994
+[2023.03.07-08.40.17:560][564]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.125502
+[2023.03.07-08.40.17:585][565]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.135997
+[2023.03.07-08.40.17:607][566]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.141257
+[2023.03.07-08.40.17:630][567]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.143208
+[2023.03.07-08.40.17:651][568]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.145158
+[2023.03.07-08.40.17:674][569]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.147108
+[2023.03.07-08.40.17:697][570]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.151007
+[2023.03.07-08.40.17:720][571]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.151007
+[2023.03.07-08.40.17:741][572]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.152957
+[2023.03.07-08.40.17:761][573]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 9 Beat:3
+[2023.03.07-08.40.17:763][573]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.154907
+[2023.03.07-08.40.17:786][574]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.158806
+[2023.03.07-08.40.17:810][575]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.160756
+[2023.03.07-08.40.17:832][576]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.162706
+[2023.03.07-08.40.17:856][577]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.170939
+[2023.03.07-08.40.17:879][578]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.179912
+[2023.03.07-08.40.17:903][579]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.188873
+[2023.03.07-08.40.17:925][580]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.197845
+[2023.03.07-08.40.17:950][581]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.206816
+[2023.03.07-08.40.17:969][582]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.21579
+[2023.03.07-08.40.17:991][583]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.224761
+[2023.03.07-08.40.18:015][584]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.233724
+[2023.03.07-08.40.18:038][585]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.242695
+[2023.03.07-08.40.18:059][586]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.251666
+[2023.03.07-08.40.18:083][587]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.26064
+[2023.03.07-08.40.18:103][588]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.267364
+[2023.03.07-08.40.18:126][589]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.259854
+[2023.03.07-08.40.18:148][590]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.256097
+[2023.03.07-08.40.18:172][591]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.252339
+[2023.03.07-08.40.18:195][592]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.248582
+[2023.03.07-08.40.18:216][593]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.244829
+[2023.03.07-08.40.18:237][594]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.241072
+[2023.03.07-08.40.18:258][595]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.237315
+[2023.03.07-08.40.18:284][596]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.233557
+[2023.03.07-08.40.18:307][597]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.2298
+[2023.03.07-08.40.18:332][598]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.226046
+[2023.03.07-08.40.18:355][599]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.229431
+[2023.03.07-08.40.18:378][600]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.241304
+[2023.03.07-08.40.18:401][601]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.253174
+[2023.03.07-08.40.18:421][602]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.265047
+[2023.03.07-08.40.18:447][603]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.288777
+[2023.03.07-08.40.18:468][604]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.30065
+[2023.03.07-08.40.18:491][605]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.31252
+[2023.03.07-08.40.18:512][606]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.324393
+[2023.03.07-08.40.18:534][607]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.324393
+[2023.03.07-08.40.18:557][608]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.348123
+[2023.03.07-08.40.18:581][609]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.359996
+[2023.03.07-08.40.18:605][610]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.360954
+[2023.03.07-08.40.18:633][611]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.358049
+[2023.03.07-08.40.18:652][612]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.355148
+[2023.03.07-08.40.18:673][613]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.352244
+[2023.03.07-08.40.18:697][614]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.349339
+[2023.03.07-08.40.18:718][615]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.346435
+[2023.03.07-08.40.18:740][616]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.343531
+[2023.03.07-08.40.18:760][617]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 9 Beat:4
+[2023.03.07-08.40.18:762][617]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.340629
+[2023.03.07-08.40.18:785][618]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.33482
+[2023.03.07-08.40.18:806][619]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.331916
+[2023.03.07-08.40.18:832][620]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.329352
+[2023.03.07-08.40.18:856][621]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.34325
+[2023.03.07-08.40.18:880][622]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.357169
+[2023.03.07-08.40.18:904][623]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.371083
+[2023.03.07-08.40.18:929][624]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.384996
+[2023.03.07-08.40.18:951][625]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.398913
+[2023.03.07-08.40.18:974][626]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.412811
+[2023.03.07-08.40.19:004][627]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.42673
+[2023.03.07-08.40.19:028][628]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.454557
+[2023.03.07-08.40.19:053][629]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.468474
+[2023.03.07-08.40.19:079][630]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.482372
+[2023.03.07-08.40.19:101][631]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.489677
+[2023.03.07-08.40.19:125][632]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.473531
+[2023.03.07-08.40.19:155][633]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.465457
+[2023.03.07-08.40.19:174][634]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.465457
+[2023.03.07-08.40.19:197][635]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.44932
+[2023.03.07-08.40.19:220][636]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.441247
+[2023.03.07-08.40.19:248][637]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.433173
+[2023.03.07-08.40.19:268][638]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.425101
+[2023.03.07-08.40.19:297][639]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.408964
+[2023.03.07-08.40.19:320][640]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.408964
+[2023.03.07-08.40.19:347][641]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.395606
+[2023.03.07-08.40.19:370][642]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.392321
+[2023.03.07-08.40.19:390][643]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.389038
+[2023.03.07-08.40.19:417][644]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.385753
+[2023.03.07-08.40.19:439][645]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.382468
+[2023.03.07-08.40.19:463][646]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.379182
+[2023.03.07-08.40.19:485][647]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.375897
+[2023.03.07-08.40.19:507][648]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.372615
+[2023.03.07-08.40.19:532][649]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.36933
+[2023.03.07-08.40.19:556][650]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.362759
+[2023.03.07-08.40.19:581][651]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.359474
+[2023.03.07-08.40.19:604][652]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.367151
+[2023.03.07-08.40.19:627][653]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.376563
+[2023.03.07-08.40.19:651][654]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.385977
+[2023.03.07-08.40.19:673][655]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.395392
+[2023.03.07-08.40.19:696][656]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.404804
+[2023.03.07-08.40.19:717][657]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.414208
+[2023.03.07-08.40.19:739][658]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.423621
+[2023.03.07-08.40.19:761][659]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 10 Beat:1
+[2023.03.07-08.40.19:763][659]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.433035
+[2023.03.07-08.40.19:785][660]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.442449
+[2023.03.07-08.40.19:806][661]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.451862
+[2023.03.07-08.40.19:830][662]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.461266
+[2023.03.07-08.40.19:852][663]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.468075
+[2023.03.07-08.40.19:874][664]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.459465
+[2023.03.07-08.40.19:897][665]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.442246
+[2023.03.07-08.40.19:921][666]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.433645
+[2023.03.07-08.40.19:944][667]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.425036
+[2023.03.07-08.40.19:966][668]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.416426
+[2023.03.07-08.40.19:989][669]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.407815
+[2023.03.07-08.40.20:011][670]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.399207
+[2023.03.07-08.40.20:036][671]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.390606
+[2023.03.07-08.40.20:060][672]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.381995
+[2023.03.07-08.40.20:089][673]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.371007
+[2023.03.07-08.40.20:121][674]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.377016
+[2023.03.07-08.40.20:148][675]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.383018
+[2023.03.07-08.40.20:171][676]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.389027
+[2023.03.07-08.40.20:198][677]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.401045
+[2023.03.07-08.40.20:223][678]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.407054
+[2023.03.07-08.40.20:245][679]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.413056
+[2023.03.07-08.40.20:268][680]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.419065
+[2023.03.07-08.40.20:290][681]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.425073
+[2023.03.07-08.40.20:314][682]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.431081
+[2023.03.07-08.40.20:336][683]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.437091
+[2023.03.07-08.40.20:357][684]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.437834
+[2023.03.07-08.40.20:382][685]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.436401
+[2023.03.07-08.40.20:403][686]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.434967
+[2023.03.07-08.40.20:424][687]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.433534
+[2023.03.07-08.40.20:449][688]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.432101
+[2023.03.07-08.40.20:473][689]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.430669
+[2023.03.07-08.40.20:496][690]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.427803
+[2023.03.07-08.40.20:521][691]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.42637
+[2023.03.07-08.40.20:542][692]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.424937
+[2023.03.07-08.40.20:566][693]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.423505
+[2023.03.07-08.40.20:597][694]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.422072
+[2023.03.07-08.40.20:619][695]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.4196
+[2023.03.07-08.40.20:645][696]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.414632
+[2023.03.07-08.40.20:669][697]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.41215
+[2023.03.07-08.40.20:695][698]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.409665
+[2023.03.07-08.40.20:719][699]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.407181
+[2023.03.07-08.40.20:747][700]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.402213
+[2023.03.07-08.40.20:766][701]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 10 Beat:2
+[2023.03.07-08.40.20:768][701]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.402213
+[2023.03.07-08.40.20:790][702]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.399731
+[2023.03.07-08.40.20:814][703]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.397247
+[2023.03.07-08.40.20:832][704]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.394763
+[2023.03.07-08.40.20:853][705]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.391736
+[2023.03.07-08.40.20:876][706]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.382756
+[2023.03.07-08.40.20:903][707]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.378263
+[2023.03.07-08.40.20:923][708]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.378263
+[2023.03.07-08.40.20:945][709]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.369279
+[2023.03.07-08.40.20:967][710]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.364787
+[2023.03.07-08.40.20:989][711]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.360299
+[2023.03.07-08.40.21:015][712]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.355806
+[2023.03.07-08.40.21:036][713]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.351314
+[2023.03.07-08.40.21:057][714]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.346822
+[2023.03.07-08.40.21:081][715]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.34233
+[2023.03.07-08.40.21:104][716]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.34863
+[2023.03.07-08.40.21:128][717]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.363739
+[2023.03.07-08.40.21:151][718]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.378847
+[2023.03.07-08.40.21:174][719]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.393953
+[2023.03.07-08.40.21:197][720]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.42415
+[2023.03.07-08.40.21:217][721]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.439256
+[2023.03.07-08.40.21:238][722]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.439256
+[2023.03.07-08.40.21:261][723]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.454367
+[2023.03.07-08.40.21:282][724]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.469473
+[2023.03.07-08.40.21:308][725]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.49967
+[2023.03.07-08.40.21:328][726]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.514778
+[2023.03.07-08.40.21:350][727]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.507873
+[2023.03.07-08.40.21:372][728]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.49653
+[2023.03.07-08.40.21:395][729]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.485184
+[2023.03.07-08.40.21:417][730]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.473853
+[2023.03.07-08.40.21:441][731]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.462507
+[2023.03.07-08.40.21:463][732]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.451164
+[2023.03.07-08.40.21:484][733]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.439818
+[2023.03.07-08.40.21:507][734]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.428472
+[2023.03.07-08.40.21:531][735]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.417141
+[2023.03.07-08.40.21:554][736]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.405795
+[2023.03.07-08.40.21:579][737]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.394452
+[2023.03.07-08.40.21:602][738]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.384437
+[2023.03.07-08.40.21:621][739]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.384795
+[2023.03.07-08.40.21:643][740]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.385153
+[2023.03.07-08.40.21:666][741]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.385869
+[2023.03.07-08.40.21:687][742]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.386227
+[2023.03.07-08.40.21:712][743]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.386585
+[2023.03.07-08.40.21:736][744]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.386943
+[2023.03.07-08.40.21:755][745]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.387301
+[2023.03.07-08.40.21:775][746]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 10 Beat:3
+[2023.03.07-08.40.21:777][746]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.387659
+[2023.03.07-08.40.21:803][747]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.388017
+[2023.03.07-08.40.21:821][748]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.388375
+[2023.03.07-08.40.21:848][749]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.386888
+[2023.03.07-08.40.21:868][750]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.382567
+[2023.03.07-08.40.21:890][751]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.378246
+[2023.03.07-08.40.21:912][752]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.373925
+[2023.03.07-08.40.21:936][753]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.369603
+[2023.03.07-08.40.21:960][754]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.365286
+[2023.03.07-08.40.21:983][755]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.360966
+[2023.03.07-08.40.22:004][756]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.356645
+[2023.03.07-08.40.22:026][757]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.348002
+[2023.03.07-08.40.22:048][758]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.348002
+[2023.03.07-08.40.22:072][759]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.343685
+[2023.03.07-08.40.22:096][760]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.335286
+[2023.03.07-08.40.22:122][761]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.331326
+[2023.03.07-08.40.22:142][762]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.327364
+[2023.03.07-08.40.22:166][763]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.323407
+[2023.03.07-08.40.22:186][764]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.319447
+[2023.03.07-08.40.22:212][765]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.315485
+[2023.03.07-08.40.22:235][766]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.311525
+[2023.03.07-08.40.22:254][767]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.307563
+[2023.03.07-08.40.22:278][768]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.303606
+[2023.03.07-08.40.22:301][769]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.299646
+[2023.03.07-08.40.22:325][770]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.291724
+[2023.03.07-08.40.22:349][771]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.294269
+[2023.03.07-08.40.22:374][772]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.294269
+[2023.03.07-08.40.22:397][773]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.299935
+[2023.03.07-08.40.22:420][774]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.30277
+[2023.03.07-08.40.22:453][775]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.305604
+[2023.03.07-08.40.22:475][776]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.311269
+[2023.03.07-08.40.22:499][777]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.314104
+[2023.03.07-08.40.22:523][778]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.314104
+[2023.03.07-08.40.22:546][779]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.319772
+[2023.03.07-08.40.22:569][780]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.322607
+[2023.03.07-08.40.22:592][781]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.326791
+[2023.03.07-08.40.22:615][782]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.335313
+[2023.03.07-08.40.22:638][783]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.343833
+[2023.03.07-08.40.22:662][784]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.352352
+[2023.03.07-08.40.22:685][785]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.360873
+[2023.03.07-08.40.22:708][786]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.369383
+[2023.03.07-08.40.22:732][787]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.377904
+[2023.03.07-08.40.22:753][788]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.386425
+[2023.03.07-08.40.22:777][789]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 10 Beat:4
+[2023.03.07-08.40.22:780][789]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.403465
+[2023.03.07-08.40.22:802][790]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.411975
+[2023.03.07-08.40.22:825][791]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.420496
+[2023.03.07-08.40.22:844][792]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.420496
+[2023.03.07-08.40.22:866][793]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.414311
+[2023.03.07-08.40.22:886][794]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.407548
+[2023.03.07-08.40.22:906][795]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.400792
+[2023.03.07-08.40.22:925][796]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.394029
+[2023.03.07-08.40.22:945][797]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.387265
+[2023.03.07-08.40.22:967][798]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.380501
+[2023.03.07-08.40.22:989][799]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.373738
+[2023.03.07-08.40.23:009][800]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.373738
+[2023.03.07-08.40.23:029][801]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.366982
+[2023.03.07-08.40.23:048][802]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.360219
+[2023.03.07-08.40.23:068][803]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.353456
+[2023.03.07-08.40.23:087][804]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.346692
+[2023.03.07-08.40.23:108][805]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.334634
+[2023.03.07-08.40.23:129][806]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.321276
+[2023.03.07-08.40.23:150][807]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.307906
+[2023.03.07-08.40.23:169][808]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.294533
+[2023.03.07-08.40.23:189][809]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.281161
+[2023.03.07-08.40.23:211][810]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.26779
+[2023.03.07-08.40.23:232][811]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.254432
+[2023.03.07-08.40.23:256][812]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.241062
+[2023.03.07-08.40.23:279][813]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.227689
+[2023.03.07-08.40.23:300][814]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.214317
+[2023.03.07-08.40.23:320][815]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.200946
+[2023.03.07-08.40.23:339][816]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.189165
+[2023.03.07-08.40.23:359][817]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.195046
+[2023.03.07-08.40.23:380][818]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.200928
+[2023.03.07-08.40.23:404][819]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.206811
+[2023.03.07-08.40.23:424][820]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.212692
+[2023.03.07-08.40.23:443][821]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.218568
+[2023.03.07-08.40.23:464][822]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.22445
+[2023.03.07-08.40.23:486][823]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.230332
+[2023.03.07-08.40.23:506][824]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.236214
+[2023.03.07-08.40.23:527][825]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.242096
+[2023.03.07-08.40.23:549][826]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.247972
+[2023.03.07-08.40.23:571][827]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.253853
+[2023.03.07-08.40.23:592][828]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.263153
+[2023.03.07-08.40.23:615][829]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.278439
+[2023.03.07-08.40.23:636][830]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.293723
+[2023.03.07-08.40.23:661][831]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.308993
+[2023.03.07-08.40.23:681][832]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.324276
+[2023.03.07-08.40.23:703][833]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.339562
+[2023.03.07-08.40.23:725][834]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.354848
+[2023.03.07-08.40.23:749][835]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.370135
+[2023.03.07-08.40.23:766][836]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 11 Beat:1
+[2023.03.07-08.40.23:768][836]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.385402
+[2023.03.07-08.40.23:794][837]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.400688
+[2023.03.07-08.40.23:818][838]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.415971
+[2023.03.07-08.40.23:837][839]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.431255
+[2023.03.07-08.40.23:858][840]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.429648
+[2023.03.07-08.40.23:880][841]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.418761
+[2023.03.07-08.40.23:905][842]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.407859
+[2023.03.07-08.40.23:923][843]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.396959
+[2023.03.07-08.40.23:946][844]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.375156
+[2023.03.07-08.40.23:970][845]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.375156
+[2023.03.07-08.40.23:989][846]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.364268
+[2023.03.07-08.40.24:010][847]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.353367
+[2023.03.07-08.40.24:034][848]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.342467
+[2023.03.07-08.40.24:056][849]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.320664
+[2023.03.07-08.40.24:080][850]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.309776
+[2023.03.07-08.40.24:099][851]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.316468
+[2023.03.07-08.40.24:121][852]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.316468
+[2023.03.07-08.40.24:140][853]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.324572
+[2023.03.07-08.40.24:162][854]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.332677
+[2023.03.07-08.40.24:187][855]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.348879
+[2023.03.07-08.40.24:208][856]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.356985
+[2023.03.07-08.40.24:231][857]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.365089
+[2023.03.07-08.40.24:256][858]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.373195
+[2023.03.07-08.40.24:278][859]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.381299
+[2023.03.07-08.40.24:303][860]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.389396
+[2023.03.07-08.40.24:329][861]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.397501
+[2023.03.07-08.40.24:355][862]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.381373
+[2023.03.07-08.40.24:380][863]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.362693
+[2023.03.07-08.40.24:406][864]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.34403
+[2023.03.07-08.40.24:427][865]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.325347
+[2023.03.07-08.40.24:452][866]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.306668
+[2023.03.07-08.40.24:477][867]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.287985
+[2023.03.07-08.40.24:498][868]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.269306
+[2023.03.07-08.40.24:520][869]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.250643
+[2023.03.07-08.40.24:546][870]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.213281
+[2023.03.07-08.40.24:568][871]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.194598
+[2023.03.07-08.40.24:592][872]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.197763
+[2023.03.07-08.40.24:616][873]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.22375
+[2023.03.07-08.40.24:641][874]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.249764
+[2023.03.07-08.40.24:666][875]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.275778
+[2023.03.07-08.40.24:689][876]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.301787
+[2023.03.07-08.40.24:713][877]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.327797
+[2023.03.07-08.40.24:735][878]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 11 Beat:2
+[2023.03.07-08.40.24:737][878]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.379792
+[2023.03.07-08.40.24:763][879]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.379792
+[2023.03.07-08.40.24:786][880]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.431821
+[2023.03.07-08.40.24:816][881]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.45783
+[2023.03.07-08.40.24:835][882]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.483816
+[2023.03.07-08.40.24:859][883]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.475408
+[2023.03.07-08.40.24:882][884]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.456675
+[2023.03.07-08.40.24:905][885]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.419223
+[2023.03.07-08.40.24:929][886]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.419223
+[2023.03.07-08.40.24:954][887]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.381788
+[2023.03.07-08.40.24:979][888]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.363055
+[2023.03.07-08.40.25:002][889]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.344329
+[2023.03.07-08.40.25:024][890]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.325599
+[2023.03.07-08.40.25:047][891]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.306893
+[2023.03.07-08.40.25:069][892]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.288164
+[2023.03.07-08.40.25:091][893]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.271223
+[2023.03.07-08.40.25:114][894]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.287525
+[2023.03.07-08.40.25:136][895]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.303826
+[2023.03.07-08.40.25:159][896]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.320108
+[2023.03.07-08.40.25:183][897]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.33641
+[2023.03.07-08.40.25:204][898]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.352709
+[2023.03.07-08.40.25:227][899]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.385312
+[2023.03.07-08.40.25:254][900]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.385312
+[2023.03.07-08.40.25:275][901]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.417896
+[2023.03.07-08.40.25:299][902]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.434195
+[2023.03.07-08.40.25:319][903]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.450496
+[2023.03.07-08.40.25:341][904]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.454008
+[2023.03.07-08.40.25:364][905]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.431893
+[2023.03.07-08.40.25:385][906]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.40975
+[2023.03.07-08.40.25:408][907]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.387611
+[2023.03.07-08.40.25:430][908]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.365468
+[2023.03.07-08.40.25:455][909]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.343325
+[2023.03.07-08.40.25:479][910]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.321205
+[2023.03.07-08.40.25:502][911]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.299066
+[2023.03.07-08.40.25:526][912]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.254784
+[2023.03.07-08.40.25:549][913]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.232641
+[2023.03.07-08.40.25:573][914]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.232641
+[2023.03.07-08.40.25:597][915]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.205682
+[2023.03.07-08.40.25:620][916]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.211752
+[2023.03.07-08.40.25:646][917]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.217824
+[2023.03.07-08.40.25:670][918]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.223895
+[2023.03.07-08.40.25:693][919]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.22996
+[2023.03.07-08.40.25:719][920]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.23603
+[2023.03.07-08.40.25:743][921]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.2421
+[2023.03.07-08.40.25:770][922]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 11 Beat:3
+[2023.03.07-08.40.25:772][922]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.254243
+[2023.03.07-08.40.25:800][923]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.260307
+[2023.03.07-08.40.25:823][924]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.266378
+[2023.03.07-08.40.25:850][925]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.27015
+[2023.03.07-08.40.25:873][926]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.266867
+[2023.03.07-08.40.25:898][927]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.263588
+[2023.03.07-08.40.25:925][928]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.260305
+[2023.03.07-08.40.25:952][929]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.257022
+[2023.03.07-08.40.25:976][930]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.250457
+[2023.03.07-08.40.26:001][931]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.247178
+[2023.03.07-08.40.26:024][932]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.243895
+[2023.03.07-08.40.26:050][933]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.240612
+[2023.03.07-08.40.26:077][934]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.23733
+[2023.03.07-08.40.26:100][935]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.234122
+[2023.03.07-08.40.26:123][936]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.231269
+[2023.03.07-08.40.26:145][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.225557
+[2023.03.07-08.40.26:167][938]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.222701
+[2023.03.07-08.40.26:189][939]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.219846
+[2023.03.07-08.40.26:211][940]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.219846
+[2023.03.07-08.40.26:233][941]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.216993
+[2023.03.07-08.40.26:256][942]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.21128
+[2023.03.07-08.40.26:278][943]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.208424
+[2023.03.07-08.40.26:301][944]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.205568
+[2023.03.07-08.40.26:324][945]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.202716
+[2023.03.07-08.40.26:348][946]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.197721
+[2023.03.07-08.40.26:369][947]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.190185
+[2023.03.07-08.40.26:391][948]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.18265
+[2023.03.07-08.40.26:414][949]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.175113
+[2023.03.07-08.40.26:436][950]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.167587
+[2023.03.07-08.40.26:457][951]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.16005
+[2023.03.07-08.40.26:482][952]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.152514
+[2023.03.07-08.40.26:503][953]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.144979
+[2023.03.07-08.40.26:524][954]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.137443
+[2023.03.07-08.40.26:547][955]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.129916
+[2023.03.07-08.40.26:570][956]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.12238
+[2023.03.07-08.40.26:593][957]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.114843
+[2023.03.07-08.40.26:616][958]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.084003
+[2023.03.07-08.40.26:642][959]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.067416
+[2023.03.07-08.40.26:661][960]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.050809
+[2023.03.07-08.40.26:686][961]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.050809
+[2023.03.07-08.40.26:711][962]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.017594
+[2023.03.07-08.40.26:731][963]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.00099
+[2023.03.07-08.40.26:749][964]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 11 Beat:4
+[2023.03.07-08.40.26:751][964]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.0
+[2023.03.07-08.40.26:772][965]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.0
+[2023.03.07-08.40.26:793][966]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.0
+[2023.03.07-08.40.26:817][967]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.0
+[2023.03.07-08.40.26:840][968]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.0
+[2023.03.07-08.40.26:863][969]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.0
+[2023.03.07-08.40.26:887][970]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.0
+[2023.03.07-08.40.26:908][971]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.0
+[2023.03.07-08.40.26:930][972]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.004879
+[2023.03.07-08.40.26:955][973]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.04793
+[2023.03.07-08.40.26:979][974]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.069466
+[2023.03.07-08.40.26:999][975]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.069466
+[2023.03.07-08.40.27:022][976]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.091005
+[2023.03.07-08.40.27:045][977]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.112545
+[2023.03.07-08.40.27:068][978]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.155596
+[2023.03.07-08.40.27:088][979]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.168752
+[2023.03.07-08.40.27:113][980]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.16242
+[2023.03.07-08.40.27:136][981]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.156089
+[2023.03.07-08.40.27:158][982]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.149759
+[2023.03.07-08.40.27:182][983]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.143434
+[2023.03.07-08.40.27:203][984]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.137104
+[2023.03.07-08.40.27:226][985]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.130773
+[2023.03.07-08.40.27:248][986]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.124442
+[2023.03.07-08.40.27:270][987]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.118111
+[2023.03.07-08.40.27:292][988]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.111787
+[2023.03.07-08.40.27:315][989]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.105457
+[2023.03.07-08.40.27:337][990]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.099125
+[2023.03.07-08.40.27:363][991]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.096667
+[2023.03.07-08.40.27:382][992]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.096984
+[2023.03.07-08.40.27:405][993]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.097302
+[2023.03.07-08.40.27:429][994]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.097938
+[2023.03.07-08.40.27:451][995]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.098255
+[2023.03.07-08.40.27:473][996]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.098573
+[2023.03.07-08.40.27:496][997]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.098891
+[2023.03.07-08.40.27:518][998]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.099209
+[2023.03.07-08.40.27:540][999]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.099526
+[2023.03.07-08.40.27:562][  0]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.099844
+[2023.03.07-08.40.27:584][  1]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.100162
+[2023.03.07-08.40.27:608][  2]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.113411
+[2023.03.07-08.40.27:637][  3]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.128715
+[2023.03.07-08.40.27:672][  4]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.159317
+[2023.03.07-08.40.27:696][  5]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.174621
+[2023.03.07-08.40.27:725][  6]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.205212
+[2023.03.07-08.40.27:750][  7]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 12 Beat:1
+[2023.03.07-08.40.27:752][  7]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.220514
+[2023.03.07-08.40.27:788][  8]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.251118
+[2023.03.07-08.40.27:825][  9]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.266406
+[2023.03.07-08.40.27:851][ 10]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.277686
+[2023.03.07-08.40.27:884][ 11]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.252646
+[2023.03.07-08.40.27:911][ 12]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.240123
+[2023.03.07-08.40.27:940][ 13]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.215092
+[2023.03.07-08.40.27:967][ 14]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.202572
+[2023.03.07-08.40.27:995][ 15]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.19005
+[2023.03.07-08.40.28:023][ 16]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.17753
+[2023.03.07-08.40.28:050][ 17]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.152499
+[2023.03.07-08.40.28:072][ 18]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.139979
+[2023.03.07-08.40.28:096][ 19]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.136186
+[2023.03.07-08.40.28:120][ 20]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.144147
+[2023.03.07-08.40.28:142][ 21]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.1521
+[2023.03.07-08.40.28:169][ 22]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.160062
+[2023.03.07-08.40.28:192][ 23]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.168023
+[2023.03.07-08.40.28:219][ 24]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.183945
+[2023.03.07-08.40.28:240][ 25]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.191899
+[2023.03.07-08.40.28:271][ 26]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.199861
+[2023.03.07-08.40.28:288][ 27]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.207821
+[2023.03.07-08.40.28:312][ 28]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.215783
+[2023.03.07-08.40.28:334][ 29]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.223744
+[2023.03.07-08.40.28:357][ 30]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.216819
+[2023.03.07-08.40.28:381][ 31]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.203728
+[2023.03.07-08.40.28:405][ 32]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.177542
+[2023.03.07-08.40.28:430][ 33]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.164452
+[2023.03.07-08.40.28:459][ 34]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.151373
+[2023.03.07-08.40.28:482][ 35]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.138282
+[2023.03.07-08.40.28:506][ 36]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.125187
+[2023.03.07-08.40.28:526][ 37]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.112096
+[2023.03.07-08.40.28:547][ 38]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.099006
+[2023.03.07-08.40.28:567][ 39]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.085927
+[2023.03.07-08.40.28:586][ 40]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.072837
+[2023.03.07-08.40.28:606][ 41]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.11336
+[2023.03.07-08.40.28:626][ 42]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.154524
+[2023.03.07-08.40.28:649][ 43]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.19568
+[2023.03.07-08.40.28:668][ 44]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.236799
+[2023.03.07-08.40.28:689][ 45]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.277956
+[2023.03.07-08.40.28:710][ 46]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.319119
+[2023.03.07-08.40.28:731][ 47]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.360283
+[2023.03.07-08.40.28:750][ 48]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 12 Beat:2
+[2023.03.07-08.40.28:752][ 48]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.401447
+[2023.03.07-08.40.28:772][ 49]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.401447
+[2023.03.07-08.40.28:793][ 50]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.442559
+[2023.03.07-08.40.28:817][ 51]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.524879
+[2023.03.07-08.40.28:840][ 52]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.550533
+[2023.03.07-08.40.28:871][ 53]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.534241
+[2023.03.07-08.40.28:892][ 54]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.517969
+[2023.03.07-08.40.28:914][ 55]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.501677
+[2023.03.07-08.40.28:935][ 56]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.485387
+[2023.03.07-08.40.28:959][ 57]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.469095
+[2023.03.07-08.40.28:982][ 58]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.452803
+[2023.03.07-08.40.29:004][ 59]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.436531
+[2023.03.07-08.40.29:028][ 60]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.403949
+[2023.03.07-08.40.29:051][ 61]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.387657
+[2023.03.07-08.40.29:075][ 62]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.371365
+[2023.03.07-08.40.29:100][ 63]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.374594
+[2023.03.07-08.40.29:126][ 64]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.393732
+[2023.03.07-08.40.29:153][ 65]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.412868
+[2023.03.07-08.40.29:179][ 66]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.451144
+[2023.03.07-08.40.29:202][ 67]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.470262
+[2023.03.07-08.40.29:227][ 68]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.489397
+[2023.03.07-08.40.29:252][ 69]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.508532
+[2023.03.07-08.40.29:276][ 70]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.52767
+[2023.03.07-08.40.29:304][ 71]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.546809
+[2023.03.07-08.40.29:329][ 72]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.585061
+[2023.03.07-08.40.29:357][ 73]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.565919
+[2023.03.07-08.40.29:383][ 74]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.539048
+[2023.03.07-08.40.29:408][ 75]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.512178
+[2023.03.07-08.40.29:431][ 76]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.485337
+[2023.03.07-08.40.29:452][ 77]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.458471
+[2023.03.07-08.40.29:474][ 78]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.431605
+[2023.03.07-08.40.29:497][ 79]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.377865
+[2023.03.07-08.40.29:519][ 80]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.351023
+[2023.03.07-08.40.29:539][ 81]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.324158
+[2023.03.07-08.40.29:563][ 82]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.324158
+[2023.03.07-08.40.29:586][ 83]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.275244
+[2023.03.07-08.40.29:608][ 84]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.290789
+[2023.03.07-08.40.29:632][ 85]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.306315
+[2023.03.07-08.40.29:652][ 86]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.32186
+[2023.03.07-08.40.29:674][ 87]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.337405
+[2023.03.07-08.40.29:697][ 88]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.352947
+[2023.03.07-08.40.29:719][ 89]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.368492
+[2023.03.07-08.40.29:741][ 90]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.384018
+[2023.03.07-08.40.29:760][ 91]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 12 Beat:3
+[2023.03.07-08.40.29:763][ 91]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.399563
+[2023.03.07-08.40.29:783][ 92]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.415108
+[2023.03.07-08.40.29:804][ 93]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.43065
+[2023.03.07-08.40.29:826][ 94]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.446192
+[2023.03.07-08.40.29:854][ 95]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.455276
+[2023.03.07-08.40.29:875][ 96]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.454472
+[2023.03.07-08.40.29:900][ 97]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.453668
+[2023.03.07-08.40.29:921][ 98]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.452863
+[2023.03.07-08.40.29:948][ 99]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.451256
+[2023.03.07-08.40.29:971][100]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.450452
+[2023.03.07-08.40.29:993][101]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.449648
+[2023.03.07-08.40.30:014][102]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.448843
+[2023.03.07-08.40.30:040][103]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.448039
+[2023.03.07-08.40.30:056][104]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.447236
+[2023.03.07-08.40.30:076][105]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.446432
+[2023.03.07-08.40.30:096][106]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.44153
+[2023.03.07-08.40.30:119][107]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.434664
+[2023.03.07-08.40.30:139][108]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.427797
+[2023.03.07-08.40.30:160][109]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.420938
+[2023.03.07-08.40.30:183][110]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.414071
+[2023.03.07-08.40.30:202][111]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.414071
+[2023.03.07-08.40.30:222][112]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.407204
+[2023.03.07-08.40.30:242][113]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.400339
+[2023.03.07-08.40.30:263][114]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.393472
+[2023.03.07-08.40.30:283][115]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.386613
+[2023.03.07-08.40.30:308][116]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.372879
+[2023.03.07-08.40.30:329][117]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.366013
+[2023.03.07-08.40.30:349][118]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.364987
+[2023.03.07-08.40.30:375][119]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.364987
+[2023.03.07-08.40.30:392][120]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.364221
+[2023.03.07-08.40.30:417][121]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.362687
+[2023.03.07-08.40.30:435][122]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.36192
+[2023.03.07-08.40.30:457][123]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.361154
+[2023.03.07-08.40.30:477][124]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.360387
+[2023.03.07-08.40.30:502][125]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.359621
+[2023.03.07-08.40.30:518][126]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.359621
+[2023.03.07-08.40.30:538][127]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.358854
+[2023.03.07-08.40.30:558][128]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.358087
+[2023.03.07-08.40.30:582][129]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.35732
+[2023.03.07-08.40.30:597][130]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.355496
+[2023.03.07-08.40.30:619][131]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.350285
+[2023.03.07-08.40.30:637][132]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.345073
+[2023.03.07-08.40.30:657][133]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.339862
+[2023.03.07-08.40.30:676][134]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.334651
+[2023.03.07-08.40.30:696][135]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.329445
+[2023.03.07-08.40.30:719][136]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.324234
+[2023.03.07-08.40.30:738][137]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.319023
+[2023.03.07-08.40.30:753][138]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.319023
+[2023.03.07-08.40.30:775][139]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 12 Beat:4
+[2023.03.07-08.40.30:778][139]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.3086
+[2023.03.07-08.40.30:794][140]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.3086
+[2023.03.07-08.40.30:818][141]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.298183
+[2023.03.07-08.40.30:850][142]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.296492
+[2023.03.07-08.40.30:871][143]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.298056
+[2023.03.07-08.40.30:896][144]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.299619
+[2023.03.07-08.40.30:919][145]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.301181
+[2023.03.07-08.40.30:937][146]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.302744
+[2023.03.07-08.40.30:957][147]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.304308
+[2023.03.07-08.40.30:979][148]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.305871
+[2023.03.07-08.40.31:001][149]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.307434
+[2023.03.07-08.40.31:019][150]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.308996
+[2023.03.07-08.40.31:037][151]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.310559
+[2023.03.07-08.40.31:057][152]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.312123
+[2023.03.07-08.40.31:076][153]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.313686
+[2023.03.07-08.40.31:097][154]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.33265
+[2023.03.07-08.40.31:117][155]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.355906
+[2023.03.07-08.40.31:135][156]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.355906
+[2023.03.07-08.40.31:155][157]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.379183
+[2023.03.07-08.40.31:174][158]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.402464
+[2023.03.07-08.40.31:195][159]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.42574
+[2023.03.07-08.40.31:212][160]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.449025
+[2023.03.07-08.40.31:233][161]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.472277
+[2023.03.07-08.40.31:255][162]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.495558
+[2023.03.07-08.40.31:273][163]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.518835
+[2023.03.07-08.40.31:289][164]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.542112
+[2023.03.07-08.40.31:313][165]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.565393
+[2023.03.07-08.40.31:326][166]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.565393
+[2023.03.07-08.40.31:345][167]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.585029
+[2023.03.07-08.40.31:365][168]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.564099
+[2023.03.07-08.40.31:383][169]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.543172
+[2023.03.07-08.40.31:402][170]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.522246
+[2023.03.07-08.40.31:421][171]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.501316
+[2023.03.07-08.40.31:442][172]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.480408
+[2023.03.07-08.40.31:461][173]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.459478
+[2023.03.07-08.40.31:484][174]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.459478
+[2023.03.07-08.40.31:507][175]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.417625
+[2023.03.07-08.40.31:524][176]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.417625
+[2023.03.07-08.40.31:546][177]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.375787
+[2023.03.07-08.40.31:563][178]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.375787
+[2023.03.07-08.40.31:580][179]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.354857
+[2023.03.07-08.40.31:600][180]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.345868
+[2023.03.07-08.40.31:617][181]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.357782
+[2023.03.07-08.40.31:636][182]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.369698
+[2023.03.07-08.40.31:655][183]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.369698
+[2023.03.07-08.40.31:677][184]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.393517
+[2023.03.07-08.40.31:697][185]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.405431
+[2023.03.07-08.40.31:716][186]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.417347
+[2023.03.07-08.40.31:733][187]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.417347
+[2023.03.07-08.40.31:750][188]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.429261
+[2023.03.07-08.40.31:767][189]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 13 Beat:1
+[2023.03.07-08.40.31:769][189]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.441164
+[2023.03.07-08.40.31:789][190]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.45308
+[2023.03.07-08.40.31:809][191]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.464994
+[2023.03.07-08.40.31:824][192]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.464994
+[2023.03.07-08.40.31:847][193]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.491619
+[2023.03.07-08.40.31:867][194]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.507853
+[2023.03.07-08.40.31:882][195]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.507853
+[2023.03.07-08.40.31:904][196]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.524103
+[2023.03.07-08.40.31:921][197]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.54035
+[2023.03.07-08.40.31:941][198]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.556601
+[2023.03.07-08.40.31:963][199]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.572848
+[2023.03.07-08.40.31:978][200]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.589081
+[2023.03.07-08.40.32:000][201]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.605328
+[2023.03.07-08.40.32:019][202]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.621579
+[2023.03.07-08.40.32:035][203]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.637829
+[2023.03.07-08.40.32:061][204]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.654077
+[2023.03.07-08.40.32:079][205]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.670309
+[2023.03.07-08.40.32:101][206]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.663434
+[2023.03.07-08.40.32:125][207]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.654698
+[2023.03.07-08.40.32:141][208]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.654698
+[2023.03.07-08.40.32:161][209]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.645965
+[2023.03.07-08.40.32:184][210]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.637232
+[2023.03.07-08.40.32:202][211]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.628507
+[2023.03.07-08.40.32:223][212]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.619774
+[2023.03.07-08.40.32:242][213]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.611039
+[2023.03.07-08.40.32:259][214]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.602305
+[2023.03.07-08.40.32:285][215]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.593571
+[2023.03.07-08.40.32:301][216]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.584846
+[2023.03.07-08.40.32:318][217]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.576113
+[2023.03.07-08.40.32:341][218]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.569489
+[2023.03.07-08.40.32:356][219]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.570939
+[2023.03.07-08.40.32:381][220]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.572389
+[2023.03.07-08.40.32:400][221]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.573838
+[2023.03.07-08.40.32:418][222]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.575288
+[2023.03.07-08.40.32:438][223]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.575288
+[2023.03.07-08.40.32:458][224]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.576738
+[2023.03.07-08.40.32:478][225]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.578188
+[2023.03.07-08.40.32:496][226]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.579639
+[2023.03.07-08.40.32:516][227]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.581087
+[2023.03.07-08.40.32:534][228]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.582537
+[2023.03.07-08.40.32:551][229]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.583987
+[2023.03.07-08.40.32:569][230]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.585438
+[2023.03.07-08.40.32:589][231]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.583199
+[2023.03.07-08.40.32:612][232]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.583199
+[2023.03.07-08.40.32:631][233]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.577112
+[2023.03.07-08.40.32:649][234]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.571017
+[2023.03.07-08.40.32:667][235]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.564923
+[2023.03.07-08.40.32:691][236]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.558828
+[2023.03.07-08.40.32:712][237]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.552733
+[2023.03.07-08.40.32:735][238]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 13 Beat:2
+[2023.03.07-08.40.32:738][238]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.540551
+[2023.03.07-08.40.32:760][239]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.540551
+[2023.03.07-08.40.32:781][240]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.534458
+[2023.03.07-08.40.32:803][241]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.528363
+[2023.03.07-08.40.32:830][242]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.516181
+[2023.03.07-08.40.32:848][243]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.509666
+[2023.03.07-08.40.32:872][244]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.503027
+[2023.03.07-08.40.32:896][245]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.496386
+[2023.03.07-08.40.32:916][246]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.489746
+[2023.03.07-08.40.32:945][247]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.483113
+[2023.03.07-08.40.32:965][248]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.476473
+[2023.03.07-08.40.32:991][249]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.469834
+[2023.03.07-08.40.33:015][250]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.456553
+[2023.03.07-08.40.33:040][251]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.44992
+[2023.03.07-08.40.33:068][252]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.443281
+[2023.03.07-08.40.33:089][253]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.437337
+[2023.03.07-08.40.33:116][254]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.444347
+[2023.03.07-08.40.33:134][255]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.451357
+[2023.03.07-08.40.33:156][256]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.458359
+[2023.03.07-08.40.33:183][257]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.465369
+[2023.03.07-08.40.33:209][258]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.479388
+[2023.03.07-08.40.33:232][259]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.486399
+[2023.03.07-08.40.33:258][260]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.4934
+[2023.03.07-08.40.33:280][261]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.500412
+[2023.03.07-08.40.33:301][262]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.507421
+[2023.03.07-08.40.33:323][263]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.51443
+[2023.03.07-08.40.33:346][264]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.520273
+[2023.03.07-08.40.33:368][265]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.523771
+[2023.03.07-08.40.33:394][266]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.527274
+[2023.03.07-08.40.33:421][267]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.530777
+[2023.03.07-08.40.33:439][268]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.534278
+[2023.03.07-08.40.33:461][269]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.53778
+[2023.03.07-08.40.33:485][270]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.544782
+[2023.03.07-08.40.33:514][271]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.548284
+[2023.03.07-08.40.33:538][272]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.551786
+[2023.03.07-08.40.33:564][273]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.555288
+[2023.03.07-08.40.33:594][274]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.558788
+[2023.03.07-08.40.33:633][275]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.519385
+[2023.03.07-08.40.33:668][276]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.468863
+[2023.03.07-08.40.33:700][277]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.418359
+[2023.03.07-08.40.33:731][278]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.393094
+[2023.03.07-08.40.33:754][279]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 13 Beat:3
+[2023.03.07-08.40.33:755][279]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.367833
+[2023.03.07-08.40.33:779][280]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.342572
+[2023.03.07-08.40.33:806][281]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.292068
+[2023.03.07-08.40.33:831][282]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.266803
+[2023.03.07-08.40.33:854][283]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.275297
+[2023.03.07-08.40.33:881][284]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.287757
+[2023.03.07-08.40.33:903][285]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.300208
+[2023.03.07-08.40.33:932][286]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.312668
+[2023.03.07-08.40.33:953][287]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.325131
+[2023.03.07-08.40.33:976][288]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.35005
+[2023.03.07-08.40.33:999][289]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.362502
+[2023.03.07-08.40.34:022][290]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.374962
+[2023.03.07-08.40.34:045][291]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.374962
+[2023.03.07-08.40.34:068][292]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.399884
+[2023.03.07-08.40.34:091][293]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.409046
+[2023.03.07-08.40.34:114][294]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.402805
+[2023.03.07-08.40.34:136][295]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.396559
+[2023.03.07-08.40.34:157][296]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.390312
+[2023.03.07-08.40.34:182][297]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.384067
+[2023.03.07-08.40.34:204][298]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.377821
+[2023.03.07-08.40.34:233][299]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.37158
+[2023.03.07-08.40.34:252][300]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.365334
+[2023.03.07-08.40.34:276][301]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.352841
+[2023.03.07-08.40.34:297][302]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.346596
+[2023.03.07-08.40.34:322][303]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.340354
+[2023.03.07-08.40.34:346][304]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.336943
+[2023.03.07-08.40.34:369][305]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.336899
+[2023.03.07-08.40.34:391][306]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.336855
+[2023.03.07-08.40.34:416][307]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.336811
+[2023.03.07-08.40.34:438][308]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.336767
+[2023.03.07-08.40.34:460][309]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.336723
+[2023.03.07-08.40.34:484][310]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.336679
+[2023.03.07-08.40.34:507][311]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.336591
+[2023.03.07-08.40.34:531][312]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.336591
+[2023.03.07-08.40.34:554][313]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.336547
+[2023.03.07-08.40.34:577][314]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.336459
+[2023.03.07-08.40.34:603][315]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.348405
+[2023.03.07-08.40.34:625][316]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.3646
+[2023.03.07-08.40.34:649][317]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.380772
+[2023.03.07-08.40.34:670][318]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.396962
+[2023.03.07-08.40.34:696][319]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.413151
+[2023.03.07-08.40.34:718][320]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.429344
+[2023.03.07-08.40.34:739][321]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.445539
+[2023.03.07-08.40.34:762][322]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 13 Beat:4
+[2023.03.07-08.40.34:764][322]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.461711
+[2023.03.07-08.40.34:787][323]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.49409
+[2023.03.07-08.40.34:812][324]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.510285
+[2023.03.07-08.40.34:837][325]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.525964
+[2023.03.07-08.40.34:865][326]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.516982
+[2023.03.07-08.40.34:886][327]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.507991
+[2023.03.07-08.40.34:907][328]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.498999
+[2023.03.07-08.40.34:931][329]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.490004
+[2023.03.07-08.40.34:957][330]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.472028
+[2023.03.07-08.40.34:980][331]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.463036
+[2023.03.07-08.40.35:002][332]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.463036
+[2023.03.07-08.40.35:025][333]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.454044
+[2023.03.07-08.40.35:047][334]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.436057
+[2023.03.07-08.40.35:069][335]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.427074
+[2023.03.07-08.40.35:091][336]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.420469
+[2023.03.07-08.40.35:115][337]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.419416
+[2023.03.07-08.40.35:140][338]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.418363
+[2023.03.07-08.40.35:163][339]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.41731
+[2023.03.07-08.40.35:185][340]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.416258
+[2023.03.07-08.40.35:206][341]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.415205
+[2023.03.07-08.40.35:230][342]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.414152
+[2023.03.07-08.40.35:252][343]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.413099
+[2023.03.07-08.40.35:275][344]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.410994
+[2023.03.07-08.40.35:297][345]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.409941
+[2023.03.07-08.40.35:320][346]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.409941
+[2023.03.07-08.40.35:344][347]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.408888
+[2023.03.07-08.40.35:365][348]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.39411
+[2023.03.07-08.40.35:392][349]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.385059
+[2023.03.07-08.40.35:411][350]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.375997
+[2023.03.07-08.40.35:436][351]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.366933
+[2023.03.07-08.40.35:456][352]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.357872
+[2023.03.07-08.40.35:483][353]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.348811
+[2023.03.07-08.40.35:508][354]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.33976
+[2023.03.07-08.40.35:531][355]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.330698
+[2023.03.07-08.40.35:552][356]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.321634
+[2023.03.07-08.40.35:578][357]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.303513
+[2023.03.07-08.40.35:601][358]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.305514
+[2023.03.07-08.40.35:622][359]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.309263
+[2023.03.07-08.40.35:643][360]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.309263
+[2023.03.07-08.40.35:669][361]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.31676
+[2023.03.07-08.40.35:693][362]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.320509
+[2023.03.07-08.40.35:716][363]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.324253
+[2023.03.07-08.40.35:739][364]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.328002
+[2023.03.07-08.40.35:764][365]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 14 Beat:1
+[2023.03.07-08.40.35:765][365]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.335499
+[2023.03.07-08.40.35:797][366]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.339247
+[2023.03.07-08.40.35:824][367]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.342992
+[2023.03.07-08.40.35:849][368]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.345857
+[2023.03.07-08.40.35:873][369]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.343488
+[2023.03.07-08.40.35:899][370]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.338751
+[2023.03.07-08.40.35:924][371]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.336385
+[2023.03.07-08.40.35:951][372]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.334016
+[2023.03.07-08.40.35:974][373]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.331648
+[2023.03.07-08.40.36:000][374]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.329279
+[2023.03.07-08.40.36:023][375]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.32691
+[2023.03.07-08.40.36:052][376]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.322175
+[2023.03.07-08.40.36:075][377]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.319807
+[2023.03.07-08.40.36:102][378]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.321597
+[2023.03.07-08.40.36:125][379]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.328984
+[2023.03.07-08.40.36:155][380]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.343754
+[2023.03.07-08.40.36:178][381]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.351141
+[2023.03.07-08.40.36:206][382]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.35853
+[2023.03.07-08.40.36:227][383]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.365918
+[2023.03.07-08.40.36:251][384]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.3733
+[2023.03.07-08.40.36:273][385]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.380688
+[2023.03.07-08.40.36:296][386]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.388075
+[2023.03.07-08.40.36:317][387]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.395464
+[2023.03.07-08.40.36:343][388]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.402851
+[2023.03.07-08.40.36:362][389]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.405107
+[2023.03.07-08.40.36:384][390]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.405243
+[2023.03.07-08.40.36:408][391]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.405514
+[2023.03.07-08.40.36:431][392]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.40565
+[2023.03.07-08.40.36:455][393]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.40565
+[2023.03.07-08.40.36:477][394]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.405921
+[2023.03.07-08.40.36:502][395]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.406057
+[2023.03.07-08.40.36:527][396]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.406193
+[2023.03.07-08.40.36:548][397]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.406329
+[2023.03.07-08.40.36:571][398]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.406464
+[2023.03.07-08.40.36:593][399]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.4066
+[2023.03.07-08.40.36:618][400]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.405272
+[2023.03.07-08.40.36:645][401]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.403927
+[2023.03.07-08.40.36:664][402]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.402582
+[2023.03.07-08.40.36:687][403]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.399893
+[2023.03.07-08.40.36:707][404]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.398548
+[2023.03.07-08.40.36:731][405]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.397203
+[2023.03.07-08.40.36:752][406]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 14 Beat:2
+[2023.03.07-08.40.36:753][406]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.395857
+[2023.03.07-08.40.36:780][407]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.394513
+[2023.03.07-08.40.36:802][408]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.393168
+[2023.03.07-08.40.36:833][409]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.391823
+[2023.03.07-08.40.36:855][410]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.392488
+[2023.03.07-08.40.36:878][411]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.393783
+[2023.03.07-08.40.36:901][412]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.39508
+[2023.03.07-08.40.36:923][413]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.39508
+[2023.03.07-08.40.36:946][414]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.397673
+[2023.03.07-08.40.36:970][415]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.39897
+[2023.03.07-08.40.36:994][416]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.400265
+[2023.03.07-08.40.37:017][417]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.401562
+[2023.03.07-08.40.37:040][418]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.402859
+[2023.03.07-08.40.37:065][419]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.404155
+[2023.03.07-08.40.37:088][420]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.405452
+[2023.03.07-08.40.37:116][421]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.430346
+[2023.03.07-08.40.37:136][422]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.446025
+[2023.03.07-08.40.37:158][423]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.461703
+[2023.03.07-08.40.37:187][424]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.477387
+[2023.03.07-08.40.37:208][425]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.493049
+[2023.03.07-08.40.37:232][426]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.508731
+[2023.03.07-08.40.37:254][427]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.524409
+[2023.03.07-08.40.37:276][428]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.540093
+[2023.03.07-08.40.37:303][429]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.555772
+[2023.03.07-08.40.37:322][430]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.571434
+[2023.03.07-08.40.37:344][431]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.587115
+[2023.03.07-08.40.37:368][432]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.588629
+[2023.03.07-08.40.37:391][433]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.588019
+[2023.03.07-08.40.37:416][434]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.587409
+[2023.03.07-08.40.37:437][435]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.586799
+[2023.03.07-08.40.37:460][436]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.586189
+[2023.03.07-08.40.37:482][437]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.585578
+[2023.03.07-08.40.37:505][438]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.584968
+[2023.03.07-08.40.37:531][439]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.584358
+[2023.03.07-08.40.37:554][440]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.583748
+[2023.03.07-08.40.37:576][441]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.583138
+[2023.03.07-08.40.37:600][442]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.581661
+[2023.03.07-08.40.37:624][443]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.573444
+[2023.03.07-08.40.37:650][444]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.55702
+[2023.03.07-08.40.37:675][445]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.548801
+[2023.03.07-08.40.37:701][446]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.540583
+[2023.03.07-08.40.37:728][447]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.532366
+[2023.03.07-08.40.37:752][448]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.524158
+[2023.03.07-08.40.37:774][449]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 14 Beat:3
+[2023.03.07-08.40.37:776][449]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.507722
+[2023.03.07-08.40.37:803][450]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.499504
+[2023.03.07-08.40.37:828][451]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.491288
+[2023.03.07-08.40.37:851][452]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.485777
+[2023.03.07-08.40.37:874][453]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.484402
+[2023.03.07-08.40.37:897][454]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.483026
+[2023.03.07-08.40.37:920][455]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.481651
+[2023.03.07-08.40.37:941][456]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.480276
+[2023.03.07-08.40.37:966][457]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.478902
+[2023.03.07-08.40.37:988][458]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.476151
+[2023.03.07-08.40.38:011][459]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.474776
+[2023.03.07-08.40.38:033][460]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.473401
+[2023.03.07-08.40.38:057][461]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.472027
+[2023.03.07-08.40.38:081][462]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.470651
+[2023.03.07-08.40.38:103][463]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.466303
+[2023.03.07-08.40.38:124][464]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.460528
+[2023.03.07-08.40.38:147][465]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.454754
+[2023.03.07-08.40.38:171][466]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.448987
+[2023.03.07-08.40.38:192][467]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.443211
+[2023.03.07-08.40.38:216][468]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.437438
+[2023.03.07-08.40.38:237][469]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.431664
+[2023.03.07-08.40.38:262][470]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.425889
+[2023.03.07-08.40.38:284][471]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.420122
+[2023.03.07-08.40.38:305][472]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.408572
+[2023.03.07-08.40.38:331][473]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.402799
+[2023.03.07-08.40.38:352][474]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.399425
+[2023.03.07-08.40.38:380][475]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.396162
+[2023.03.07-08.40.38:405][476]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.392894
+[2023.03.07-08.40.38:424][477]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.389627
+[2023.03.07-08.40.38:449][478]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.386361
+[2023.03.07-08.40.38:469][479]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.383093
+[2023.03.07-08.40.38:491][480]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.37983
+[2023.03.07-08.40.38:515][481]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.376562
+[2023.03.07-08.40.38:538][482]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.373296
+[2023.03.07-08.40.38:559][483]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.370029
+[2023.03.07-08.40.38:583][484]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.366762
+[2023.03.07-08.40.38:583][484]LogBlueprintUserMessages: [MusicAnalyzer_C_0] 0.366762
+[2023.03.07-08.40.38:605][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-08.40.38:605][484]LogWorld: BeginTearingDown for /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.07-08.40.38:606][484]LogSlate: Window 'MusicalAI Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.07-08.40.38:625][484]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-08.40.38:630][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-08.40.38:630][484]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.03.07-08.40.38:648][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.07-08.40.38:656][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-08.40.38:717][484]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.07-08.40.38:717][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.03.07-08.40.38:719][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.03.07-08.40.38:731][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.03.07-08.40.38:754][485]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.03.07-08.40.46:807][769]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.241 and deleted 0 files with total size 0 MiB. Scanned 10115 files in 9815 folders with total size 630 MiB.
