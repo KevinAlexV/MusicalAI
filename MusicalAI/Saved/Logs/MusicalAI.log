@@ -8418,3 +8418,317 @@ Script call stack:
 [2023.03.07-07.50.54:436][193]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
 [2023.03.07-07.50.55:731][339]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
 [2023.03.07-07.50.55:731][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-07.51.49:140][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.03.07-07.51.51:429][168]LogSlate: Window 'Save Content' being destroyed
+[2023.03.07-07.51.51:445][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.07-07.51.51:507][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/B/1L/GBPYQ6DWNRGS9ZZD4X4EFW
+[2023.03.07-07.51.51:508][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/GBPYQ6DWNRGS9ZZD4X4EFWD673F47B442C8EFBD13340BD927FE881.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/B/1L/GBPYQ6DWNRGS9ZZD4X4EFW.uasset'
+[2023.03.07-07.51.51:510][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/5/Y0/L9XBUIZ7BAL2OZ8PUQJ5RW
+[2023.03.07-07.51.51:510][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/L9XBUIZ7BAL2OZ8PUQJ5RW6979B9AF49D9B9B788FC9B84D269793F.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/5/Y0/L9XBUIZ7BAL2OZ8PUQJ5RW.uasset'
+[2023.03.07-07.51.51:513][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/3/IL/N0ODAEKD81660DVP0WYTH2
+[2023.03.07-07.51.51:513][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/N0ODAEKD81660DVP0WYTH2ED39248042C36A16FA686291F52C7749.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/3/IL/N0ODAEKD81660DVP0WYTH2.uasset'
+[2023.03.07-07.51.51:515][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/A/L9/KT5LS2TQATRUT8VV70KFIT
+[2023.03.07-07.51.51:516][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/KT5LS2TQATRUT8VV70KFITA64A31B741546227B60033A3C1146009.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/A/L9/KT5LS2TQATRUT8VV70KFIT.uasset'
+[2023.03.07-07.51.51:518][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/1/UR/8XWD4URVFMCMRVBI9ULZF3
+[2023.03.07-07.51.51:518][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/8XWD4URVFMCMRVBI9ULZF3103D19FD4CDAE4247D62C295957EB6D5.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/1/UR/8XWD4URVFMCMRVBI9ULZF3.uasset'
+[2023.03.07-07.51.51:521][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/D/VC/T9F90MQ2GPMXL0FG6CGWKU
+[2023.03.07-07.51.51:521][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/T9F90MQ2GPMXL0FG6CGWKUDE533BEB4485D3D9050827B5D530F003.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/D/VC/T9F90MQ2GPMXL0FG6CGWKU.uasset'
+[2023.03.07-07.51.51:523][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/5/CK/QWJVWQ5BOYZVBABIWP2Z7E
+[2023.03.07-07.51.51:523][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/QWJVWQ5BOYZVBABIWP2Z7EDDAAD87E4A18DD40D63704AC08C3C0C0.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/5/CK/QWJVWQ5BOYZVBABIWP2Z7E.uasset'
+[2023.03.07-07.51.51:525][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/D/Z3/GGV8C0L8PP16R3W1Y92FR5
+[2023.03.07-07.51.51:526][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/GGV8C0L8PP16R3W1Y92FR56714DF30401DB10F488F028CA356F2FE.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/D/Z3/GGV8C0L8PP16R3W1Y92FR5.uasset'
+[2023.03.07-07.51.51:528][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/8/WY/WGAFLC47LXPRDZHCCABAVD
+[2023.03.07-07.51.51:528][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/WGAFLC47LXPRDZHCCABAVD781843924702D5449F9C559D64E7F76D.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/8/WY/WGAFLC47LXPRDZHCCABAVD.uasset'
+[2023.03.07-07.51.51:530][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/C/ML/53OM95JM570H0NNHLIV38G
+[2023.03.07-07.51.51:531][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/53OM95JM570H0NNHLIV38G96B2B9874CBE9AA662551D86966B2288.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/C/ML/53OM95JM570H0NNHLIV38G.uasset'
+[2023.03.07-07.51.51:533][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/1/GR/UJOS8HXAKS27EXE7NDJ2VN
+[2023.03.07-07.51.51:533][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/UJOS8HXAKS27EXE7NDJ2VN94C9ECAC4DD675206FEAF0B4E7EC7F80.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/1/GR/UJOS8HXAKS27EXE7NDJ2VN.uasset'
+[2023.03.07-07.51.51:535][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/4/M5/LJGZZ64BX0J0QV61MZ8HDG
+[2023.03.07-07.51.51:536][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/LJGZZ64BX0J0QV61MZ8HDG0C2C35AA48110EC5EF5253897231AE5D.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/4/M5/LJGZZ64BX0J0QV61MZ8HDG.uasset'
+[2023.03.07-07.51.51:539][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetPieces/Objects/Fauna/CL04_Bark01_dif_su" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_Bark01_dif_su.uasset" SILENT=true
+[2023.03.07-07.51.51:630][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/CL04_Bark01_dif_su
+[2023.03.07-07.51.51:630][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/CL04_Bark01_dif_su844D8CAF435A53A6C83D0FBB7738387B.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_Bark01_dif_su.uasset'
+[2023.03.07-07.51.51:633][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetPieces/Objects/Fauna/CL04_Bark01_gls_su" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_Bark01_gls_su.uasset" SILENT=true
+[2023.03.07-07.51.51:656][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/CL04_Bark01_gls_su
+[2023.03.07-07.51.51:656][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/CL04_Bark01_gls_su2F05287540C8B696424B55A4C9B8C2D6.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_Bark01_gls_su.uasset'
+[2023.03.07-07.51.51:659][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetPieces/Objects/Fauna/CL04_Bark01_nml_su" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_Bark01_nml_su.uasset" SILENT=true
+[2023.03.07-07.51.51:741][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/CL04_Bark01_nml_su
+[2023.03.07-07.51.51:741][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/CL04_Bark01_nml_suB578B32A4C8135369B5870AF360157AA.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_Bark01_nml_su.uasset'
+[2023.03.07-07.51.51:745][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetPieces/Objects/Fauna/CL04_Leaf01_alp_su" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_Leaf01_alp_su.uasset" SILENT=true
+[2023.03.07-07.51.51:749][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/CL04_Leaf01_alp_su
+[2023.03.07-07.51.51:749][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/CL04_Leaf01_alp_su2C4ACD0D4A42A3E84AEC1C881270A3D1.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_Leaf01_alp_su.uasset'
+[2023.03.07-07.51.51:751][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetPieces/Objects/Fauna/CL04_Leaf01_gls_su" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_Leaf01_gls_su.uasset" SILENT=true
+[2023.03.07-07.51.51:760][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/CL04_Leaf01_gls_su
+[2023.03.07-07.51.51:760][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/CL04_Leaf01_gls_su264613E34D2AF55DA1C81795E82EFB83.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_Leaf01_gls_su.uasset'
+[2023.03.07-07.51.51:763][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetPieces/Objects/Fauna/CL04_Leaf01_nml_su" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_Leaf01_nml_su.uasset" SILENT=true
+[2023.03.07-07.51.51:786][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/CL04_Leaf01_nml_su
+[2023.03.07-07.51.51:786][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/CL04_Leaf01_nml_su50BA7B2944985426A50B15B8A04F6A88.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_Leaf01_nml_su.uasset'
+[2023.03.07-07.51.51:805][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/CL04_Leaf01Front_dif_su
+[2023.03.07-07.51.51:805][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/CL04_Leaf01Front_dif_suC130E6694ABF12F741FA28927D091AE3.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_Leaf01Front_dif_su.uasset'
+[2023.03.07-07.51.51:806][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetPieces/Objects/Fauna/CL04_M_Bark01_5" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_M_Bark01_5.uasset" SILENT=true
+[2023.03.07-07.51.51:909][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/CL04_M_Bark01_5
+[2023.03.07-07.51.51:909][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/CL04_M_Bark01_5F949DB1145B956C16031A0A03FE55F9E.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/CL04_M_Bark01_5.uasset'
+[2023.03.07-07.51.51:938][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_1_Bark01_1
+[2023.03.07-07.51.51:938][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FBX_CL04_CalocedrusDecurrens_1_BDF8F5D8D409AB220DD77BA86445F4609.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_1_Bark01_1.uasset'
+[2023.03.07-07.51.51:950][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_1_Leaf01_1
+[2023.03.07-07.51.51:950][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FBX_CL04_CalocedrusDecurrens_1_LD6F0605143F8E35F697639B77A05027F.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_1_Leaf01_1.uasset'
+[2023.03.07-07.51.52:008][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_2_Bark01_2
+[2023.03.07-07.51.52:008][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FBX_CL04_CalocedrusDecurrens_2_BEFA38A4042DD6F0AA8288587F6EFCD9C.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_2_Bark01_2.uasset'
+[2023.03.07-07.51.52:025][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_2_Leaf01_2
+[2023.03.07-07.51.52:025][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FBX_CL04_CalocedrusDecurrens_2_LD730ECDB4A1130F309FA3494288577CC.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_2_Leaf01_2.uasset'
+[2023.03.07-07.51.52:096][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_3_Bark01_3
+[2023.03.07-07.51.52:096][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FBX_CL04_CalocedrusDecurrens_3_B04FE86964AB4C6DE942C9A9067E4DE88.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_3_Bark01_3.uasset'
+[2023.03.07-07.51.52:116][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_3_Leaf01_3
+[2023.03.07-07.51.52:116][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FBX_CL04_CalocedrusDecurrens_3_L7DEB638F4B874961FC1B3C8518B988AF.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_3_Leaf01_3.uasset'
+[2023.03.07-07.51.52:193][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_4_Bark01_4
+[2023.03.07-07.51.52:194][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FBX_CL04_CalocedrusDecurrens_4_B86C51A014CE813D9B2F3BF8591C757C7.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_4_Bark01_4.uasset'
+[2023.03.07-07.51.52:209][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_4_Leaf01_4
+[2023.03.07-07.51.52:210][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FBX_CL04_CalocedrusDecurrens_4_L3025B9F94B86819CB67044B67DE79CF2.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_4_Leaf01_4.uasset'
+[2023.03.07-07.51.52:297][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_5_Bark01_5
+[2023.03.07-07.51.52:297][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FBX_CL04_CalocedrusDecurrens_5_B0543401A4427C81AB12FEFBE870732A4.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_5_Bark01_5.uasset'
+[2023.03.07-07.51.52:312][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_5_Leaf01_5
+[2023.03.07-07.51.52:312][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FBX_CL04_CalocedrusDecurrens_5_LEA7127154C1D98CD13F29897278BAABE.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_5_Leaf01_5.uasset'
+[2023.03.07-07.51.52:370][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_6_Bark01_6
+[2023.03.07-07.51.52:371][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FBX_CL04_CalocedrusDecurrens_6_BCD8C09F545E45216E5CB6F8A6E930727.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_6_Bark01_6.uasset'
+[2023.03.07-07.51.52:397][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_6_Leaf01_6
+[2023.03.07-07.51.52:397][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FBX_CL04_CalocedrusDecurrens_6_L26877C4E42BCE97478634EB747BD85BE.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_6_Leaf01_6.uasset'
+[2023.03.07-07.51.54:447][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.51.56:354][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001925s (1.912674s overbudget)
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: ================================================
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Total job queries 1128, among them cache hits 408 (36.17%)
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Tracking 716 distinct input hashes that result in 380 distinct outputs (53.07%)
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: RAM used: 4.94 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.30%
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Shaders Compiled: 371
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Jobs assigned 371, completed 371 (100.00%)
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Average time worker was idle: 17.43 s
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Time job spent in pending queue: average 2.96 s, longest 25.12 s
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Job execution time: average 1.07 s, max 4.26 s
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Job life time (pending + execution): average 4.03 s, max 26.86
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 115.52 s
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Jobs were issued in 371 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Average processing rate: 3.21 jobs/sec
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Total thread time: 343.25 s
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Total thread preprocess time: 25.64 s
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Percentage time preprocessing: 7.47%
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Effective parallelization: 2.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   60 times, average 1.24 sec, max 3.16 sec, min 0.66 sec)
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   60 times, average 1.24 sec, max 2.97 sec, min 0.61 sec)
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   41 times, average 1.21 sec, max 2.81 sec, min 0.53 sec)
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    9 times, average 0.91 sec, max 2.67 sec, min 0.61 sec)
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   41 times, average 0.77 sec, max 1.66 sec, min 0.36 sec)
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.73% of total time (compiled   60 times, average 1.24 sec, max 3.16 sec, min 0.66 sec)
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.65% of total time (compiled   60 times, average 1.24 sec, max 2.97 sec, min 0.61 sec)
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.48% of total time (compiled   41 times, average 1.21 sec, max 2.81 sec, min 0.53 sec)
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.25% of total time (compiled   41 times, average 0.77 sec, max 1.66 sec, min 0.36 sec)
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 2.37% of total time (compiled    9 times, average 0.91 sec, max 2.67 sec, min 0.61 sec)
+[2023.03.07-07.51.56:357][168]LogShaderCompilers: Display: ================================================
+[2023.03.07-07.51.56:404][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetPieces/Objects/Fauna/Leaf01_su_SHD" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/Leaf01_su_SHD.uasset" SILENT=true
+[2023.03.07-07.51.56:406][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/Leaf01_su_SHD
+[2023.03.07-07.51.56:406][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/Leaf01_su_SHD221041B3477ACF1DD8673484028BA655.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/Leaf01_su_SHD.uasset'
+[2023.03.07-07.51.56:406][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetPieces/Materials/M_Wood_Oak" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Materials/M_Wood_Oak.uasset" SILENT=true
+[2023.03.07-07.51.56:410][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Materials/M_Wood_Oak
+[2023.03.07-07.51.56:410][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/M_Wood_Oak2CDAF86544B425C54AA774A3BA494BAF.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Materials/M_Wood_Oak.uasset'
+[2023.03.07-07.51.56:483][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD0_MI_LOD0
+[2023.03.07-07.51.56:483][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_A_B0117FC0494A5B03C1F41AA7E87B7F2A.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD0_MI_LOD0.uasset'
+[2023.03.07-07.51.56:512][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD0_MI_LOD0_001
+[2023.03.07-07.51.56:512][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_A_DB69D54245CEDA3366753E9F5F1617B1.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD0_MI_LOD0_001.uasset'
+[2023.03.07-07.51.56:525][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD1_MI_LOD1
+[2023.03.07-07.51.56:525][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_A_9EDADDFB44CC0BE6F7C7CB96AA76067E.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD1_MI_LOD1.uasset'
+[2023.03.07-07.51.56:546][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD1_MI_LOD1_001
+[2023.03.07-07.51.56:546][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_A_F053AEF143B53FB3D448F5B3C3818BB9.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD1_MI_LOD1_001.uasset'
+[2023.03.07-07.51.56:555][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD2_MI_LOD2
+[2023.03.07-07.51.56:555][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_A_DA32D8B8424C2C22058DCDB6E1C831A1.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD2_MI_LOD2.uasset'
+[2023.03.07-07.51.56:563][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD2_MI_LOD2_001
+[2023.03.07-07.51.56:563][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_A_A89C7EA849D06B5ABF6B7CA8080D86AC.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD2_MI_LOD2_001.uasset'
+[2023.03.07-07.51.56:654][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD0_MI_LOD0
+[2023.03.07-07.51.56:654][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_M_FB44BA3443C4983442CEA9A697DDD320.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD0_MI_LOD0.uasset'
+[2023.03.07-07.51.56:671][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD0_MI_LOD0_001
+[2023.03.07-07.51.56:671][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_M_2AEFD6E9477273CEBE6F2DB89B769E47.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD0_MI_LOD0_001.uasset'
+[2023.03.07-07.51.56:694][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD1_MI_LOD1
+[2023.03.07-07.51.56:694][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_M_37825B9D446826A4C2290B90B882FA17.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD1_MI_LOD1.uasset'
+[2023.03.07-07.51.56:706][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD1_MI_LOD1_001
+[2023.03.07-07.51.56:706][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_M_C856A10C46E43A02ABE112BE6DF004EB.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD1_MI_LOD1_001.uasset'
+[2023.03.07-07.51.56:715][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD2_MI_LOD2
+[2023.03.07-07.51.56:715][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_M_384E6ED147F408C0829E078BDB7057F4.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD2_MI_LOD2.uasset'
+[2023.03.07-07.51.56:723][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD2_MI_LOD2_001
+[2023.03.07-07.51.56:723][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_M_7AC5310745B3ECC8D8DBF5BEF261258C.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD2_MI_LOD2_001.uasset'
+[2023.03.07-07.51.56:771][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD0_MI_LOD0
+[2023.03.07-07.51.56:771][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_Y_2CCCBE1C475642F8E5170381B7F07A7A.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD0_MI_LOD0.uasset'
+[2023.03.07-07.51.56:787][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD0_MI_LOD0_001
+[2023.03.07-07.51.56:787][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_Y_778294B445D13258C306D5916AB96F34.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD0_MI_LOD0_001.uasset'
+[2023.03.07-07.51.56:798][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD1_MI_LOD1
+[2023.03.07-07.51.56:798][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_Y_8F69FD6C4AEC8D5FB46B58B19CA3F69A.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD1_MI_LOD1.uasset'
+[2023.03.07-07.51.56:808][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD1_MI_LOD1_001
+[2023.03.07-07.51.56:808][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_Y_D42D8C64488B7E683FD0909AB21ED02D.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD1_MI_LOD1_001.uasset'
+[2023.03.07-07.51.56:815][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD2_MI_LOD2
+[2023.03.07-07.51.56:815][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_Y_2BD5B7CF443929466E327D8CC4876B41.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD2_MI_LOD2.uasset'
+[2023.03.07-07.51.56:820][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD2_MI_LOD2_001
+[2023.03.07-07.51.56:820][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MESH_CL04_CalocedrusDecurrens_Y_2E7EDF5641A804287F3FBCB6EE7BEF4C.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD2_MI_LOD2_001.uasset'
+[2023.03.07-07.51.58:837][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.51.59:149][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003056s (0.314154s overbudget)
+[2023.03.07-07.51.59:162][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetPieces/Objects/Fauna/MI_Bark01" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MI_Bark01.uasset" SILENT=true
+[2023.03.07-07.51.59:164][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MI_Bark01
+[2023.03.07-07.51.59:164][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MI_Bark0197CA79914F12FDC1DC4AF791A8E704ED.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MI_Bark01.uasset'
+[2023.03.07-07.52.01:182][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.01:715][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001065s (0.533737s overbudget)
+[2023.03.07-07.52.01:727][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetPieces/Objects/Fauna/MI_Leaves01" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MI_Leaves01.uasset" SILENT=true
+[2023.03.07-07.52.01:728][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/MI_Leaves01
+[2023.03.07-07.52.01:728][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MI_Leaves01B5C8630743210716398EC39259387DF1.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/MI_Leaves01.uasset'
+[2023.03.07-07.52.03:744][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.03:966][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002038s (0.223693s overbudget)
+[2023.03.07-07.52.03:979][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_flower1_1_Mat
+[2023.03.07-07.52.03:979][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_flower1_1_MatF7376CA44098D70BEBB88EA4AC390821.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_flower1_1_Mat.uasset'
+[2023.03.07-07.52.05:996][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.06:327][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000088s (0.332923s overbudget)
+[2023.03.07-07.52.06:341][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_flower1_2_Mat
+[2023.03.07-07.52.06:341][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_flower1_2_MatAE98C4E94C0AE6B88FAB3FA7FFF52998.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_flower1_2_Mat.uasset'
+[2023.03.07-07.52.08:357][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.08:477][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000982s (0.121277s overbudget)
+[2023.03.07-07.52.08:490][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_flower1_3_Mat
+[2023.03.07-07.52.08:490][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_flower1_3_MatBD6D3E8042BD36D53A6019B6008CE14A.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_flower1_3_Mat.uasset'
+[2023.03.07-07.52.10:510][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.10:730][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003084s (0.224901s overbudget)
+[2023.03.07-07.52.10:742][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_flower2_1_Mat
+[2023.03.07-07.52.10:743][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_flower2_1_MatE3CA5C0A4E4A3C7C61906C8A626B7024.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_flower2_1_Mat.uasset'
+[2023.03.07-07.52.12:760][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.12:993][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004968s (0.236154s overbudget)
+[2023.03.07-07.52.13:007][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_flower2_2_Mat
+[2023.03.07-07.52.13:007][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_flower2_2_MatB5332C0F4C77E491AA80F5AA2FE94B3A.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_flower2_2_Mat.uasset'
+[2023.03.07-07.52.15:025][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.15:248][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004113s (0.225814s overbudget)
+[2023.03.07-07.52.15:261][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_flower2_3_Mat
+[2023.03.07-07.52.15:261][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_flower2_3_Mat234B971C460E069D24D4A3B6D7D84EB3.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_flower2_3_Mat.uasset'
+[2023.03.07-07.52.17:276][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.17:595][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001997s (0.319321s overbudget)
+[2023.03.07-07.52.17:608][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_aut1_1_Mat
+[2023.03.07-07.52.17:608][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_leaf_aut1_1_MatF1A497DD4DC302735A29C1A37AD16870.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_leaf_aut1_1_Mat.uasset'
+[2023.03.07-07.52.19:629][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.19:756][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005011s (0.132781s overbudget)
+[2023.03.07-07.52.19:769][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_aut1_2_Mat
+[2023.03.07-07.52.19:769][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_leaf_aut1_2_Mat3179268042A3341933A513A303E0B355.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_leaf_aut1_2_Mat.uasset'
+[2023.03.07-07.52.21:785][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.22:013][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002038s (0.229036s overbudget)
+[2023.03.07-07.52.22:027][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_aut1_3_Mat
+[2023.03.07-07.52.22:027][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_leaf_aut1_3_Mat5CD6B12F45B40C4F298F14A9F2AD21D0.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_leaf_aut1_3_Mat.uasset'
+[2023.03.07-07.52.24:046][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.24:165][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002053s (0.124415s overbudget)
+[2023.03.07-07.52.24:178][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_spr1_1_Mat
+[2023.03.07-07.52.24:178][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_leaf_spr1_1_Mat2EA14A564BDB26F84226A79D73DE9CE5.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_leaf_spr1_1_Mat.uasset'
+[2023.03.07-07.52.26:195][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.26:418][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003101s (0.224837s overbudget)
+[2023.03.07-07.52.26:432][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_spr1_2_Mat
+[2023.03.07-07.52.26:432][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_leaf_spr1_2_Mat1F182B424D97627BC0BFC983E707F7DC.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_leaf_spr1_2_Mat.uasset'
+[2023.03.07-07.52.28:449][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.28:773][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001036s (0.326141s overbudget)
+[2023.03.07-07.52.28:786][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_spr1_3_Mat
+[2023.03.07-07.52.28:786][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_leaf_spr1_3_Mat3E13CA8740019D04E1074DAEA3A20E6A.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_leaf_spr1_3_Mat.uasset'
+[2023.03.07-07.52.30:806][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.31:269][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005041s (0.466024s overbudget)
+[2023.03.07-07.52.31:282][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_sum1_1_Mat
+[2023.03.07-07.52.31:282][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_leaf_sum1_1_MatC09322A64A19867F38C43BAAF1D09DE8.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_leaf_sum1_1_Mat.uasset'
+[2023.03.07-07.52.33:303][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.33:617][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005004s (0.316333s overbudget)
+[2023.03.07-07.52.33:630][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_sum1_2_Mat
+[2023.03.07-07.52.33:631][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_leaf_sum1_2_Mat1D68B655471377FA322C8BBC00E8A87D.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_leaf_sum1_2_Mat.uasset'
+[2023.03.07-07.52.35:651][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.35:875][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000867s (0.229553s overbudget)
+[2023.03.07-07.52.35:893][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_sum1_3_Mat
+[2023.03.07-07.52.35:893][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_leaf_sum1_3_MatF99BBA984768BE936DC64682AB8ED666.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_leaf_sum1_3_Mat.uasset'
+[2023.03.07-07.52.37:915][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.38:342][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002064s (0.431449s overbudget)
+[2023.03.07-07.52.38:354][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetPieces/Objects/Fauna/yamaboushi_stalk_Mat" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_stalk_Mat.uasset" SILENT=true
+[2023.03.07-07.52.38:355][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_stalk_Mat
+[2023.03.07-07.52.38:355][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_stalk_Mat133A64174D6B6488E9E2D0B6DC16A3EC.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_stalk_Mat.uasset'
+[2023.03.07-07.52.38:633][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_tan_6000_a_aut1
+[2023.03.07-07.52.38:633][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_tan_6000_a_aut1A5F2A6E1416DC882C05C73B7C6483F0B.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_tan_6000_a_aut1.uasset'
+[2023.03.07-07.52.38:888][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_tan_6000_a_spr1
+[2023.03.07-07.52.38:888][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_tan_6000_a_spr14CC9D2BB41AA1237FC8C34A61E3F33AE.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_tan_6000_a_spr1.uasset'
+[2023.03.07-07.52.39:203][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_tan_6000_a_sum1_flower1
+[2023.03.07-07.52.39:203][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_tan_6000_a_sum1_floweED5446C74E6E446A0B040DBB9916757C.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_tan_6000_a_sum1_flower1.uasset'
+[2023.03.07-07.52.39:521][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_tan_6000_a_sum1_flower2
+[2023.03.07-07.52.39:521][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_tan_6000_a_sum1_floweA08072414C2314A444EE1DB2C18741CF.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_tan_6000_a_sum1_flower2.uasset'
+[2023.03.07-07.52.41:539][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.07-07.52.41:988][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003024s (0.450978s overbudget)
+[2023.03.07-07.52.42:001][168]LogSavePackage: Moving output files for package: /Game/SetPieces/Objects/Fauna/yamaboushi_tan_trunk_Mat
+[2023.03.07-07.52.42:001][168]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/yamaboushi_tan_trunk_Mat654E59C34958E4B4D390A089E9591F26.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/SetPieces/Objects/Fauna/yamaboushi_tan_trunk_Mat.uasset'
+[2023.03.07-07.52.42:006][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.5 sec (total: 1:21 min)
+[2023.03.07-07.52.42:041][168]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Materials/M_Wood_Oak.M_Wood_Oak
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_4_Bark01_4.FBX_CL04_CalocedrusDecurrens_4_Bark01_4
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_3_Leaf01_3.FBX_CL04_CalocedrusDecurrens_3_Leaf01_3
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_3_Bark01_3.FBX_CL04_CalocedrusDecurrens_3_Bark01_3
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_2_Leaf01_2.FBX_CL04_CalocedrusDecurrens_2_Leaf01_2
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_2_Bark01_2.FBX_CL04_CalocedrusDecurrens_2_Bark01_2
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Game/SetPieces/Lighting/Blueprint_CeilingLight.Blueprint_CeilingLight_C /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BF156301_1971823415
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Game/SetPieces/Lighting/Blueprint_CeilingLight.Blueprint_CeilingLight_C /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BFE16201_1410706258
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Game/SetPieces/Lighting/Blueprint_CeilingLight.Blueprint_CeilingLight_C /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BF166301_1657892612
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Game/SetPieces/Lighting/Blueprint_CeilingLight.Blueprint_CeilingLight_C /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BF166301_1567778609
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Game/SetPieces/Lighting/Blueprint_CeilingLight.Blueprint_CeilingLight_C /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BFE16201_1423767260
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Game/SetPieces/Lighting/Blueprint_CeilingLight.Blueprint_CeilingLight_C /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BF166301_1567780610
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Game/SetPieces/Lighting/Blueprint_CeilingLight.Blueprint_CeilingLight_C /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BFE46201_1782816826
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Game/SetPieces/Lighting/Blueprint_CeilingLight.Blueprint_CeilingLight_C /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BF1C6301_1842337675
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Game/SetPieces/Lighting/Blueprint_CeilingLight.Blueprint_CeilingLight_C /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BFC36201_2005009975
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Game/SetPieces/Lighting/Blueprint_CeilingLight.Blueprint_CeilingLight_C /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BF156301_1958314414
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Game/SetPieces/Lighting/Blueprint_CeilingLight.Blueprint_CeilingLight_C /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BFE16201_1417510259
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Game/SetPieces/Lighting/Blueprint_CeilingLight.Blueprint_CeilingLight_C /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BFE16201_1502451261
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/SetPieces/Objects/Fauna/CL04_Leaf01_alp_su.CL04_Leaf01_alp_su
+[2023.03.07-07.52.42:041][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_4_Leaf01_4.FBX_CL04_CalocedrusDecurrens_4_Leaf01_4
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/Leaf01_su_SHD.Leaf01_su_SHD
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_1_Leaf01_1.FBX_CL04_CalocedrusDecurrens_1_Leaf01_1
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_1_Bark01_1.FBX_CL04_CalocedrusDecurrens_1_Bark01_1
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/SetPieces/Objects/Fauna/CL04_Leaf01_nml_su.CL04_Leaf01_nml_su
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/SetPieces/Objects/Fauna/CL04_Leaf01_gls_su.CL04_Leaf01_gls_su
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/SetPieces/Objects/Fauna/CL04_Leaf01Front_dif_su.CL04_Leaf01Front_dif_su
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/SetPieces/Objects/Fauna/CL04_Bark01_nml_su.CL04_Bark01_nml_su
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/SetPieces/Objects/Fauna/CL04_Bark01_gls_su.CL04_Bark01_gls_su
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/SetPieces/Objects/Fauna/CL04_Bark01_dif_su.CL04_Bark01_dif_su
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/CL04_M_Bark01_5.CL04_M_Bark01_5
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD2_MI_LOD2_001.MESH_CL04_CalocedrusDecurrens_Y_LOD2_MI_LOD2_001
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD2_MI_LOD2.MESH_CL04_CalocedrusDecurrens_Y_LOD2_MI_LOD2
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD1_MI_LOD1_001.MESH_CL04_CalocedrusDecurrens_Y_LOD1_MI_LOD1_001
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD1_MI_LOD1.MESH_CL04_CalocedrusDecurrens_Y_LOD1_MI_LOD1
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD0_MI_LOD0_001.MESH_CL04_CalocedrusDecurrens_Y_LOD0_MI_LOD0_001
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_Y_LOD0_MI_LOD0.MESH_CL04_CalocedrusDecurrens_Y_LOD0_MI_LOD0
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD2_MI_LOD2_001.MESH_CL04_CalocedrusDecurrens_M_LOD2_MI_LOD2_001
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD2_MI_LOD2.MESH_CL04_CalocedrusDecurrens_M_LOD2_MI_LOD2
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD1_MI_LOD1_001.MESH_CL04_CalocedrusDecurrens_M_LOD1_MI_LOD1_001
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD1_MI_LOD1.MESH_CL04_CalocedrusDecurrens_M_LOD1_MI_LOD1
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/MI_Leaves01.MI_Leaves01
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD0_MI_LOD0_001.MESH_CL04_CalocedrusDecurrens_M_LOD0_MI_LOD0_001
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/MI_Bark01.MI_Bark01
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_M_LOD0_MI_LOD0.MESH_CL04_CalocedrusDecurrens_M_LOD0_MI_LOD0
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_5_Bark01_5.FBX_CL04_CalocedrusDecurrens_5_Bark01_5
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_5_Leaf01_5.FBX_CL04_CalocedrusDecurrens_5_Leaf01_5
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_6_Bark01_6.FBX_CL04_CalocedrusDecurrens_6_Bark01_6
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/FBX_CL04_CalocedrusDecurrens_6_Leaf01_6.FBX_CL04_CalocedrusDecurrens_6_Leaf01_6
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD0_MI_LOD0.MESH_CL04_CalocedrusDecurrens_A_LOD0_MI_LOD0
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD0_MI_LOD0_001.MESH_CL04_CalocedrusDecurrens_A_LOD0_MI_LOD0_001
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD1_MI_LOD1.MESH_CL04_CalocedrusDecurrens_A_LOD1_MI_LOD1
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD1_MI_LOD1_001.MESH_CL04_CalocedrusDecurrens_A_LOD1_MI_LOD1_001
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD2_MI_LOD2.MESH_CL04_CalocedrusDecurrens_A_LOD2_MI_LOD2
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/MESH_CL04_CalocedrusDecurrens_A_LOD2_MI_LOD2_001.MESH_CL04_CalocedrusDecurrens_A_LOD2_MI_LOD2_001
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/yamaboushi_tan_6000_a_spr1.yamaboushi_tan_6000_a_spr1
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_tan_trunk_Mat.yamaboushi_tan_trunk_Mat
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_spr1_1_Mat.yamaboushi_leaf_spr1_1_Mat
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_spr1_2_Mat.yamaboushi_leaf_spr1_2_Mat
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_spr1_3_Mat.yamaboushi_leaf_spr1_3_Mat
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/yamaboushi_tan_6000_a_sum1_flower1.yamaboushi_tan_6000_a_sum1_flower1
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_stalk_Mat.yamaboushi_stalk_Mat
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_sum1_1_Mat.yamaboushi_leaf_sum1_1_Mat
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_sum1_2_Mat.yamaboushi_leaf_sum1_2_Mat
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_sum1_3_Mat.yamaboushi_leaf_sum1_3_Mat
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_flower1_1_Mat.yamaboushi_flower1_1_Mat
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_flower1_2_Mat.yamaboushi_flower1_2_Mat
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_flower1_3_Mat.yamaboushi_flower1_3_Mat
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/yamaboushi_tan_6000_a_sum1_flower2.yamaboushi_tan_6000_a_sum1_flower2
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_flower2_1_Mat.yamaboushi_flower2_1_Mat
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_flower2_2_Mat.yamaboushi_flower2_2_Mat
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_flower2_3_Mat.yamaboushi_flower2_3_Mat
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/SetPieces/Objects/Fauna/yamaboushi_tan_6000_a_aut1.yamaboushi_tan_6000_a_aut1
+[2023.03.07-07.52.42:042][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_aut1_1_Mat.yamaboushi_leaf_aut1_1_Mat
+[2023.03.07-07.52.42:043][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_aut1_2_Mat.yamaboushi_leaf_aut1_2_Mat
+[2023.03.07-07.52.42:043][168]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SetPieces/Objects/Fauna/yamaboushi_leaf_aut1_3_Mat.yamaboushi_leaf_aut1_3_Mat
