@@ -62,6 +62,14 @@
     "spriteSourceSize": { "x": 0, "y": 0, "w": 26, "h": 42 },
     "sourceSize": { "w": 26, "h": 42 },
     "duration": 100
+   },
+   "Ben 8.aseprite": {
+    "frame": { "x": 208, "y": 0, "w": 26, "h": 42 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 26, "h": 42 },
+    "sourceSize": { "w": 26, "h": 42 },
+    "duration": 100
    }
  },
  "meta": {
@@ -69,7 +77,7 @@
   "version": "1.2.40-x64",
   "image": "Ben.png",
   "format": "RGBA8888",
-  "size": { "w": 208, "h": 42 },
+  "size": { "w": 234, "h": 42 },
   "scale": "1",
   "frameTags": [
   ],
