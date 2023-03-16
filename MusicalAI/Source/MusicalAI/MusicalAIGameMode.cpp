@@ -58,9 +58,6 @@ AMusicalAIGameMode::AMusicalAIGameMode()
 
 	if (PlayerPawnBPClass.Class != NULL)
 	{
-		if (GEngine)
-			GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("Player Pawn Class is not NULL!"));
-
 		DefaultPawnClass = PlayerPawnBPClass.Class;
 	}
 }
