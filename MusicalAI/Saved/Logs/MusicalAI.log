@@ -15185,3 +15185,1279 @@ UnknownFunction []
 [2023.03.15-20.58.30:468][ 68]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Characters/AI/BT_MusicAI.BT_MusicAI
 [2023.03.15-20.58.30:473][ 69]LogAutomationController: Ignoring very large delta of 9.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.03.15-20.58.34:089][155]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:21.363 and deleted 0 files with total size 0 MiB. Scanned 11549 files in 11194 folders with total size 722 MiB.
+[2023.03.15-20.59.44:086][120]LogViewport: Scene viewport resized to 642x315, mode Windowed.
+[2023.03.15-20.59.52:670][288]LogViewport: Scene viewport resized to 1217x527, mode Windowed.
+[2023.03.15-21.58.34:770][965]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.043 and deleted 0 files with total size 0 MiB. Scanned 11549 files in 11194 folders with total size 722 MiB.
+[2023.03.15-22.58.34:975][762]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.247 and deleted 5 files with total size 0 MiB. Scanned 11549 files in 11194 folders with total size 722 MiB.
+[2023.03.15-23.58.34:964][559]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.235 and deleted 2 files with total size 0 MiB. Scanned 11544 files in 11189 folders with total size 722 MiB.
+[2023.03.16-00.58.34:047][352]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:21.318 and deleted 0 files with total size 0 MiB. Scanned 11542 files in 11187 folders with total size 722 MiB.
+[2023.03.16-01.58.34:866][151]LogDerivedDataCache: C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.136 and deleted 0 files with total size 0 MiB. Scanned 11542 files in 11187 folders with total size 722 MiB.
+[2023.03.16-02.30.39:259][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.16-02.30.39:380][422]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/E/6W/VBBBM0UO5MY0JANZR02EMP
+[2023.03.16-02.30.39:381][422]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/VBBBM0UO5MY0JANZR02EMP22260EA1475C65DBE1F685882989D798.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/E/6W/VBBBM0UO5MY0JANZR02EMP.uasset'
+[2023.03.16-02.30.39:384][422]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/B/AW/AS9BLA4JA8NYKS4J2A2M8B
+[2023.03.16-02.30.39:385][422]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/AS9BLA4JA8NYKS4J2A2M8BBD3527D54B6684D242A5678855747366.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/B/AW/AS9BLA4JA8NYKS4J2A2M8B.uasset'
+[2023.03.16-02.30.39:403][422]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/3/5I/R82NHHDDFPBRQZRA2S4VEW
+[2023.03.16-02.30.39:404][422]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/R82NHHDDFPBRQZRA2S4VEW69C4E3C0439FA799C375249026B0ECAB.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/3/5I/R82NHHDDFPBRQZRA2S4VEW.uasset'
+[2023.03.16-02.30.39:421][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 11.6 sec)
+[2023.03.16-02.30.39:597][422]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.16-02.30.39:597][422]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_1
+[2023.03.16-02.30.39:597][422]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_309C234598BF655D01_1925414143
+[2023.03.16-02.30.39:598][422]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CSCML02JXJDABF54GEF2UILRW_126_2_2_0
+[2023.03.16-02.33.29:212][745]Cmd: EDIT COPY
+[2023.03.16-02.33.30:041][775]Cmd: EDIT COPY
+[2023.03.16-02.33.38:320][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2023.03.16-02.33.38:666][ 49]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu
+[2023.03.16-02.33.38:666][ 49]Cmd: MAP LOAD FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/MusicAI_GameMode/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.03.16-02.33.38:667][ 49]LightingResults: New page: Lighting Build
+[2023.03.16-02.33.38:667][ 49]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.03.16-02.33.38:709][ 49]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.33.38:709][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.33.38:725][ 49]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.03.16-02.33.38:726][ 49]MapCheck: New page: Map Check
+[2023.03.16-02.33.38:726][ 49]LightingResults: New page: Lighting Build
+[2023.03.16-02.33.38:793][ 49]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-02.33.38:879][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.03.16-02.33.38:894][ 49]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.33.38:894][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.33.38:960][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.03.16-02.33.39:024][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.03.16-02.33.39:046][ 49]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.03.16-02.33.39:046][ 49]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-02.33.39:047][ 49]LogAIModule: Creating AISystem for world MainMenu
+[2023.03.16-02.33.39:048][ 49]LogWorldPartition: ULevel::OnLevelLoaded(MainMenu)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.16-02.33.39:049][ 49]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.16-02.33.39:049][ 49]LogWorldPartition: UWorldPartition::Initialize(Asset=MainMenu, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.16-02.33.40:670][ 49]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.03.16-02.33.41:795][ 49]LogContentBundle: [Container: MainMenu] Creating new contrainer.
+[2023.03.16-02.33.41:795][ 49]LogWorldPartition: Display: WorldPartition initialize took 2.74 sec (total: 12.5 sec)
+[2023.03.16-02.33.41:915][ 49]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.16-02.33.41:933][ 49]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.33.41:934][ 49]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.33.42:043][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.03.16-02.33.42:056][ 49]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.16-02.33.42:057][ 49]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.378ms to complete.
+[2023.03.16-02.33.42:057][ 49]LogFileHelpers: Loading map 'MainMenu' took 3.391
+[2023.03.16-02.33.42:067][ 49]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003798s (1.402095s overbudget)
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: ================================================
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Total job queries 2312, among them cache hits 92 (3.98%)
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Tracking 2220 distinct input hashes that result in 173 distinct outputs (7.79%)
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: RAM used: 16.67 MB (0.02 GB) of 1638.40 MB (1.60 GB) budget. Usage: 1.02%
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Shaders Compiled: 2000
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Jobs assigned 2000, completed 2000 (100.00%)
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Average time worker was idle: 0.14 s
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Time job spent in pending queue: average 2.80 s, longest 33.77 s
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 6.69 s
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Job life time (pending + execution): average 3.67 s, max 37.62
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 461.95 s
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Jobs were issued in 2000 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Average processing rate: 4.33 jobs/sec
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Total thread time: 1576.41 s
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Total thread preprocess time: 95.91 s
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Percentage time preprocessing: 6.08%
+[2023.03.16-02.33.42:138][ 49]LogShaderCompilers: Display: Effective parallelization: 3.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.03.16-02.33.42:139][ 49]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.16-02.33.42:139][ 49]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled  125 times, average 1.19 sec, max 6.47 sec, min 0.63 sec)
+[2023.03.16-02.33.42:139][ 49]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled  125 times, average 1.05 sec, max 6.23 sec, min 0.49 sec)
+[2023.03.16-02.33.42:139][ 49]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled  125 times, average 1.02 sec, max 5.23 sec, min 0.51 sec)
+[2023.03.16-02.33.42:139][ 49]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled  125 times, average 0.81 sec, max 1.04 sec, min 0.67 sec)
+[2023.03.16-02.33.42:139][ 49]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled  125 times, average 0.81 sec, max 1.02 sec, min 0.67 sec)
+[2023.03.16-02.33.42:139][ 49]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.16-02.33.42:139][ 49]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.45% of total time (compiled  125 times, average 1.19 sec, max 6.47 sec, min 0.63 sec)
+[2023.03.16-02.33.42:139][ 49]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.34% of total time (compiled  125 times, average 1.05 sec, max 6.23 sec, min 0.49 sec)
+[2023.03.16-02.33.42:139][ 49]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.11% of total time (compiled  125 times, average 1.02 sec, max 5.23 sec, min 0.51 sec)
+[2023.03.16-02.33.42:139][ 49]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.45% of total time (compiled  125 times, average 0.81 sec, max 1.04 sec, min 0.67 sec)
+[2023.03.16-02.33.42:139][ 49]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.40% of total time (compiled  125 times, average 0.81 sec, max 1.02 sec, min 0.67 sec)
+[2023.03.16-02.33.42:139][ 49]LogShaderCompilers: Display: ================================================
+[2023.03.16-02.33.42:152][ 50]LogAutomationController: Ignoring very large delta of 4.11 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.03.16-02.33.42:171][ 50]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.24s
+[2023.03.16-02.33.42:171][ 50]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.33.45:568][214]Cmd: EDIT PASTE
+[2023.03.16-02.33.55:872][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.16-02.33.55:951][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/YA/FVIAL3BDHP09WYE7AKIRY5
+[2023.03.16-02.33.55:951][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FVIAL3BDHP09WYE7AKIRY5A30E94B2405C8A7A57710C819D8148EE.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/YA/FVIAL3BDHP09WYE7AKIRY5.uasset'
+[2023.03.16-02.33.55:953][745]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MusicAI_GameMode/Maps/MainMenu/D/U5/V4U5V8GEPBCCKPAXHEE1LG
+[2023.03.16-02.33.55:953][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/V4U5V8GEPBCCKPAXHEE1LG0DC4D0F0444FDE6DA5DA9890A6C2A369.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalObjects__/MusicAI_GameMode/Maps/MainMenu/D/U5/V4U5V8GEPBCCKPAXHEE1LG.uasset'
+[2023.03.16-02.33.55:954][745]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MusicAI_GameMode/Maps/MainMenu/8/NS/7Z4W45MNJXTJZW05PYS9ON
+[2023.03.16-02.33.55:954][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/7Z4W45MNJXTJZW05PYS9ON47E67BB34E9CF59E222A39AD4DC086DA.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalObjects__/MusicAI_GameMode/Maps/MainMenu/8/NS/7Z4W45MNJXTJZW05PYS9ON.uasset'
+[2023.03.16-02.33.55:956][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/B/8I/CC81ODNQZ3RB132TQPQFM4
+[2023.03.16-02.33.55:956][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/CC81ODNQZ3RB132TQPQFM4390FE46142DFA96BE67C309708B7F352.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/B/8I/CC81ODNQZ3RB132TQPQFM4.uasset'
+[2023.03.16-02.33.55:957][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/HA/4JMYIV70MEL5RMJIBOU7H7
+[2023.03.16-02.33.55:957][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/4JMYIV70MEL5RMJIBOU7H7FC0058A84A31058D2EDFA6936C4C1EC3.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/HA/4JMYIV70MEL5RMJIBOU7H7.uasset'
+[2023.03.16-02.33.55:960][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/9G/XIK1KJSNNLNNCLYD3X7G8Q
+[2023.03.16-02.33.55:960][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/XIK1KJSNNLNNCLYD3X7G8QD5FD0CCB4CB38BAE46319A8D3E563D6C.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/9G/XIK1KJSNNLNNCLYD3X7G8Q.uasset'
+[2023.03.16-02.33.55:961][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/0/EP/WYFY8CRN1LQVT1V5UUFZKA
+[2023.03.16-02.33.55:962][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/WYFY8CRN1LQVT1V5UUFZKA3D8683AB4F3541C29A0EFABEF7E1D9C4.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/0/EP/WYFY8CRN1LQVT1V5UUFZKA.uasset'
+[2023.03.16-02.33.55:964][745]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MusicAI_GameMode/Maps/MainMenu/E/BV/V3EXJ0DPN00T4P421TV6PZ
+[2023.03.16-02.33.55:964][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/V3EXJ0DPN00T4P421TV6PZ66AA4A074C4B562C7BC48A95655A9B9A.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalObjects__/MusicAI_GameMode/Maps/MainMenu/E/BV/V3EXJ0DPN00T4P421TV6PZ.uasset'
+[2023.03.16-02.33.55:966][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/HS/6KBW4PH1NHCHTSL8CGQHXM
+[2023.03.16-02.33.55:966][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/6KBW4PH1NHCHTSL8CGQHXM64BA188246F0B5C9B99729AE85522709.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/HS/6KBW4PH1NHCHTSL8CGQHXM.uasset'
+[2023.03.16-02.33.55:968][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/EH/5RHJ5TI6MYJEBD4BF9RQID
+[2023.03.16-02.33.55:968][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/5RHJ5TI6MYJEBD4BF9RQID76807A8F4A351EE699FF4A968A379514.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/EH/5RHJ5TI6MYJEBD4BF9RQID.uasset'
+[2023.03.16-02.33.55:969][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/83/9CZ21MPG856KXM4F3V1OIQ
+[2023.03.16-02.33.55:969][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/9CZ21MPG856KXM4F3V1OIQE37D1A7F410B0817B26BD5832BCC2525.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/83/9CZ21MPG856KXM4F3V1OIQ.uasset'
+[2023.03.16-02.33.55:971][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/L2/6WZEIXW77MZHJWUKZYL6BF
+[2023.03.16-02.33.55:971][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/6WZEIXW77MZHJWUKZYL6BFC79A98614F1D94196712AC8EA7A91802.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/L2/6WZEIXW77MZHJWUKZYL6BF.uasset'
+[2023.03.16-02.33.55:972][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/BU/W8E0BKO8ES61WLSA8WHZE2
+[2023.03.16-02.33.55:972][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/W8E0BKO8ES61WLSA8WHZE2FC4ADE734047EC823DBF3A9261AAD37F.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/BU/W8E0BKO8ES61WLSA8WHZE2.uasset'
+[2023.03.16-02.33.55:974][745]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MusicAI_GameMode/Maps/MainMenu/E/3T/RN69QZNL1TP6GOFVW1GT5S
+[2023.03.16-02.33.55:974][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/RN69QZNL1TP6GOFVW1GT5SE57C855846B47FE15D0FE49FC486D432.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalObjects__/MusicAI_GameMode/Maps/MainMenu/E/3T/RN69QZNL1TP6GOFVW1GT5S.uasset'
+[2023.03.16-02.33.55:975][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/OE/4UKVKCT7E798NYBZHANI4E
+[2023.03.16-02.33.55:975][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/4UKVKCT7E798NYBZHANI4E0A5C218C4174224DB03B7099608FD947.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/OE/4UKVKCT7E798NYBZHANI4E.uasset'
+[2023.03.16-02.33.55:976][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/B/FI/RI98D2RK7VH5TLV1SDHAMT
+[2023.03.16-02.33.55:976][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/RI98D2RK7VH5TLV1SDHAMT6A078CA34D5D6140E3F4D0A8CBA1675D.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/B/FI/RI98D2RK7VH5TLV1SDHAMT.uasset'
+[2023.03.16-02.33.55:979][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/1/E0/G5NTDL5WNC43B4PS804Z8B
+[2023.03.16-02.33.55:979][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/G5NTDL5WNC43B4PS804Z8BF65656EB44E597893A4B759E9A461D2C.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/1/E0/G5NTDL5WNC43B4PS804Z8B.uasset'
+[2023.03.16-02.33.55:981][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/5U/UO5WJLNV25MI1ZVNUK8Z6D
+[2023.03.16-02.33.55:981][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/UO5WJLNV25MI1ZVNUK8Z6D38CAE6E04E361A313EF06F84B7FDD91D.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/5U/UO5WJLNV25MI1ZVNUK8Z6D.uasset'
+[2023.03.16-02.33.55:982][745]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MusicAI_GameMode/Maps/MainMenu/E/9P/2I7O9H2W7TZ5RHMSFM14PX
+[2023.03.16-02.33.55:982][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/2I7O9H2W7TZ5RHMSFM14PX03317D1142778C151E4867A28BA23755.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalObjects__/MusicAI_GameMode/Maps/MainMenu/E/9P/2I7O9H2W7TZ5RHMSFM14PX.uasset'
+[2023.03.16-02.33.55:985][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/O1/E6ZRYK3JSISWP62X1DWHBS
+[2023.03.16-02.33.55:985][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/E6ZRYK3JSISWP62X1DWHBS9551F066465F97C99A3965B6F15D9B7A.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/O1/E6ZRYK3JSISWP62X1DWHBS.uasset'
+[2023.03.16-02.33.55:986][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/G3/OM541JMU46CHWSHLCRJZ7P
+[2023.03.16-02.33.55:986][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/OM541JMU46CHWSHLCRJZ7P483A24994323C2FD8F7F0AA406B8022B.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/G3/OM541JMU46CHWSHLCRJZ7P.uasset'
+[2023.03.16-02.33.55:988][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/0C/90ASXQQC7A6CPL88JQU265
+[2023.03.16-02.33.55:988][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/90ASXQQC7A6CPL88JQU265D45809E54E398E5C551437B66B45132D.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/0C/90ASXQQC7A6CPL88JQU265.uasset'
+[2023.03.16-02.33.55:990][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/YH/EGBLBWM0U3U8WEDJ9IO07N
+[2023.03.16-02.33.55:990][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/EGBLBWM0U3U8WEDJ9IO07NA2D384DA4006CFBC66837C91DAE0F446.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/YH/EGBLBWM0U3U8WEDJ9IO07N.uasset'
+[2023.03.16-02.33.55:991][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/1/CN/VHFJV8V6UY9MN47A180HG4
+[2023.03.16-02.33.55:991][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/VHFJV8V6UY9MN47A180HG4BFA0097D438D5FD924ECD196F9C3E9C8.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/1/CN/VHFJV8V6UY9MN47A180HG4.uasset'
+[2023.03.16-02.33.55:992][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/TF/6JZM1LGDVVTFQF214FNOPT
+[2023.03.16-02.33.55:992][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/6JZM1LGDVVTFQF214FNOPT36E564DF4B34ABA08655F091EDDC02E1.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/TF/6JZM1LGDVVTFQF214FNOPT.uasset'
+[2023.03.16-02.33.55:994][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/KD/IJOIJ3KKC6GB50CIBXU61W
+[2023.03.16-02.33.55:995][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/IJOIJ3KKC6GB50CIBXU61WA76379E4422ED2489C3181AFE680E484.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/KD/IJOIJ3KKC6GB50CIBXU61W.uasset'
+[2023.03.16-02.33.55:998][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/1/FJ/HUXWP6N3P2VXSEHMYE6TTZ
+[2023.03.16-02.33.55:998][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/HUXWP6N3P2VXSEHMYE6TTZE7E2A37D4609EDDDC65C189867F5B3F1.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/1/FJ/HUXWP6N3P2VXSEHMYE6TTZ.uasset'
+[2023.03.16-02.33.55:999][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/LN/QCDENJ1HAGT727FIRILS2P
+[2023.03.16-02.33.56:000][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/QCDENJ1HAGT727FIRILS2PE3FD7C9E46F878FF08DEC18D0D7542A5.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/LN/QCDENJ1HAGT727FIRILS2P.uasset'
+[2023.03.16-02.33.56:001][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/FI/0I8H4TEOHTGZG97DI8EGNN
+[2023.03.16-02.33.56:001][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/0I8H4TEOHTGZG97DI8EGNN2BE56C514D0CFD03E03E098C11D45F2D.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/FI/0I8H4TEOHTGZG97DI8EGNN.uasset'
+[2023.03.16-02.33.56:002][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/0/00/KAPJCB3KW371E6IRDCHUNF
+[2023.03.16-02.33.56:002][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/KAPJCB3KW371E6IRDCHUNF7EF025384865CA55E977B1AF4C8BAEAF.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/0/00/KAPJCB3KW371E6IRDCHUNF.uasset'
+[2023.03.16-02.33.56:004][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/5E/YIW4VP7JZU6QAYKMA6MT3T
+[2023.03.16-02.33.56:004][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/YIW4VP7JZU6QAYKMA6MT3TEE02C9584C0BC3498AFC9390A20978F9.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/5E/YIW4VP7JZU6QAYKMA6MT3T.uasset'
+[2023.03.16-02.33.56:005][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/B/TT/ZR7G1JKF6YYVTIC6O93FGD
+[2023.03.16-02.33.56:005][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/ZR7G1JKF6YYVTIC6O93FGD6B67E08845A2A89ACE4F24A944ED87A3.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/B/TT/ZR7G1JKF6YYVTIC6O93FGD.uasset'
+[2023.03.16-02.33.56:006][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/96/RA8FCM2M4TON14VQHK4LE3
+[2023.03.16-02.33.56:007][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/RA8FCM2M4TON14VQHK4LE3BCA10D3444611CB50CFF4CA57C9C64C0.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/96/RA8FCM2M4TON14VQHK4LE3.uasset'
+[2023.03.16-02.33.56:008][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/VJ/MU1TDCTS0GA9I8TRSL8D3T
+[2023.03.16-02.33.56:008][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MU1TDCTS0GA9I8TRSL8D3TE96DE47B453ECB603DB11BB8FA3B2DE5.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/VJ/MU1TDCTS0GA9I8TRSL8D3T.uasset'
+[2023.03.16-02.33.56:010][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/4/C4/YC9CY4FW8IPICKCE6UZ8GD
+[2023.03.16-02.33.56:010][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/YC9CY4FW8IPICKCE6UZ8GD6E32644149C7E2486794948C8230D769.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/4/C4/YC9CY4FW8IPICKCE6UZ8GD.uasset'
+[2023.03.16-02.33.56:018][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/1/AT/JP4EOWZFD75X7MUSLPV7AB
+[2023.03.16-02.33.56:018][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/JP4EOWZFD75X7MUSLPV7AB858844E444B6F43F010838BA81E29B1C.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/1/AT/JP4EOWZFD75X7MUSLPV7AB.uasset'
+[2023.03.16-02.33.56:019][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/UI/CEYFAG6VNT6FFSMDUZ6N7B
+[2023.03.16-02.33.56:019][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/CEYFAG6VNT6FFSMDUZ6N7B7C01C23744A2B7E5ED1E79842A6CE305.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/UI/CEYFAG6VNT6FFSMDUZ6N7B.uasset'
+[2023.03.16-02.33.56:021][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/4/EK/YQHBWLPIYK4PSPVGE1ZVKA
+[2023.03.16-02.33.56:021][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/YQHBWLPIYK4PSPVGE1ZVKABA084675452286842D601CAC43887BA6.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/4/EK/YQHBWLPIYK4PSPVGE1ZVKA.uasset'
+[2023.03.16-02.33.56:023][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/6R/9JRBAD1N0SVV1H3LY04ITA
+[2023.03.16-02.33.56:023][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/9JRBAD1N0SVV1H3LY04ITAFF8153A149B23E186BE848837A88202F.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/6R/9JRBAD1N0SVV1H3LY04ITA.uasset'
+[2023.03.16-02.33.56:025][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/RJ/SHDZCD6UNCQ2F4ZQ43PXR4
+[2023.03.16-02.33.56:025][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/SHDZCD6UNCQ2F4ZQ43PXR4A2C4F0D9426D4F38180DB7A4FB0D58CB.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/RJ/SHDZCD6UNCQ2F4ZQ43PXR4.uasset'
+[2023.03.16-02.33.56:027][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/JW/NZ3NHZ3AATYIVABKGSVZB5
+[2023.03.16-02.33.56:027][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/NZ3NHZ3AATYIVABKGSVZB5501FDFC04E84431F6AC70D89AB3C40BC.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/JW/NZ3NHZ3AATYIVABKGSVZB5.uasset'
+[2023.03.16-02.33.56:029][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/23/EE70LGCPQZ4F98TEGH1N14
+[2023.03.16-02.33.56:029][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/EE70LGCPQZ4F98TEGH1N14BA72F2664A07472572B995A44DED8322.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/23/EE70LGCPQZ4F98TEGH1N14.uasset'
+[2023.03.16-02.33.56:032][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/JU/D5B0KNWP6HNXD4I9O8BINW
+[2023.03.16-02.33.56:032][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/D5B0KNWP6HNXD4I9O8BINW85E4A46C4A78A58F4A7C81AE84BB22B1.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/JU/D5B0KNWP6HNXD4I9O8BINW.uasset'
+[2023.03.16-02.33.56:033][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/TK/HNY3TQ9BMP8I6LY0DMKXNS
+[2023.03.16-02.33.56:034][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/HNY3TQ9BMP8I6LY0DMKXNS206B8C464736792B3F4782BD1C76AB82.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/TK/HNY3TQ9BMP8I6LY0DMKXNS.uasset'
+[2023.03.16-02.33.56:035][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/YO/FMFLYZFT8VIM0SFQYLJSIV
+[2023.03.16-02.33.56:035][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FMFLYZFT8VIM0SFQYLJSIV8C80E79844A8107C6D23E59E4083E645.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/YO/FMFLYZFT8VIM0SFQYLJSIV.uasset'
+[2023.03.16-02.33.56:036][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/O0/G9OHS00KSD2AKZN30R40DA
+[2023.03.16-02.33.56:036][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/G9OHS00KSD2AKZN30R40DAD8856FDA427D4EA4001E6C85BE26CDCD.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/O0/G9OHS00KSD2AKZN30R40DA.uasset'
+[2023.03.16-02.33.56:038][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/ZW/4YQRUCGFH0XUNZWCVQ8B7D
+[2023.03.16-02.33.56:038][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/4YQRUCGFH0XUNZWCVQ8B7D15491BFA474DA95E0FB09BB7D00AEB8C.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/ZW/4YQRUCGFH0XUNZWCVQ8B7D.uasset'
+[2023.03.16-02.33.56:039][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/E/7K/64TX6NZ8ZZ9PR1N3JYOT2F
+[2023.03.16-02.33.56:039][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/64TX6NZ8ZZ9PR1N3JYOT2F9F5839C4409770DD316340A29FAC29FA.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/E/7K/64TX6NZ8ZZ9PR1N3JYOT2F.uasset'
+[2023.03.16-02.33.56:041][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/BC/YJPOKSXA9L23XBL9JUP2P4
+[2023.03.16-02.33.56:041][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/YJPOKSXA9L23XBL9JUP2P4F89EEB6E4EDF74E5D67160825E07ACCA.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/BC/YJPOKSXA9L23XBL9JUP2P4.uasset'
+[2023.03.16-02.33.56:042][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/CX/61BEZ2F85HO8H1FZNR658B
+[2023.03.16-02.33.56:042][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/61BEZ2F85HO8H1FZNR658BBE6237A74C025CB8BB1879B02FFABF6F.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/CX/61BEZ2F85HO8H1FZNR658B.uasset'
+[2023.03.16-02.33.56:045][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/QX/3HZ3U9HC6UJU4T7NK2C95E
+[2023.03.16-02.33.56:045][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/3HZ3U9HC6UJU4T7NK2C95E34A9021B4F6BBBF917DFE7BFFDDA56A4.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/QX/3HZ3U9HC6UJU4T7NK2C95E.uasset'
+[2023.03.16-02.33.56:047][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/Z0/AFEWWCVEVGGZW535GWZHLB
+[2023.03.16-02.33.56:047][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/AFEWWCVEVGGZW535GWZHLB7EE706C0488A87517F215DA648751B3E.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/Z0/AFEWWCVEVGGZW535GWZHLB.uasset'
+[2023.03.16-02.33.56:048][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/1/IU/YVJ6G7NGJ2YTE2KPIQODZZ
+[2023.03.16-02.33.56:048][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/YVJ6G7NGJ2YTE2KPIQODZZD8A98C454D547D7A27AB64B8822962B6.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/1/IU/YVJ6G7NGJ2YTE2KPIQODZZ.uasset'
+[2023.03.16-02.33.56:050][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/K4/5DW3212EYLLD6A4OASDUIL
+[2023.03.16-02.33.56:050][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/5DW3212EYLLD6A4OASDUILA11963CC4E58255D4FCA07A6F11D18FE.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/K4/5DW3212EYLLD6A4OASDUIL.uasset'
+[2023.03.16-02.33.56:051][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/E2/8S9COZS7065FMZR4GS1YYD
+[2023.03.16-02.33.56:051][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/8S9COZS7065FMZR4GS1YYD2CF44B61498A799CA9BA589E864F4CB0.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/E2/8S9COZS7065FMZR4GS1YYD.uasset'
+[2023.03.16-02.33.56:052][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/JY/8E0UX8LCJLEQ9U3T8LOG53
+[2023.03.16-02.33.56:052][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/8E0UX8LCJLEQ9U3T8LOG5371B41BE841930E9AAD76A29E59558816.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/JY/8E0UX8LCJLEQ9U3T8LOG53.uasset'
+[2023.03.16-02.33.56:054][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/TE/0BDIXUIH8858793LLX13GI
+[2023.03.16-02.33.56:054][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/0BDIXUIH8858793LLX13GI8397958B4E2534C79367B7AE61A2BA02.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/TE/0BDIXUIH8858793LLX13GI.uasset'
+[2023.03.16-02.33.56:055][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/91/MSFZ5P2TJM9QB0NSO9JQ6N
+[2023.03.16-02.33.56:055][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MSFZ5P2TJM9QB0NSO9JQ6N4BE27FC34059453010938FA3D646616C.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/91/MSFZ5P2TJM9QB0NSO9JQ6N.uasset'
+[2023.03.16-02.33.56:056][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/DV/MX969M8BBL87YHWY2BDMK6
+[2023.03.16-02.33.56:057][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MX969M8BBL87YHWY2BDMK66EE5064548A802AB323869B606046528.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/DV/MX969M8BBL87YHWY2BDMK6.uasset'
+[2023.03.16-02.33.56:058][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/P1/DBOLXUTTVTG0OAAFE50CJM
+[2023.03.16-02.33.56:058][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/DBOLXUTTVTG0OAAFE50CJM066911AA4ED2A50E1406D4BBD8E76C57.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/P1/DBOLXUTTVTG0OAAFE50CJM.uasset'
+[2023.03.16-02.33.56:060][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/M0/M5UX9DSI15FTLZAAMA5097
+[2023.03.16-02.33.56:060][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/M5UX9DSI15FTLZAAMA5097A759D3574A1B9C3841336987657DA401.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/M0/M5UX9DSI15FTLZAAMA5097.uasset'
+[2023.03.16-02.33.56:062][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/0/GQ/P87CGRM4PVCO5APSNEWFXD
+[2023.03.16-02.33.56:062][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/P87CGRM4PVCO5APSNEWFXD7F25153C4CFA199872D4DA96E8ADA9AF.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/0/GQ/P87CGRM4PVCO5APSNEWFXD.uasset'
+[2023.03.16-02.33.56:064][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/SX/I3BXRWDJT7TGSIPDKY524R
+[2023.03.16-02.33.56:064][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/I3BXRWDJT7TGSIPDKY524RD679CF3348B1DCC4E547F38819CA4F4C.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/SX/I3BXRWDJT7TGSIPDKY524R.uasset'
+[2023.03.16-02.33.56:065][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/4/PN/ON6NG0RK52TLJZ4OPJ50RX
+[2023.03.16-02.33.56:065][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/ON6NG0RK52TLJZ4OPJ50RX92C98D6F4E4ED3CCCB5ADD916B1AEAFE.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/4/PN/ON6NG0RK52TLJZ4OPJ50RX.uasset'
+[2023.03.16-02.33.56:067][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/4/6E/LQDCTJXT7MODQG8FPDNEAS
+[2023.03.16-02.33.56:067][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/LQDCTJXT7MODQG8FPDNEAS5E374D754D83557AC37345A086F9C27A.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/4/6E/LQDCTJXT7MODQG8FPDNEAS.uasset'
+[2023.03.16-02.33.56:068][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/3/YM/IYMX0XXJ6A62MKE1MENYY0
+[2023.03.16-02.33.56:068][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/IYMX0XXJ6A62MKE1MENYY0BF45707744B06B90C5033CACFFEC90FD.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/3/YM/IYMX0XXJ6A62MKE1MENYY0.uasset'
+[2023.03.16-02.33.56:070][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/3/V2/2AOIT7BY70D9CP93JW4HOY
+[2023.03.16-02.33.56:070][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/2AOIT7BY70D9CP93JW4HOYF1BA099E488E3298738120B9996B1642.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/3/V2/2AOIT7BY70D9CP93JW4HOY.uasset'
+[2023.03.16-02.33.56:071][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/VK/GZDD7ARB4ZEZ85QTAQDT76
+[2023.03.16-02.33.56:071][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/GZDD7ARB4ZEZ85QTAQDT7638FD2CDB4A8FEF37BF8A6F9633063128.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/VK/GZDD7ARB4ZEZ85QTAQDT76.uasset'
+[2023.03.16-02.33.56:072][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/85/XD9490YQGLMK5X1K2MOOA4
+[2023.03.16-02.33.56:073][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/XD9490YQGLMK5X1K2MOOA4CC522ED9427F018640BC689396850A73.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/85/XD9490YQGLMK5X1K2MOOA4.uasset'
+[2023.03.16-02.33.56:074][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/7C/GBUR4RM327LEPXYS24U55O
+[2023.03.16-02.33.56:074][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/GBUR4RM327LEPXYS24U55OEA33178F40026CEC148DBEB52C194265.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/7C/GBUR4RM327LEPXYS24U55O.uasset'
+[2023.03.16-02.33.56:076][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/IR/MDKCCKZUHOZZVZ004QEIJB
+[2023.03.16-02.33.56:076][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MDKCCKZUHOZZVZ004QEIJBC84B8BF2462CB7620931B9978E0295A9.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/IR/MDKCCKZUHOZZVZ004QEIJB.uasset'
+[2023.03.16-02.33.56:078][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/OA/SZI4PLJJ2MVBBDIZ63ZE5Z
+[2023.03.16-02.33.56:078][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/SZI4PLJJ2MVBBDIZ63ZE5ZCA6E9F814D91E241488E84A6ABF215A8.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/OA/SZI4PLJJ2MVBBDIZ63ZE5Z.uasset'
+[2023.03.16-02.33.56:080][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/SD/V998Y3LXTJ8OXXYGBHOWLY
+[2023.03.16-02.33.56:080][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/V998Y3LXTJ8OXXYGBHOWLY4975E6154DF481F9CE583787E72BA3A5.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/SD/V998Y3LXTJ8OXXYGBHOWLY.uasset'
+[2023.03.16-02.33.56:081][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/73/F5LSPR1ULF0Y4GOUZ3TR84
+[2023.03.16-02.33.56:081][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/F5LSPR1ULF0Y4GOUZ3TR8493F1F9444A850217981303A2FD55D945.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/73/F5LSPR1ULF0Y4GOUZ3TR84.uasset'
+[2023.03.16-02.33.56:083][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/51/GV7ML8151I71YWU70ZGLWM
+[2023.03.16-02.33.56:083][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/GV7ML8151I71YWU70ZGLWM98CEE958440A569FCF49B899D61C299E.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/51/GV7ML8151I71YWU70ZGLWM.uasset'
+[2023.03.16-02.33.56:084][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/E/W6/ULN9VELLZRS03WQPFOM446
+[2023.03.16-02.33.56:084][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/ULN9VELLZRS03WQPFOM446270F6F0C471EFF5855AE2498AF7C3ED7.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/E/W6/ULN9VELLZRS03WQPFOM446.uasset'
+[2023.03.16-02.33.56:086][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/OU/HU8L89TJSB2LE55CGX7NV0
+[2023.03.16-02.33.56:086][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/HU8L89TJSB2LE55CGX7NV0A7BCE94A4F141EC02D4EE285401B5301.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/OU/HU8L89TJSB2LE55CGX7NV0.uasset'
+[2023.03.16-02.33.56:087][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/98/SXVG2DN055YBRQ4J9U6IPY
+[2023.03.16-02.33.56:087][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/SXVG2DN055YBRQ4J9U6IPY45F494F341FA456C3D77DBB3B55F885D.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/98/SXVG2DN055YBRQ4J9U6IPY.uasset'
+[2023.03.16-02.33.56:088][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/E/8O/KGPBTHDOO4KQJ2TDRZM55W
+[2023.03.16-02.33.56:089][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/KGPBTHDOO4KQJ2TDRZM55WB5D184DD446BD769580C059A2D3B4ED1.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/E/8O/KGPBTHDOO4KQJ2TDRZM55W.uasset'
+[2023.03.16-02.33.56:090][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/0/TP/YG7PZV1ED7UHU2AZ9CV6H8
+[2023.03.16-02.33.56:090][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/YG7PZV1ED7UHU2AZ9CV6H82812EDDD4748725ABF4C0A89DE7494AD.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/0/TP/YG7PZV1ED7UHU2AZ9CV6H8.uasset'
+[2023.03.16-02.33.56:092][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/YX/4DUIOL685WR5K24WN7XZAZ
+[2023.03.16-02.33.56:092][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/4DUIOL685WR5K24WN7XZAZ840E86D9482CCF7A9CF065884898FC4E.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/YX/4DUIOL685WR5K24WN7XZAZ.uasset'
+[2023.03.16-02.33.56:095][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/LC/0WS7ZZJ1PJF3LD5SLBXUZR
+[2023.03.16-02.33.56:095][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/0WS7ZZJ1PJF3LD5SLBXUZR57D59BA049DC87D5EEEF68A52888EBEE.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/LC/0WS7ZZJ1PJF3LD5SLBXUZR.uasset'
+[2023.03.16-02.33.56:097][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/24/EOEVMPUEOH4XKYGSOSG4EV
+[2023.03.16-02.33.56:097][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/EOEVMPUEOH4XKYGSOSG4EV760116254874DDDE544CA3B0A00C858E.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/24/EOEVMPUEOH4XKYGSOSG4EV.uasset'
+[2023.03.16-02.33.56:099][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/B/FD/X1SF092M108GQNKCZ2GY18
+[2023.03.16-02.33.56:099][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/X1SF092M108GQNKCZ2GY189B0B07E8415F8DC02A5300BD25ED25F8.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/B/FD/X1SF092M108GQNKCZ2GY18.uasset'
+[2023.03.16-02.33.56:101][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/PR/NZ4UKQUJ592B91H4Q34G0X
+[2023.03.16-02.33.56:101][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/NZ4UKQUJ592B91H4Q34G0X4D95449C42812F621B356783F79EA4F4.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/A/PR/NZ4UKQUJ592B91H4Q34G0X.uasset'
+[2023.03.16-02.33.56:102][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/B/9J/AP0GLH9IJRTDOYCPLKQ9RI
+[2023.03.16-02.33.56:102][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/AP0GLH9IJRTDOYCPLKQ9RIADA0337F4569A3604222FFBFB7F827CC.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/B/9J/AP0GLH9IJRTDOYCPLKQ9RI.uasset'
+[2023.03.16-02.33.56:103][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/6I/XGKDZW5PDIOWQBJ8UYEFGD
+[2023.03.16-02.33.56:103][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/XGKDZW5PDIOWQBJ8UYEFGDFD46C3424E888ACBEEA113B36EFF9109.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/6I/XGKDZW5PDIOWQBJ8UYEFGD.uasset'
+[2023.03.16-02.33.56:105][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/JU/7WPHWO5BYFB5AX4HGZ0CL9
+[2023.03.16-02.33.56:105][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/7WPHWO5BYFB5AX4HGZ0CL9CC671E454F60B644610D1C82D1E0B60F.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/JU/7WPHWO5BYFB5AX4HGZ0CL9.uasset'
+[2023.03.16-02.33.56:107][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/3/KC/76HC9OU68KCEJM0NHT4AV7
+[2023.03.16-02.33.56:107][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/76HC9OU68KCEJM0NHT4AV7544A448340E7689DFD483C84BBA20052.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/3/KC/76HC9OU68KCEJM0NHT4AV7.uasset'
+[2023.03.16-02.33.56:110][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/FG/BJB7ETKHST8BYEXXCBQYCW
+[2023.03.16-02.33.56:110][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/BJB7ETKHST8BYEXXCBQYCW956ED520420799C1923D23B9C6F7F293.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/FG/BJB7ETKHST8BYEXXCBQYCW.uasset'
+[2023.03.16-02.33.56:112][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/1/DY/L8E6CXES0G36NXGNBDAAY7
+[2023.03.16-02.33.56:112][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/L8E6CXES0G36NXGNBDAAY724784C9443C89D5E342861A3BEB1261E.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/1/DY/L8E6CXES0G36NXGNBDAAY7.uasset'
+[2023.03.16-02.33.56:113][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/J9/CCFZXX1AT9P4XEL1US8I49
+[2023.03.16-02.33.56:114][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/CCFZXX1AT9P4XEL1US8I49359FEC8B4D363C1169B5AC88D01E4E59.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/J9/CCFZXX1AT9P4XEL1US8I49.uasset'
+[2023.03.16-02.33.56:116][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/4/FT/L0DXQXK8TCGHQ8N5V0A1U3
+[2023.03.16-02.33.56:116][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/L0DXQXK8TCGHQ8N5V0A1U3AC52D6AB4D950E22BA35F4ABC0470795.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/4/FT/L0DXQXK8TCGHQ8N5V0A1U3.uasset'
+[2023.03.16-02.33.56:118][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/LC/MX3OWZ6BFNVGUUCGCX7VVA
+[2023.03.16-02.33.56:118][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MX3OWZ6BFNVGUUCGCX7VVAD588BCCF4A2E64E2F88C52A377865990.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/LC/MX3OWZ6BFNVGUUCGCX7VVA.uasset'
+[2023.03.16-02.33.56:120][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/3/P7/TBNGN59NRS2ILJBBVWM8YK
+[2023.03.16-02.33.56:120][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/TBNGN59NRS2ILJBBVWM8YK372B3E2A4E44774318362D9F5DB3D317.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/3/P7/TBNGN59NRS2ILJBBVWM8YK.uasset'
+[2023.03.16-02.33.56:121][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/0K/XX2GOUG7PPBHT0842ANTB3
+[2023.03.16-02.33.56:121][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/XX2GOUG7PPBHT0842ANTB334EA08004828A9F0CDC44E8A926A0610.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/0K/XX2GOUG7PPBHT0842ANTB3.uasset'
+[2023.03.16-02.33.56:124][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/3/CE/JKX8PSFM0PWTYWB8YPET16
+[2023.03.16-02.33.56:124][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/JKX8PSFM0PWTYWB8YPET16A8C0FE0746DA35C31ED72DA209FCE55F.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/3/CE/JKX8PSFM0PWTYWB8YPET16.uasset'
+[2023.03.16-02.33.56:126][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/MS/ANJIP6VDF5JHZONZN9DVOY
+[2023.03.16-02.33.56:126][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/ANJIP6VDF5JHZONZN9DVOY9307AEFF468502F4E70BD1A0192AB48A.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/MS/ANJIP6VDF5JHZONZN9DVOY.uasset'
+[2023.03.16-02.33.56:128][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/R6/KPFY7PXK0HZ5NORMNG0NYA
+[2023.03.16-02.33.56:128][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/KPFY7PXK0HZ5NORMNG0NYA3CD1D7274650EF642D7C93B77C501BF7.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/R6/KPFY7PXK0HZ5NORMNG0NYA.uasset'
+[2023.03.16-02.33.56:130][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/3/R1/NJ8QLQ90JJCSN8BZESP9W0
+[2023.03.16-02.33.56:130][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/NJ8QLQ90JJCSN8BZESP9W0C37E56DB48D2402AD769D68F32685798.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/3/R1/NJ8QLQ90JJCSN8BZESP9W0.uasset'
+[2023.03.16-02.33.56:132][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/AP/ICNXK220ZZUYNO9MHMYRNO
+[2023.03.16-02.33.56:132][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/ICNXK220ZZUYNO9MHMYRNO1DD76CB34E53FB039073A7A289142C98.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/AP/ICNXK220ZZUYNO9MHMYRNO.uasset'
+[2023.03.16-02.33.56:133][745]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/86/F9F1BPOH16R4CYKNZ121WR
+[2023.03.16-02.33.56:133][745]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/F9F1BPOH16R4CYKNZ121WR85CA95B14C933D5EDAB606B1AAA6DDC9.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/86/F9F1BPOH16R4CYKNZ121WR.uasset'
+[2023.03.16-02.33.56:147][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 274 ms (total: 11.9 sec)
+[2023.03.16-02.33.56:159][745]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.16-02.33.56:159][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781458865
+[2023.03.16-02.33.56:159][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781557948
+[2023.03.16-02.33.56:159][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781557947
+[2023.03.16-02.33.56:159][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781555946
+[2023.03.16-02.33.56:159][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781554945
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781553944
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781552943
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781550942
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781549941
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781548939
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781547938
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781549940
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781545936
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781546937
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781544935
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781543934
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781542933
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781541932
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781540931
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781539930
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781537928
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781535927
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781534926
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781533925
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781532924
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781531923
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781530922
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781529921
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781528920
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781527919
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781525918
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781524917
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781538929
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781523916
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781522915
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781521914
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781519913
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781517912
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781516911
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781515910
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781514909
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781513908
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781512907
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781511906
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781509905
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781507904
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781506903
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781505902
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781503901
+[2023.03.16-02.33.56:160][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781502900
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781501899
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781499897
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781500898
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781498896
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781496894
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781497895
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781495893
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781494892
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781491890
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781490889
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781493891
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781486887
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781487888
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781485886
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781484885
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781482883
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781483884
+[2023.03.16-02.33.56:161][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781482882
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781481881
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781479880
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781476878
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781477879
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781474877
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781473876
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781470875
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781469874
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781468873
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781467872
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781467871
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781464869
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781464870
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781462868
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781461867
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781459866
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.ActorFolder_UID_70DF4CBC-4F5E1089-064147AD-7384633C
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781454864
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781450863
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781449862
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.ActorFolder_UID_62455855-4E92BC6F-5396C3A3-92C9A757
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781445861
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781444860
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781443859
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781441858
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781438857
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.ActorFolder_UID_9CF395F7-4391CECD-0AAE0A95-3B8FFCE1
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781434856
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781428855
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781425854
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781423853
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.ActorFolder_UID_33C22342-4F8D97E5-94741A9E-EDB65191
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.ActorFolder_UID_77CDFA86-4E7028A0-BA879898-2E8230D1
+[2023.03.16-02.33.56:162][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1781417852
+[2023.03.16-02.33.58:430][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.03.16-02.33.58:830][851]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.03.16-02.33.58:830][851]Cmd: MAP LOAD FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/MusicAI_GameMode/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.03.16-02.33.58:830][851]LightingResults: New page: Lighting Build
+[2023.03.16-02.33.58:830][851]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2023.03.16-02.33.58:837][851]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.33.58:837][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.33.58:844][851]LogContentBundle: [Container: MainMenu] Deleting container.
+[2023.03.16-02.33.58:844][851]MapCheck: New page: Map Check
+[2023.03.16-02.33.58:844][851]LightingResults: New page: Lighting Build
+[2023.03.16-02.33.58:901][851]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-02.33.58:914][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.03.16-02.33.58:920][851]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.33.58:920][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.33.58:980][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.03.16-02.33.59:041][851]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2023.03.16-02.33.59:070][851]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.03.16-02.33.59:070][851]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-02.33.59:070][851]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.03.16-02.33.59:071][851]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.16-02.33.59:071][851]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.16-02.33.59:071][851]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.16-02.33.59:661][851]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.03.16-02.33.59:661][851]LogWorldPartition: Display: WorldPartition initialize took 590 ms (total: 13.1 sec)
+[2023.03.16-02.33.59:807][851]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.16-02.33.59:808][851]LogNavigation: Warning: Recreating dtNavMesh instance due mismatch in number of bytes required to store serialized maxTiles (96, 7 bits) vs calculated maxtiles (192, 8 bits)
+[2023.03.16-02.33.59:819][851]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.33.59:819][851]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.33.59:941][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.03.16-02.33.59:953][851]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.16-02.33.59:954][851]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.767ms to complete.
+[2023.03.16-02.33.59:954][851]LogFileHelpers: Loading map 'ThirdPersonMap' took 1.123
+[2023.03.16-02.34.00:420][856]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.60s
+[2023.03.16-02.34.00:420][856]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.34.22:237][729]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.34.39:428][445]Cmd: EDIT COPY
+[2023.03.16-02.34.39:455][446]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.34.40:436][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.03.16-02.34.42:897][476]LogSlate: Window 'Save Content' being destroyed
+[2023.03.16-02.34.42:907][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.16-02.34.42:957][476]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/A/EJ/Z9CMG5YEZLP9SG52JSVBGB
+[2023.03.16-02.34.42:957][476]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/Z9CMG5YEZLP9SG52JSVBGB992FF3774589C3A7A87B91A5E106295C.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/A/EJ/Z9CMG5YEZLP9SG52JSVBGB.uasset'
+[2023.03.16-02.34.42:959][476]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/5/IG/MD2A5AT6UPWPXCSDWZTA1V
+[2023.03.16-02.34.42:959][476]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MD2A5AT6UPWPXCSDWZTA1VAFB7C13D4AEEB75B661D0690B816A9F9.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/5/IG/MD2A5AT6UPWPXCSDWZTA1V.uasset'
+[2023.03.16-02.34.42:961][476]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/D/1X/FI4H3EPGK2WH36ULWJTV1G
+[2023.03.16-02.34.42:962][476]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/FI4H3EPGK2WH36ULWJTV1G69DDEFB04B5CDC15A2A36CB1B6ECFB91.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/D/1X/FI4H3EPGK2WH36ULWJTV1G.uasset'
+[2023.03.16-02.34.42:963][476]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/2/W2/QGES568CFVX5KJWJK4GUU0
+[2023.03.16-02.34.42:964][476]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/QGES568CFVX5KJWJK4GUU0C7703071469B6D4219EF9EAC7C32651C.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/2/W2/QGES568CFVX5KJWJK4GUU0.uasset'
+[2023.03.16-02.34.42:965][476]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/0/J2/4PWRHGUS2DMWGYJ1GQFDK6
+[2023.03.16-02.34.42:966][476]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/4PWRHGUS2DMWGYJ1GQFDK695BEB048411F7027BEE75EA8B6E7A959.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/0/J2/4PWRHGUS2DMWGYJ1GQFDK6.uasset'
+[2023.03.16-02.34.42:967][476]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/4/CC/HS1T2W4BU7OQJCAOFAYW2P
+[2023.03.16-02.34.42:968][476]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/HS1T2W4BU7OQJCAOFAYW2P630DD5EF4C129BEE9BCE329A4B90A2BF.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/ThirdPersonMap/4/CC/HS1T2W4BU7OQJCAOFAYW2P.uasset'
+[2023.03.16-02.34.42:975][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 12.0 sec)
+[2023.03.16-02.34.43:063][476]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu
+[2023.03.16-02.34.43:063][476]Cmd: MAP LOAD FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/MusicAI_GameMode/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.03.16-02.34.43:063][476]LightingResults: New page: Lighting Build
+[2023.03.16-02.34.43:063][476]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.03.16-02.34.43:072][476]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.34.43:072][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.34.43:081][476]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.03.16-02.34.43:081][476]MapCheck: New page: Map Check
+[2023.03.16-02.34.43:081][476]LightingResults: New page: Lighting Build
+[2023.03.16-02.34.43:143][476]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-02.34.43:160][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.03.16-02.34.43:165][476]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.34.43:165][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.34.43:223][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.03.16-02.34.43:282][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.03.16-02.34.43:306][476]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.03.16-02.34.43:307][476]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-02.34.43:307][476]LogAIModule: Creating AISystem for world MainMenu
+[2023.03.16-02.34.43:308][476]LogWorldPartition: ULevel::OnLevelLoaded(MainMenu)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.16-02.34.43:308][476]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.16-02.34.43:308][476]LogWorldPartition: UWorldPartition::Initialize(Asset=MainMenu, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.16-02.34.43:582][476]LogContentBundle: [Container: MainMenu] Creating new contrainer.
+[2023.03.16-02.34.43:582][476]LogWorldPartition: Display: WorldPartition initialize took 274 ms (total: 13.3 sec)
+[2023.03.16-02.34.43:666][476]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.16-02.34.43:675][476]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.34.43:675][476]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.34.43:754][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.03.16-02.34.43:766][476]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.16-02.34.43:767][476]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.529ms to complete.
+[2023.03.16-02.34.43:767][476]LogFileHelpers: Loading map 'MainMenu' took 0.704
+[2023.03.16-02.34.43:797][476]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.16-02.34.43:839][477]LogAutomationController: Ignoring very large delta of 3.50 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.03.16-02.34.43:847][477]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.17s
+[2023.03.16-02.34.43:847][477]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.34.51:823][890]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.35.03:367][551]Cmd: DELETE
+[2023.03.16-02.35.03:367][551]Cmd: ACTOR DELETE
+[2023.03.16-02.35.03:379][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.35.03:381][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.35.03:382][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.35.03:383][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.35.03:385][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.35.03:386][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.35.03:387][551]LogEditorActor: Deleted Actor: TextRenderActor
+[2023.03.16-02.35.03:390][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.35.03:391][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.35.03:392][551]LogEditorActor: Deleted Actor: Wall_Blueprint_C
+[2023.03.16-02.35.03:453][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.16-02.35.03:456][551]LogEditorActor: Deleted 10 Actors (0.089 secs)
+[2023.03.16-02.35.03:498][554]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.35.05:762][678]Cmd: DELETE
+[2023.03.16-02.35.05:762][678]Cmd: ACTOR DELETE
+[2023.03.16-02.35.05:764][678]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.35.05:827][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.03.16-02.35.05:829][678]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2023.03.16-02.35.06:536][719]Cmd: EDIT PASTE
+[2023.03.16-02.35.06:612][721]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.35.17:927][299]Cmd: DELETE
+[2023.03.16-02.35.17:927][299]Cmd: ACTOR DELETE
+[2023.03.16-02.35.17:931][299]LogEditorActor: Deleted Actor: WallDoor_Blueprint_C
+[2023.03.16-02.35.17:932][299]LogEditorActor: Deleted Actor: Wall_Blueprint_C
+[2023.03.16-02.35.17:933][299]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.35.17:998][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.03.16-02.35.18:000][299]LogEditorActor: Deleted 3 Actors (0.073 secs)
+[2023.03.16-02.35.18:041][302]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.35.25:917][712]Cmd: DELETE
+[2023.03.16-02.35.25:917][712]Cmd: ACTOR DELETE
+[2023.03.16-02.35.25:920][712]LogEditorActor: Deleted Actor: AI_NavPath_C
+[2023.03.16-02.35.25:922][712]LogEditorActor: Deleted Actor: AI_NavPath_C
+[2023.03.16-02.35.25:924][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.35.25:990][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.03.16-02.35.25:992][712]LogEditorActor: Deleted 3 Actors (0.076 secs)
+[2023.03.16-02.35.26:002][713]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.35.40:573][476]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.35.41:744][536]Cmd: DELETE
+[2023.03.16-02.35.41:744][536]Cmd: ACTOR DELETE
+[2023.03.16-02.35.41:747][536]LogEditorActor: Deleted Actor: AI_NavPath_C
+[2023.03.16-02.35.41:748][536]LogEditorActor: Deleted Actor: AI_NavPath_C
+[2023.03.16-02.35.41:749][536]LogEditorActor: Deleted Actor: AI_NavPath_C
+[2023.03.16-02.35.41:750][536]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.35.41:751][536]LogEditorActor: Deleted Actor: Blueprint_CeilingLight_C
+[2023.03.16-02.35.41:753][536]LogEditorActor: Deleted Actor: Blueprint_CeilingLight_C
+[2023.03.16-02.35.41:818][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.03.16-02.35.41:820][536]LogEditorActor: Deleted 6 Actors (0.076 secs)
+[2023.03.16-02.35.41:830][537]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.35.46:212][798]Cmd: DELETE
+[2023.03.16-02.35.46:212][798]Cmd: ACTOR DELETE
+[2023.03.16-02.35.46:215][798]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.35.46:217][798]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.35.46:280][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.03.16-02.35.46:282][798]LogEditorActor: Deleted 2 Actors (0.070 secs)
+[2023.03.16-02.35.46:295][799]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.35.49:507][996]Cmd: DELETE
+[2023.03.16-02.35.49:507][996]Cmd: ACTOR DELETE
+[2023.03.16-02.35.49:510][996]LogEditorActor: Deleted Actor: Blueprint_CeilingLight_C
+[2023.03.16-02.35.49:575][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.03.16-02.35.49:577][996]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2023.03.16-02.35.49:586][997]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.35.57:719][490]Cmd: DELETE
+[2023.03.16-02.35.57:719][490]Cmd: ACTOR DELETE
+[2023.03.16-02.35.57:721][490]LogEditorActor: Deleted Actor: Blueprint_CeilingLight_C
+[2023.03.16-02.35.57:792][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.03.16-02.35.57:794][490]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2023.03.16-02.35.57:804][491]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.36.02:988][791]LogViewport: Scene viewport resized to 384x166, mode Windowed.
+[2023.03.16-02.36.19:816][455]LogViewport: Scene viewport resized to 384x166, mode Windowed.
+[2023.03.16-02.36.34:765][949]Cmd: TRANSACTION UNDO
+[2023.03.16-02.36.34:765][949]LogEditorTransaction: Undo Move Elements
+[2023.03.16-02.36.35:300][958]Cmd: TRANSACTION UNDO
+[2023.03.16-02.36.35:300][958]LogEditorTransaction: Undo Move Elements
+[2023.03.16-02.36.35:737][970]Cmd: TRANSACTION UNDO
+[2023.03.16-02.36.35:737][970]LogEditorTransaction: Undo Move Elements
+[2023.03.16-02.37.04:601][957]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.16-02.37.04:613][957]LogContentBundle: [Container: MainMenu] Generating Streaming for 0 Content Bundles.
+[2023.03.16-02.37.04:619][957]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.16-02.37.04:619][957]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.16-02.37.04:619][957]LogWorldPartition: Display: GetPartitionedActors took 11 us (total: 501 us)
+[2023.03.16-02.37.04:620][957]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 5.51 sec)
+[2023.03.16-02.37.04:620][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.16-02.37.04:621][957]PIE: New page: PIE session: MainMenu (Mar. 15, 2023, 12:37:04 p.m.)
+[2023.03.16-02.37.04:621][957]LogPlayLevel: Creating play world package: /Game/MusicAI_GameMode/Maps/UEDPIE_0_MainMenu
+[2023.03.16-02.37.04:648][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027207s)
+[2023.03.16-02.37.04:649][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu to /Game/MusicAI_GameMode/Maps/UEDPIE_0_MainMenu.MainMenu (0.027263s)
+[2023.03.16-02.37.04:649][957]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-02.37.04:649][957]LogAIModule: Creating AISystem for world MainMenu
+[2023.03.16-02.37.04:650][957]LogWorldPartition: ULevel::OnLevelLoaded(MainMenu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.16-02.37.04:650][957]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.16-02.37.04:650][957]LogWorldPartition: UWorldPartition::Initialize(Asset=MainMenu, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.16-02.37.04:657][957]LogContentBundle: [Container: MainMenu] Creating new contrainer.
+[2023.03.16-02.37.04:657][957]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 13.4 sec)
+[2023.03.16-02.37.04:657][957]LogPlayLevel: PIE: World Init took: (0.008922s)
+[2023.03.16-02.37.04:716][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.03.16-02.37.04:727][957]LogBlueprintUserMessages: [MusicAI_GameInstance_C_12] Length of returned assets:39 | 39
+[2023.03.16-02.37.04:737][957]LogBlueprintUserMessages: [MusicAI_GameInstance_C_12] Sexualizer
+[2023.03.16-02.37.04:737][957]LogBlueprintUserMessages: [MusicAI_GameInstance_C_12] The_Hunting
+[2023.03.16-02.37.04:737][957]LogBlueprintUserMessages: [MusicAI_GameInstance_C_12] Ketchup___Mustard_Color_Scheme
+[2023.03.16-02.37.04:737][957]LogBlueprintUserMessages: [MusicAI_GameInstance_C_12] Acolytes_of_the_New_God
+[2023.03.16-02.37.04:737][957]LogBlueprintUserMessages: [MusicAI_GameInstance_C_12] UNTITLED_INSTRUMENTAL_NO__4
+[2023.03.16-02.37.04:737][957]LogBlueprintUserMessages: [MusicAI_GameInstance_C_12] Unforeseen_Consequences
+[2023.03.16-02.37.04:737][957]LogBlueprintUserMessages: [MusicAI_GameInstance_C_12] The_Death_That_I_Deservioli
+[2023.03.16-02.37.04:738][957]LogBlueprintUserMessages: [MusicAI_GameInstance_C_12] Starter_Music01
+[2023.03.16-02.37.04:738][957]LogBlueprintUserMessages: [MusicAI_GameInstance_C_12] Secunda__Skyrim_
+[2023.03.16-02.37.04:738][957]LogBlueprintUserMessages: [MusicAI_GameInstance_C_12] Radiation_Storm
+[2023.03.16-02.37.04:738][957]LogBlueprintUserMessages: [MusicAI_GameInstance_C_12] Murder_-_Psycho__Bernard_Herrmann_
+[2023.03.16-02.37.04:738][957]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.03.16-02.37.04:738][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-02.37.04:738][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-02.37.04:738][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-02.37.04:738][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-02.37.04:738][957]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.16-02.37.04:738][957]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.16-02.37.04:738][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.16-02.37.04:738][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-02.37.04:739][957]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-02.37.04:739][957]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-02.37.04:739][957]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-02.37.04:742][957]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.16-02.37.04:786][957]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Kitty Edition)
+[2023.03.16-02.37.04:786][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-02.37.04:786][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-02.37.04:786][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-02.37.04:787][957]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.03.16-02.37.04:787][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.03.16-02.37.04:789][957]LogInit: FAudioDevice initialized.
+[2023.03.16-02.37.04:789][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.03.16-02.37.04:789][957]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMenu'.
+[2023.03.16-02.37.04:789][957]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.03.16-02.37.04:815][957]LogLoad: Game class is 'MainMenu_C'
+[2023.03.16-02.37.04:827][957]LogWorld: Bringing World /Game/MusicAI_GameMode/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.03.15-19.37.04
+[2023.03.16-02.37.04:828][957]LogWorld: Bringing up level for play took: 0.013092
+[2023.03.16-02.37.04:846][957]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.37.04:846][957]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.37.04:860][957]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.03.16-02.37.04:862][957]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-3528.933 Y=444.868 Z=1512.206
+[2023.03.16-02.37.04:866][957]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.03.16-02.37.04:866][957]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.03.16-02.37.04:866][957]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.03.16-02.37.04:866][957]PIE: Server logged in
+[2023.03.16-02.37.04:867][957]PIE: Play in editor total start time 0.253 seconds.
+[2023.03.16-02.37.05:356][960]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.51s
+[2023.03.16-02.37.13:443][490]LogNet: Browse: /Game/MusicAI_GameMode/Maps/ThirdPersonMap
+[2023.03.16-02.37.13:443][490]LogLoad: LoadMap: /Game/MusicAI_GameMode/Maps/ThirdPersonMap
+[2023.03.16-02.37.13:443][490]LogWorld: BeginTearingDown for /Game/MusicAI_GameMode/Maps/UEDPIE_0_MainMenu
+[2023.03.16-02.37.13:445][490]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.37.13:448][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.37.13:448][490]LogContentBundle: [Container: MainMenu] Deleting container.
+[2023.03.16-02.37.13:540][490]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-02.37.13:547][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.03.16-02.37.13:574][490]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2023.03.16-02.37.13:574][490]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-02.37.13:575][490]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.03.16-02.37.13:576][490]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.16-02.37.13:576][490]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.16-02.37.13:576][490]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2023.03.16-02.37.13:633][490]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.16-02.37.13:633][490]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.16-02.37.13:633][490]LogWorldPartition: Display: GetPartitionedActors took 30 us (total: 532 us)
+[2023.03.16-02.37.13:898][490]LogWorldPartition: Display: GenerateStreaming took 265 ms (total: 5.77 sec)
+[2023.03.16-02.37.13:913][490]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.03.16-02.37.13:913][490]LogWorldPartition: Display: WorldPartition initialize took 337 ms (total: 13.7 sec)
+[2023.03.16-02.37.13:913][490]LogPlayLevel: PIE: World Init took: (0.338690s)
+[2023.03.16-02.37.13:913][490]LogLoad: Game class is 'MusicAnalyzer_C'
+[2023.03.16-02.37.14:020][490]LogWorld: Bringing World /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.03.15-19.37.14
+[2023.03.16-02.37.14:022][490]LogWorld: Bringing up level for play took: 0.062557
+[2023.03.16-02.37.14:023][490]LogNavigation: Warning: Recreating dtNavMesh instance due mismatch in number of bytes required to store serialized maxTiles (96, 7 bits) vs calculated maxtiles (192, 8 bits)
+[2023.03.16-02.37.14:035][490]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.37.14:035][490]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.37.14:048][490]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.03.16-02.37.14:048][490]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.03.16-02.37.14:091][490]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Avg Loudness: 0.758817 | Avg High: -35.651368 | Avg Mid: -22.537851 | Avg Low: -21.66379
+[2023.03.16-02.37.14:091][490]LogBlueprintUserMessages: [MusicAnalyzer_C_0] IsAggressive: false | Amp Peak: 52 | Amp Silence: 0 | Beats: 1
+[2023.03.16-02.37.14:095][490]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=460.000 Y=1344.000 Z=1256.013
+[2023.03.16-02.37.14:095][490]LogLoad: Took 0.650972 seconds to LoadMap(/Game/MusicAI_GameMode/Maps/ThirdPersonMap)
+[2023.03.16-02.37.14:150][491]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.069269 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2023.03.16-02.37.14:249][493]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:1
+[2023.03.16-02.37.14:301][495]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.26s
+[2023.03.16-02.37.15:193][533]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:2
+[2023.03.16-02.37.15:820][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.37.16:087][568]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.37.16:199][572]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:3
+[2023.03.16-02.37.16:274][575]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.37.16:441][582]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.37.17:200][612]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:4
+[2023.03.16-02.37.18:191][656]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:1
+[2023.03.16-02.37.19:205][698]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:2
+[2023.03.16-02.37.20:213][737]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:3
+[2023.03.16-02.37.21:200][775]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:4
+[2023.03.16-02.37.22:214][820]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:1
+[2023.03.16-02.37.22:950][849]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] Hurt!
+[2023.03.16-02.37.23:181][857]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:2
+[2023.03.16-02.37.24:187][894]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:3
+[2023.03.16-02.37.24:680][915]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.37.24:680][915]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=-0.230 Y=0.870 Z=0.000
+[2023.03.16-02.37.24:887][924]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.37.24:887][924]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=-0.234 Y=0.906 Z=0.000
+[2023.03.16-02.37.25:194][937]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:4
+[2023.03.16-02.37.25:261][940]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.37.25:261][940]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=-0.234 Y=0.906 Z=0.000
+[2023.03.16-02.37.25:838][964]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.37.25:838][964]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=0.195 Y=0.967 Z=0.000
+[2023.03.16-02.37.25:981][969]LogBlueprintUserMessages: [BP_NPC_C_2] [BP_NPC] Hurt!
+[2023.03.16-02.37.26:012][970]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.37.26:012][970]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=0.954 Y=0.291 Z=0.000
+[2023.03.16-02.37.26:163][975]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.37.26:163][975]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=0.954 Y=0.291 Z=0.000
+[2023.03.16-02.37.26:191][976]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 4 Beat:1
+[2023.03.16-02.37.27:197][ 16]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 4 Beat:2
+[2023.03.16-02.37.27:747][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-02.37.27:747][ 37]LogWorld: BeginTearingDown for /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.16-02.37.27:749][ 37]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.37.27:754][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.37.27:755][ 37]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.03.16-02.37.27:769][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.16-02.37.27:780][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.37.27:842][ 37]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-02.37.27:849][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.03.16-02.37.27:850][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.03.16-02.37.27:855][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-02.37.27:876][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.03.16-02.37.27:922][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.03.16-02.37.27:933][ 38]LogViewport: Scene viewport resized to 384x166, mode Windowed.
+[2023.03.16-02.38.03:771][420]Cmd: DELETE
+[2023.03.16-02.38.03:771][420]Cmd: ACTOR DELETE
+[2023.03.16-02.38.03:774][420]LogEditorActor: Deleted Actor: TextRenderActor
+[2023.03.16-02.38.03:776][420]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.38.03:777][420]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.16-02.38.03:843][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.03.16-02.38.03:846][420]LogEditorActor: Deleted 3 Actors (0.074 secs)
+[2023.03.16-02.38.04:158][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.16-02.38.04:869][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1862399957 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/4/JG/SH2HCN1RS3BZZ9TNPFOK0F.PackageMetaData in its package
+[2023.03.16-02.38.04:869][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.TextRenderActor_UAID_309C234598BFB26F01_1862398956 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/2/9I/5L6GPQKYA8CW2TQAHOUQF5.PackageMetaData in its package
+[2023.03.16-02.38.04:869][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1862391952 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/E/AL/XSO2NVPL6BNJLSK0NRSTT5.PackageMetaData in its package
+[2023.03.16-02.38.04:871][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.03.16-02.38.04:936][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.03.16-02.38.04:996][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.03.16-02.38.05:004][442]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/16/X84EPMIZ4OL5SID981TO9N
+[2023.03.16-02.38.05:005][442]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/X84EPMIZ4OL5SID981TO9NCFB547D74D8B0D7D878D7B98C8CA3086.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/16/X84EPMIZ4OL5SID981TO9N.uasset'
+[2023.03.16-02.38.05:007][442]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/L0/KL0WF7IQZUVDXV2XZXIJTE
+[2023.03.16-02.38.05:007][442]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/KL0WF7IQZUVDXV2XZXIJTE5CEF6AB54E7A55A90D9F2C9F46A1FAFC.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/L0/KL0WF7IQZUVDXV2XZXIJTE.uasset'
+[2023.03.16-02.38.05:010][442]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/CR/CJTGM8HNX01BJ0J4YLZ6AX
+[2023.03.16-02.38.05:010][442]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/CJTGM8HNX01BJ0J4YLZ6AXEB18B4D441B71C27F2ED5DB9BD0F1A41.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/CR/CJTGM8HNX01BJ0J4YLZ6AX.uasset'
+[2023.03.16-02.38.05:013][442]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/0/JE/XG6B0URPL4T454AKMCTR92
+[2023.03.16-02.38.05:013][442]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/XG6B0URPL4T454AKMCTR922B5FDCAA421F0F5194D2849BEE135496.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/0/JE/XG6B0URPL4T454AKMCTR92.uasset'
+[2023.03.16-02.38.05:014][442]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/VE/HWE8XONERA0VSIP5AQSDI3
+[2023.03.16-02.38.05:014][442]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/HWE8XONERA0VSIP5AQSDI37473BDD84E57812458F217B10F5BB4FB.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/VE/HWE8XONERA0VSIP5AQSDI3.uasset'
+[2023.03.16-02.38.05:016][442]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/YR/NJRGE1R25G5B4KIB9P9B1N
+[2023.03.16-02.38.05:016][442]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/NJRGE1R25G5B4KIB9P9B1N05E910FE41C29FCAF8C035B2DE479380.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/YR/NJRGE1R25G5B4KIB9P9B1N.uasset'
+[2023.03.16-02.38.05:019][442]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/21/AR2PKQUK64YFCCNZ36LP6I
+[2023.03.16-02.38.05:019][442]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/AR2PKQUK64YFCCNZ36LP6I9AD24CCA478B97C2EE95819A9D4EBF77.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/21/AR2PKQUK64YFCCNZ36LP6I.uasset'
+[2023.03.16-02.38.05:020][442]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/ZR/ZOT0CUOZIDYQCQZPLOKZ0B
+[2023.03.16-02.38.05:020][442]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/ZOT0CUOZIDYQCQZPLOKZ0B102F4FB24C1A9B38387F83887C6F4AED.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/ZR/ZOT0CUOZIDYQCQZPLOKZ0B.uasset'
+[2023.03.16-02.38.05:032][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 874 ms (total: 12.9 sec)
+[2023.03.16-02.38.05:042][442]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.16-02.38.05:042][442]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1862396955
+[2023.03.16-02.38.05:042][442]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1862395954
+[2023.03.16-02.38.05:042][442]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1862392953
+[2023.03.16-02.38.05:042][442]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1862389951
+[2023.03.16-02.38.05:042][442]LogContentValidation: Display: Validating /Game/SetPieces/Materials/Wall_Blueprint.Wall_Blueprint_C /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.Wall_Blueprint_C_UAID_309C234598BFB26F01_1862388950
+[2023.03.16-02.38.05:042][442]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFB26F01_1862384949
+[2023.03.16-02.38.05:042][442]LogContentValidation: Display: Validating /Script/Niagara.NiagaraActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.NiagaraActor_UAID_309C234598BF856B01_1632632560
+[2023.03.16-02.38.05:042][442]LogContentValidation: Display: Validating /Script/Engine.CameraActor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.CameraActor_UAID_309C234598BF846B01_1864607383
+[2023.03.16-02.38.05:132][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BF836B01_1310312216 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/E/LL/ZEQELN7T4IEXC8V3MM1I74.PackageMetaData in its package
+[2023.03.16-02.38.05:132][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BF1C6301_1842337675 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/E/3Q/1UTV0MWCABP23V5J30105X.PackageMetaData in its package
+[2023.03.16-02.38.05:132][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.TextRenderActor_1 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/D/B1/V1UN218Q5RZU1IV9D1M5CG.PackageMetaData in its package
+[2023.03.16-02.38.05:132][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.AI_NavPath_C_UAID_309C234598BFA96501_2018261560 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/C/I5/5LOQT2ZWDVJ6VTHCPFIUHG.PackageMetaData in its package
+[2023.03.16-02.38.05:132][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BF166301_1567780610 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/B/QY/F2MTZBQHK04HPOMBPWLUSW.PackageMetaData in its package
+[2023.03.16-02.38.05:132][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.Wall_Blueprint_C_UAID_309C234598BF826B01_1242113035 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/B/JN/448Y0O3M4L42CMR2S3J6HH.PackageMetaData in its package
+[2023.03.16-02.38.05:132][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.AI_NavPath_C_UAID_309C234598BF0B6601_2136012817 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/B/DL/Y9RY8QJW4BPZTI5E4KP7CY.PackageMetaData in its package
+[2023.03.16-02.38.05:132][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BF166301_1657892612 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/W6/08YVADJH8A6FTVLEH7B123.PackageMetaData in its package
+[2023.03.16-02.38.05:132][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.Blueprint_CeilingLight_C_UAID_309C234598BF166301_1567778609 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/9/UX/51QF2D7N55LBYDENN1BZ7L.PackageMetaData in its package
+[2023.03.16-02.38.05:132][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFC06201_1563176442 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/ZY/4Y4H1TQVC3ALX61C5QJHKY.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFE16501_1656451423 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/U3/GEDDHI1A08KXXSJSOCO8CX.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.AI_NavPath_C_UAID_309C234598BF0B6601_2142690819 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/RI/PR5HU8A2E3CR8Z0BVSVTV5.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFC06201_1587416443 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/36/T4QKMAR2YTB805S08LHSOR.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.AI_NavPath_C_UAID_309C234598BF0B6601_2140773818 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/0S/904S09OS6IMXCC0FSXWFQG.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BF836B01_1264995215 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/N2/MXY5L1OP23FSXU2BEIDQXQ.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_42 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/7/J0/VLJ1KKQ70ZZUC6A4LF16GQ.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_37 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/V2/EUYTT1P49PMOG359O5IO12.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.Wall_Blueprint_C_UAID_309C234598BF826B01_1157389032 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/6/QI/QSAXLJCOA65HGHJ3BJ0GGD.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_36 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/5/WV/57KI0ZWWJ1UMCDXXXFR0TY.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BF166301_1369067605 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/4/LH/BFLRWPOIDHCKDIAEXNRRWF.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BF166301_1634426611 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/4/CM/KIBJF8T7XEFI220Z856JYA.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.WallDoor_Blueprint_C_UAID_309C234598BF826B01_1163659033 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/3/2Z/SZM9RY5H0AU7WZE57MO1WC.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.AI_NavPath_C_UAID_309C234598BF0B6601_2101005816 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/0/ZJ/C0QD4CN9QU2AF9VYYBUMKX.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BF826B01_1773366037 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/0/EG/JBXYMHF3XCDNLQXWD42577.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BF826B01_1467613036 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/8/V7/SCPFJXIJLN7D0KA02G667U.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_UAID_309C234598BFBC6201_1524045736 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/0/77/O410C013PQ6KH9IPTMMXIK.PackageMetaData in its package
+[2023.03.16-02.38.05:133][442]LogWorldPartition: Actor /Game/MusicAI_GameMode/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_33 is unreachable without properly detaching object /Game/__ExternalActors__/MusicAI_GameMode/Maps/MainMenu/0/2E/1N9BDYUINWG6X69VDBOHS4.PackageMetaData in its package
+[2023.03.16-02.38.05:134][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.03.16-02.38.05:215][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.03.16-02.38.17:321][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.03.16-02.38.17:414][210]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.03.16-02.38.17:414][210]Cmd: MAP LOAD FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/MusicAI_GameMode/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.03.16-02.38.17:414][210]LightingResults: New page: Lighting Build
+[2023.03.16-02.38.17:414][210]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2023.03.16-02.38.17:420][210]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.38.17:420][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.38.17:427][210]LogContentBundle: [Container: MainMenu] Deleting container.
+[2023.03.16-02.38.17:428][210]MapCheck: New page: Map Check
+[2023.03.16-02.38.17:428][210]LightingResults: New page: Lighting Build
+[2023.03.16-02.38.17:489][210]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-02.38.17:500][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.03.16-02.38.17:504][210]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.38.17:504][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.38.17:563][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.03.16-02.38.17:621][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.03.16-02.38.17:651][210]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.03.16-02.38.17:651][210]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-02.38.17:652][210]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.03.16-02.38.17:652][210]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.16-02.38.17:653][210]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.16-02.38.17:653][210]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.16-02.38.18:103][210]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.03.16-02.38.18:103][210]LogWorldPartition: Display: WorldPartition initialize took 450 ms (total: 14.1 sec)
+[2023.03.16-02.38.18:269][210]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.16-02.38.18:270][210]LogNavigation: Warning: Recreating dtNavMesh instance due mismatch in number of bytes required to store serialized maxTiles (96, 7 bits) vs calculated maxtiles (192, 8 bits)
+[2023.03.16-02.38.18:281][210]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.38.18:281][210]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.38.18:379][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.03.16-02.38.18:391][210]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.16-02.38.18:392][210]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.052ms to complete.
+[2023.03.16-02.38.18:392][210]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.978
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: ================================================
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: Total job queries 2330, among them cache hits 110 (4.72%)
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: Tracking 2220 distinct input hashes that result in 173 distinct outputs (7.79%)
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: RAM used: 16.67 MB (0.02 GB) of 1638.40 MB (1.60 GB) budget. Usage: 1.02%
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: Shaders Compiled: 2000
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: Jobs assigned 2000, completed 2000 (100.00%)
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: Average time worker was idle: 0.14 s
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: Time job spent in pending queue: average 2.80 s, longest 33.77 s
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 6.69 s
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: Job life time (pending + execution): average 3.67 s, max 37.62
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 461.95 s
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: Jobs were issued in 2000 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: Average processing rate: 4.33 jobs/sec
+[2023.03.16-02.38.18:471][210]LogShaderCompilers: Display: Total thread time: 1576.41 s
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display: Total thread preprocess time: 95.91 s
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display: Percentage time preprocessing: 6.08%
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display: Effective parallelization: 3.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled  125 times, average 1.19 sec, max 6.47 sec, min 0.63 sec)
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled  125 times, average 1.05 sec, max 6.23 sec, min 0.49 sec)
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled  125 times, average 1.02 sec, max 5.23 sec, min 0.51 sec)
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled  125 times, average 0.81 sec, max 1.04 sec, min 0.67 sec)
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled  125 times, average 0.81 sec, max 1.02 sec, min 0.67 sec)
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.45% of total time (compiled  125 times, average 1.19 sec, max 6.47 sec, min 0.63 sec)
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.34% of total time (compiled  125 times, average 1.05 sec, max 6.23 sec, min 0.49 sec)
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.11% of total time (compiled  125 times, average 1.02 sec, max 5.23 sec, min 0.51 sec)
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.45% of total time (compiled  125 times, average 0.81 sec, max 1.04 sec, min 0.67 sec)
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.40% of total time (compiled  125 times, average 0.81 sec, max 1.02 sec, min 0.67 sec)
+[2023.03.16-02.38.18:472][210]LogShaderCompilers: Display: ================================================
+[2023.03.16-02.38.18:862][215]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.58s
+[2023.03.16-02.38.18:862][215]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_309C234598BF655D01-Default).
+[2023.03.16-02.38.31:762][674]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer
+[2023.03.16-02.38.31:762][674]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-02.38.54:195][733]BlueprintLog: New page: Compile MusicAnalyzer
+[2023.03.16-02.38.54:432][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.03.16-02.38.54:884][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.16-02.38.54:937][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MusicAI_GameMode/MusicAnalyzer" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/MusicAI_GameMode/MusicAnalyzer.uasset" SILENT=true
+[2023.03.16-02.38.55:026][766]LogSavePackage: Moving output files for package: /Game/MusicAI_GameMode/MusicAnalyzer
+[2023.03.16-02.38.55:026][766]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MusicAnalyzer0A90BCC746E3DDE28DCDE7BF594156C3.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/MusicAI_GameMode/MusicAnalyzer.uasset'
+[2023.03.16-02.38.55:035][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 13.0 sec)
+[2023.03.16-02.38.55:047][766]AssetCheck: New page: Asset Save: MusicAnalyzer
+[2023.03.16-02.38.55:047][766]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer
+[2023.03.16-02.39.20:706][563]BlueprintLog: New page: Compile MusicAnalyzer
+[2023.03.16-02.39.20:905][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.03.16-02.39.21:344][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.16-02.39.21:402][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MusicAI_GameMode/MusicAnalyzer" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/MusicAI_GameMode/MusicAnalyzer.uasset" SILENT=true
+[2023.03.16-02.39.21:487][598]LogSavePackage: Moving output files for package: /Game/MusicAI_GameMode/MusicAnalyzer
+[2023.03.16-02.39.21:488][598]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/MusicAnalyzer925891C449E1ED93C77DE1984C2E0D25.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/MusicAI_GameMode/MusicAnalyzer.uasset'
+[2023.03.16-02.39.21:497][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 13.2 sec)
+[2023.03.16-02.39.21:506][598]AssetCheck: New page: Asset Save: MusicAnalyzer
+[2023.03.16-02.39.21:506][598]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MusicAI_GameMode/MusicAnalyzer.MusicAnalyzer
+[2023.03.16-02.39.43:909][152]LogViewport: Scene viewport resized to 1123x544, mode Windowed.
+[2023.03.16-02.39.54:629][972]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MusicAI_GameMode/MainMenu.MainMenu
+[2023.03.16-02.39.54:630][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-02.40.01:298][654]LogViewport: Scene viewport resized to 1123x544, mode Windowed.
+[2023.03.16-02.40.03:455][881]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.40.03:455][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.40.05:686][996]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.16-02.40.05:686][996]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.40.05:686][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.40.11:676][578]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.40.11:677][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.40.25:406][825]BlueprintLog: New page: Compile BP_NPC
+[2023.03.16-02.40.25:583][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.03.16-02.40.25:996][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.16-02.40.26:120][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/BP_NPC" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/Characters/AI/BP_NPC.uasset" SILENT=true
+[2023.03.16-02.40.26:143][861]LogSavePackage: Moving output files for package: /Game/Characters/AI/BP_NPC
+[2023.03.16-02.40.26:143][861]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/BP_NPCB41F6C3749185615592511BBF30DAF4B.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/Characters/AI/BP_NPC.uasset'
+[2023.03.16-02.40.26:152][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 13.3 sec)
+[2023.03.16-02.40.26:163][861]AssetCheck: New page: Asset Save: BP_NPC
+[2023.03.16-02.40.26:163][861]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/AI/BP_NPC.BP_NPC
+[2023.03.16-02.40.33:928][635]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.16-02.40.33:936][635]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.03.16-02.40.33:944][635]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.16-02.40.33:944][635]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.16-02.40.33:944][635]LogWorldPartition: Display: GetPartitionedActors took 17 us (total: 549 us)
+[2023.03.16-02.40.33:946][635]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 5.78 sec)
+[2023.03.16-02.40.33:946][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.16-02.40.33:946][635]PIE: New page: PIE session: ThirdPersonMap (Mar. 15, 2023, 12:40:33 p.m.)
+[2023.03.16-02.40.33:946][635]LogPlayLevel: Creating play world package: /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.16-02.40.33:987][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040856s)
+[2023.03.16-02.40.33:987][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap to /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.040886s)
+[2023.03.16-02.40.33:987][635]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-02.40.33:988][635]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.03.16-02.40.33:989][635]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.16-02.40.33:989][635]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.16-02.40.33:989][635]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.16-02.40.34:019][635]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.03.16-02.40.34:019][635]LogWorldPartition: Display: WorldPartition initialize took 30 ms (total: 14.2 sec)
+[2023.03.16-02.40.34:019][635]LogPlayLevel: PIE: World Init took: (0.031933s)
+[2023.03.16-02.40.34:082][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.03.16-02.40.34:096][635]LogBlueprintUserMessages: [MusicAI_GameInstance_C_13] Length of returned assets:39 | 39
+[2023.03.16-02.40.34:106][635]LogBlueprintUserMessages: [MusicAI_GameInstance_C_13] Sexualizer
+[2023.03.16-02.40.34:106][635]LogBlueprintUserMessages: [MusicAI_GameInstance_C_13] The_Hunting
+[2023.03.16-02.40.34:106][635]LogBlueprintUserMessages: [MusicAI_GameInstance_C_13] Ketchup___Mustard_Color_Scheme
+[2023.03.16-02.40.34:106][635]LogBlueprintUserMessages: [MusicAI_GameInstance_C_13] Acolytes_of_the_New_God
+[2023.03.16-02.40.34:106][635]LogBlueprintUserMessages: [MusicAI_GameInstance_C_13] UNTITLED_INSTRUMENTAL_NO__4
+[2023.03.16-02.40.34:106][635]LogBlueprintUserMessages: [MusicAI_GameInstance_C_13] Unforeseen_Consequences
+[2023.03.16-02.40.34:106][635]LogBlueprintUserMessages: [MusicAI_GameInstance_C_13] The_Death_That_I_Deservioli
+[2023.03.16-02.40.34:106][635]LogBlueprintUserMessages: [MusicAI_GameInstance_C_13] Starter_Music01
+[2023.03.16-02.40.34:107][635]LogBlueprintUserMessages: [MusicAI_GameInstance_C_13] Secunda__Skyrim_
+[2023.03.16-02.40.34:107][635]LogBlueprintUserMessages: [MusicAI_GameInstance_C_13] Radiation_Storm
+[2023.03.16-02.40.34:107][635]LogBlueprintUserMessages: [MusicAI_GameInstance_C_13] Murder_-_Psycho__Bernard_Herrmann_
+[2023.03.16-02.40.34:107][635]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.03.16-02.40.34:107][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-02.40.34:107][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-02.40.34:107][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-02.40.34:107][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-02.40.34:107][635]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.16-02.40.34:107][635]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.16-02.40.34:107][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.16-02.40.34:107][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-02.40.34:107][635]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-02.40.34:107][635]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-02.40.34:107][635]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-02.40.34:110][635]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.16-02.40.34:152][635]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Kitty Edition)
+[2023.03.16-02.40.34:153][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-02.40.34:153][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-02.40.34:153][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-02.40.34:154][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.03.16-02.40.34:154][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.03.16-02.40.34:155][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.03.16-02.40.34:155][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.03.16-02.40.34:155][635]LogInit: FAudioDevice initialized.
+[2023.03.16-02.40.34:155][635]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonMap'.
+[2023.03.16-02.40.34:219][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-02.40.34:219][635]LogLoad: Game class is 'MusicAnalyzer_C'
+[2023.03.16-02.40.34:250][635]LogWorld: Bringing World /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.03.15-19.40.34
+[2023.03.16-02.40.34:251][635]LogWorld: Bringing up level for play took: 0.030771
+[2023.03.16-02.40.34:260][635]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.40.34:260][635]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.40.34:271][635]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.03.16-02.40.34:272][635]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=460.000 Y=1344.000 Z=1256.013
+[2023.03.16-02.40.34:272][635]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.16-02.40.34:301][635]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Avg Loudness: 0.758817 | Avg High: -35.651368 | Avg Mid: -22.537851 | Avg Low: -21.66379
+[2023.03.16-02.40.34:301][635]LogBlueprintUserMessages: [MusicAnalyzer_C_0] IsAggressive: false | Amp Peak: 52 | Amp Silence: 0 | Beats: 1
+[2023.03.16-02.40.34:319][635]PIE: Server logged in
+[2023.03.16-02.40.34:323][635]PIE: Play in editor total start time 0.387 seconds.
+[2023.03.16-02.40.34:360][635]LogViewport: Scene viewport resized to 1127x770, mode Windowed.
+[2023.03.16-02.40.34:430][636]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062126 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2023.03.16-02.40.34:964][638]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:1
+[2023.03.16-02.40.35:034][640]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.77s
+[2023.03.16-02.40.35:608][657]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:2
+[2023.03.16-02.40.36:627][691]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:3
+[2023.03.16-02.40.37:633][726]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:4
+[2023.03.16-02.40.38:612][761]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:1
+[2023.03.16-02.40.39:629][794]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:2
+[2023.03.16-02.40.40:628][823]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:3
+[2023.03.16-02.40.41:627][854]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:4
+[2023.03.16-02.40.42:596][883]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.40.42:628][884]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:1
+[2023.03.16-02.40.43:229][902]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.40.43:429][908]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.40.43:563][912]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.40.43:636][914]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:2
+[2023.03.16-02.40.43:747][917]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.40.43:859][920]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.40.44:147][928]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.40.44:351][934]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.40.44:517][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-02.40.44:517][938]LogWorld: BeginTearingDown for /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.16-02.40.44:518][938]LogSlate: Window 'MusicalAI Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.16-02.40.44:548][938]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.40.44:553][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.40.44:553][938]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.03.16-02.40.44:556][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.16-02.40.44:566][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.40.44:625][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-02.40.44:626][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.03.16-02.40.44:628][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.03.16-02.40.44:645][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.03.16-02.40.44:669][939]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.03.16-02.41.17:180][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.16-02.41.17:285][513]LogSavePackage: Moving output files for package: /Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter
+[2023.03.16-02.41.17:285][513]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/BP_ThirdPersonCharacter657F80A84DBB0FA6EF188C90F868D940.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.03.16-02.41.17:293][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 13.4 sec)
+[2023.03.16-02.41.17:303][513]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.03.16-02.41.17:303][513]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.03.16-02.41.19:269][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.16-02.41.19:367][733]LogSavePackage: Moving output files for package: /Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter
+[2023.03.16-02.41.19:367][733]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/BP_ThirdPersonCharacterC5E38FE6446D0524178EA59B0E6BFEBB.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.03.16-02.41.19:378][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 13.5 sec)
+[2023.03.16-02.41.19:387][733]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.03.16-02.41.19:387][733]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.03.16-02.41.20:010][803]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.03.16-02.41.20:187][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.03.16-02.41.21:509][929]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.16-02.41.21:517][929]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.03.16-02.41.21:525][929]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.16-02.41.21:525][929]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.16-02.41.21:525][929]LogWorldPartition: Display: GetPartitionedActors took 14 us (total: 564 us)
+[2023.03.16-02.41.21:527][929]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 5.78 sec)
+[2023.03.16-02.41.21:527][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.16-02.41.21:527][929]PIE: New page: PIE session: ThirdPersonMap (Mar. 15, 2023, 12:41:21 p.m.)
+[2023.03.16-02.41.21:527][929]LogPlayLevel: Creating play world package: /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.16-02.41.21:566][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038874s)
+[2023.03.16-02.41.21:566][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap to /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.038905s)
+[2023.03.16-02.41.21:566][929]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-02.41.21:567][929]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.03.16-02.41.21:568][929]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.16-02.41.21:568][929]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.16-02.41.21:568][929]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.16-02.41.21:578][929]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.03.16-02.41.21:578][929]LogWorldPartition: Display: WorldPartition initialize took 10 ms (total: 14.2 sec)
+[2023.03.16-02.41.21:578][929]LogPlayLevel: PIE: World Init took: (0.011976s)
+[2023.03.16-02.41.21:631][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.03.16-02.41.21:643][929]LogBlueprintUserMessages: [MusicAI_GameInstance_C_14] Length of returned assets:39 | 39
+[2023.03.16-02.41.21:654][929]LogBlueprintUserMessages: [MusicAI_GameInstance_C_14] Sexualizer
+[2023.03.16-02.41.21:654][929]LogBlueprintUserMessages: [MusicAI_GameInstance_C_14] The_Hunting
+[2023.03.16-02.41.21:654][929]LogBlueprintUserMessages: [MusicAI_GameInstance_C_14] Ketchup___Mustard_Color_Scheme
+[2023.03.16-02.41.21:654][929]LogBlueprintUserMessages: [MusicAI_GameInstance_C_14] Acolytes_of_the_New_God
+[2023.03.16-02.41.21:654][929]LogBlueprintUserMessages: [MusicAI_GameInstance_C_14] UNTITLED_INSTRUMENTAL_NO__4
+[2023.03.16-02.41.21:654][929]LogBlueprintUserMessages: [MusicAI_GameInstance_C_14] Unforeseen_Consequences
+[2023.03.16-02.41.21:654][929]LogBlueprintUserMessages: [MusicAI_GameInstance_C_14] The_Death_That_I_Deservioli
+[2023.03.16-02.41.21:654][929]LogBlueprintUserMessages: [MusicAI_GameInstance_C_14] Starter_Music01
+[2023.03.16-02.41.21:654][929]LogBlueprintUserMessages: [MusicAI_GameInstance_C_14] Secunda__Skyrim_
+[2023.03.16-02.41.21:654][929]LogBlueprintUserMessages: [MusicAI_GameInstance_C_14] Radiation_Storm
+[2023.03.16-02.41.21:654][929]LogBlueprintUserMessages: [MusicAI_GameInstance_C_14] Murder_-_Psycho__Bernard_Herrmann_
+[2023.03.16-02.41.21:654][929]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.03.16-02.41.21:654][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-02.41.21:654][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-02.41.21:654][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-02.41.21:654][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-02.41.21:654][929]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.16-02.41.21:654][929]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.16-02.41.21:654][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.16-02.41.21:654][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-02.41.21:655][929]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-02.41.21:655][929]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-02.41.21:655][929]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-02.41.21:656][929]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.16-02.41.21:697][929]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Kitty Edition)
+[2023.03.16-02.41.21:697][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-02.41.21:697][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-02.41.21:698][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-02.41.21:698][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.03.16-02.41.21:698][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.03.16-02.41.21:700][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.03.16-02.41.21:700][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.03.16-02.41.21:700][929]LogInit: FAudioDevice initialized.
+[2023.03.16-02.41.21:700][929]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonMap'.
+[2023.03.16-02.41.21:754][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-02.41.21:754][929]LogLoad: Game class is 'MusicAnalyzer_C'
+[2023.03.16-02.41.21:792][929]LogWorld: Bringing World /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.03.15-19.41.21
+[2023.03.16-02.41.21:793][929]LogWorld: Bringing up level for play took: 0.039269
+[2023.03.16-02.41.21:802][929]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.41.21:802][929]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.41.21:815][929]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.03.16-02.41.21:816][929]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=460.000 Y=1344.000 Z=1256.013
+[2023.03.16-02.41.21:817][929]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.16-02.41.21:846][929]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Avg Loudness: 0.758817 | Avg High: -35.651368 | Avg Mid: -22.537851 | Avg Low: -21.66379
+[2023.03.16-02.41.21:846][929]LogBlueprintUserMessages: [MusicAnalyzer_C_0] IsAggressive: false | Amp Peak: 52 | Amp Silence: 0 | Beats: 1
+[2023.03.16-02.41.21:853][929]PIE: Server logged in
+[2023.03.16-02.41.21:858][929]PIE: Play in editor total start time 0.34 seconds.
+[2023.03.16-02.41.21:886][929]LogViewport: Scene viewport resized to 1127x770, mode Windowed.
+[2023.03.16-02.41.21:948][930]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062326 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2023.03.16-02.41.22:363][932]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:1
+[2023.03.16-02.41.22:426][934]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.62s
+[2023.03.16-02.41.22:810][946]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.23:171][958]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:2
+[2023.03.16-02.41.23:289][962]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.23:436][967]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.23:630][974]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.23:768][979]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.23:943][985]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.24:088][990]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.24:187][993]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:3
+[2023.03.16-02.41.24:252][995]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.24:464][  2]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.24:639][  8]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.24:815][ 14]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.24:983][ 20]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.25:159][ 26]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.25:161][ 26]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:4
+[2023.03.16-02.41.25:344][ 32]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.25:628][ 42]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.25:628][ 42]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=-0.791 Y=-0.577 Z=0.000
+[2023.03.16-02.41.25:872][ 51]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.25:872][ 51]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=-0.847 Y=-0.492 Z=0.000
+[2023.03.16-02.41.26:187][ 62]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:1
+[2023.03.16-02.41.26:216][ 63]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.26:216][ 63]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=-0.968 Y=0.127 Z=0.000
+[2023.03.16-02.41.26:419][ 70]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.26:419][ 70]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=-0.766 Y=0.592 Z=0.000
+[2023.03.16-02.41.26:595][ 76]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.26:595][ 76]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=-0.471 Y=0.843 Z=0.000
+[2023.03.16-02.41.26:794][ 83]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.26:794][ 83]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=-0.032 Y=0.970 Z=0.000
+[2023.03.16-02.41.26:967][ 89]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.26:967][ 89]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=0.273 Y=0.932 Z=0.000
+[2023.03.16-02.41.27:165][ 96]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.27:165][ 96]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=0.661 Y=0.698 Z=0.000
+[2023.03.16-02.41.27:167][ 96]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:2
+[2023.03.16-02.41.27:369][102]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.27:369][102]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=0.935 Y=0.162 Z=0.000
+[2023.03.16-02.41.27:567][108]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.27:567][108]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=0.898 Y=-0.265 Z=0.000
+[2023.03.16-02.41.27:735][113]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.27:735][113]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=0.815 Y=-0.486 Z=0.000
+[2023.03.16-02.41.28:190][127]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:3
+[2023.03.16-02.41.28:246][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-02.41.28:246][128]LogWorld: BeginTearingDown for /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.16-02.41.28:247][128]LogSlate: Window 'MusicalAI Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.16-02.41.28:291][128]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.41.28:297][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.41.28:298][128]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.03.16-02.41.28:303][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.16-02.41.28:314][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.41.28:379][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-02.41.28:380][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.03.16-02.41.28:381][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.03.16-02.41.28:394][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.03.16-02.41.28:417][129]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.03.16-02.41.36:172][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.16-02.41.36:277][972]LogSavePackage: Moving output files for package: /Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter
+[2023.03.16-02.41.36:277][972]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/BP_ThirdPersonCharacter0F4166234F45D293489160A92BE846B4.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.03.16-02.41.36:286][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 13.7 sec)
+[2023.03.16-02.41.36:297][972]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.03.16-02.41.36:298][972]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.03.16-02.41.36:868][ 35]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.03.16-02.41.36:997][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.03.16-02.41.37:315][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.16-02.41.37:416][ 58]LogSavePackage: Moving output files for package: /Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter
+[2023.03.16-02.41.37:416][ 58]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/BP_ThirdPersonCharacter82E75E5F42891C8B92527B91E03B87E2.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.03.16-02.41.37:423][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 13.8 sec)
+[2023.03.16-02.41.37:433][ 58]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.03.16-02.41.37:433][ 58]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.03.16-02.41.42:814][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.16-02.41.42:917][667]LogSavePackage: Moving output files for package: /Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter
+[2023.03.16-02.41.42:917][667]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/BP_ThirdPersonCharacterC4B78AB445EB197A02059EB691A684EC.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.03.16-02.41.42:926][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 13.9 sec)
+[2023.03.16-02.41.42:936][667]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.03.16-02.41.42:936][667]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.03.16-02.41.47:084][ 60]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.16-02.41.47:093][ 60]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.03.16-02.41.47:103][ 60]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.16-02.41.47:103][ 60]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.16-02.41.47:103][ 60]LogWorldPartition: Display: GetPartitionedActors took 16 us (total: 580 us)
+[2023.03.16-02.41.47:105][ 60]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 5.78 sec)
+[2023.03.16-02.41.47:105][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.16-02.41.47:105][ 60]PIE: New page: PIE session: ThirdPersonMap (Mar. 15, 2023, 12:41:47 p.m.)
+[2023.03.16-02.41.47:105][ 60]LogPlayLevel: Creating play world package: /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.16-02.41.47:146][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040393s)
+[2023.03.16-02.41.47:146][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MusicAI_GameMode/Maps/ThirdPersonMap.ThirdPersonMap to /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.040422s)
+[2023.03.16-02.41.47:146][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-02.41.47:146][ 60]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.03.16-02.41.47:148][ 60]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.16-02.41.47:148][ 60]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.16-02.41.47:148][ 60]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.16-02.41.47:159][ 60]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.03.16-02.41.47:159][ 60]LogWorldPartition: Display: WorldPartition initialize took 10 ms (total: 14.2 sec)
+[2023.03.16-02.41.47:159][ 60]LogPlayLevel: PIE: World Init took: (0.012841s)
+[2023.03.16-02.41.47:211][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.03.16-02.41.47:224][ 60]LogBlueprintUserMessages: [MusicAI_GameInstance_C_15] Length of returned assets:39 | 39
+[2023.03.16-02.41.47:235][ 60]LogBlueprintUserMessages: [MusicAI_GameInstance_C_15] Sexualizer
+[2023.03.16-02.41.47:235][ 60]LogBlueprintUserMessages: [MusicAI_GameInstance_C_15] The_Hunting
+[2023.03.16-02.41.47:235][ 60]LogBlueprintUserMessages: [MusicAI_GameInstance_C_15] Ketchup___Mustard_Color_Scheme
+[2023.03.16-02.41.47:235][ 60]LogBlueprintUserMessages: [MusicAI_GameInstance_C_15] Acolytes_of_the_New_God
+[2023.03.16-02.41.47:235][ 60]LogBlueprintUserMessages: [MusicAI_GameInstance_C_15] UNTITLED_INSTRUMENTAL_NO__4
+[2023.03.16-02.41.47:235][ 60]LogBlueprintUserMessages: [MusicAI_GameInstance_C_15] Unforeseen_Consequences
+[2023.03.16-02.41.47:235][ 60]LogBlueprintUserMessages: [MusicAI_GameInstance_C_15] The_Death_That_I_Deservioli
+[2023.03.16-02.41.47:235][ 60]LogBlueprintUserMessages: [MusicAI_GameInstance_C_15] Starter_Music01
+[2023.03.16-02.41.47:235][ 60]LogBlueprintUserMessages: [MusicAI_GameInstance_C_15] Secunda__Skyrim_
+[2023.03.16-02.41.47:235][ 60]LogBlueprintUserMessages: [MusicAI_GameInstance_C_15] Radiation_Storm
+[2023.03.16-02.41.47:235][ 60]LogBlueprintUserMessages: [MusicAI_GameInstance_C_15] Murder_-_Psycho__Bernard_Herrmann_
+[2023.03.16-02.41.47:235][ 60]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.03.16-02.41.47:235][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-02.41.47:235][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-02.41.47:235][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-02.41.47:235][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-02.41.47:235][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.16-02.41.47:235][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.16-02.41.47:235][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.16-02.41.47:235][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-02.41.47:236][ 60]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-02.41.47:236][ 60]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-02.41.47:236][ 60]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-02.41.47:237][ 60]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.16-02.41.47:277][ 60]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Kitty Edition)
+[2023.03.16-02.41.47:278][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-02.41.47:278][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-02.41.47:278][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-02.41.47:278][ 60]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.03.16-02.41.47:278][ 60]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.03.16-02.41.47:280][ 60]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.03.16-02.41.47:280][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.03.16-02.41.47:280][ 60]LogInit: FAudioDevice initialized.
+[2023.03.16-02.41.47:280][ 60]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonMap'.
+[2023.03.16-02.41.47:283][ 60]LogLoad: Game class is 'MusicAnalyzer_C'
+[2023.03.16-02.41.47:312][ 60]LogWorld: Bringing World /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.03.15-19.41.47
+[2023.03.16-02.41.47:313][ 60]LogWorld: Bringing up level for play took: 0.029865
+[2023.03.16-02.41.47:322][ 60]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.41.47:322][ 60]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.03.16-02.41.47:334][ 60]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.03.16-02.41.47:335][ 60]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=460.000 Y=1344.000 Z=1256.013
+[2023.03.16-02.41.47:336][ 60]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.16-02.41.47:364][ 60]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Avg Loudness: 0.758817 | Avg High: -35.651368 | Avg Mid: -22.537851 | Avg Low: -21.66379
+[2023.03.16-02.41.47:364][ 60]LogBlueprintUserMessages: [MusicAnalyzer_C_0] IsAggressive: false | Amp Peak: 52 | Amp Silence: 0 | Beats: 1
+[2023.03.16-02.41.47:365][ 60]PIE: Server logged in
+[2023.03.16-02.41.47:366][ 60]PIE: Play in editor total start time 0.273 seconds.
+[2023.03.16-02.41.47:803][ 63]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:1
+[2023.03.16-02.41.47:864][ 65]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.54s
+[2023.03.16-02.41.48:540][ 93]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:2
+[2023.03.16-02.41.48:738][101]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.48:939][109]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.49:204][120]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.49:566][136]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:3
+[2023.03.16-02.41.50:559][179]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 1 Beat:4
+[2023.03.16-02.41.50:900][196]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.51:095][205]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.51:558][227]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:1
+[2023.03.16-02.41.52:563][272]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:2
+[2023.03.16-02.41.53:579][315]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:3
+[2023.03.16-02.41.53:688][320]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.53:924][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.54:140][341]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.54:338][350]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.54:577][361]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 2 Beat:4
+[2023.03.16-02.41.54:684][366]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.54:684][366]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=0.126 Y=0.946 Z=0.000
+[2023.03.16-02.41.55:242][390]LogBlueprintUserMessages: [BP_NPC_C_UAID_309C234598BF796D01_1918749672] [BP_NPC] Hurt!
+[2023.03.16-02.41.55:561][404]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:1
+[2023.03.16-02.41.55:759][413]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.55:759][413]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=0.259 Y=0.939 Z=0.000
+[2023.03.16-02.41.56:556][448]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:2
+[2023.03.16-02.41.56:576][449]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.56:576][449]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=0.584 Y=0.785 Z=0.000
+[2023.03.16-02.41.56:765][457]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.03.16-02.41.56:765][457]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=0.584 Y=0.785 Z=0.000
+[2023.03.16-02.41.56:835][460]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.57:062][470]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.57:111][472]LogBlueprintUserMessages: [BP_NPC_C_UAID_309C234598BF396201_1408002679] [BP_NPC] Hurt!
+[2023.03.16-02.41.57:276][479]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.57:433][486]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.57:568][492]LogBlueprintUserMessages: [MusicAnalyzer_C_0] Bar: 3 Beat:3
+[2023.03.16-02.41.57:588][493]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [BP_TPC] AttackA
+[2023.03.16-02.41.58:417][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-02.41.58:417][525]LogWorld: BeginTearingDown for /Game/MusicAI_GameMode/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.16-02.41.58:418][525]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-02.41.58:422][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.41.58:422][525]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.03.16-02.41.58:435][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.16-02.41.58:443][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-02.41.58:504][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-02.41.58:505][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.03.16-02.41.58:508][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.03.16-02.41.58:513][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-02.41.58:524][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.03.16-02.41.58:546][526]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.03.16-02.42.07:454][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.16-02.42.07:598][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/BP_NPC" FILE="F:/Workspace/Github/MusicalAI/MusicalAI/Content/Characters/AI/BP_NPC.uasset" SILENT=true
+[2023.03.16-02.42.07:615][438]LogSavePackage: Moving output files for package: /Game/Characters/AI/BP_NPC
+[2023.03.16-02.42.07:615][438]LogSavePackage: Moving 'F:/Workspace/Github/MusicalAI/MusicalAI/Saved/BP_NPC4AF08DC94313F236546C1794A064C0BC.tmp' to 'F:/Workspace/Github/MusicalAI/MusicalAI/Content/Characters/AI/BP_NPC.uasset'
+[2023.03.16-02.42.07:625][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 14.0 sec)
+[2023.03.16-02.42.07:635][438]AssetCheck: New page: Asset Save: BP_NPC
+[2023.03.16-02.42.07:635][438]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/AI/BP_NPC.BP_NPC
+[2023.03.16-02.42.08:015][477]BlueprintLog: New page: Compile BP_NPC
+[2023.03.16-02.42.08:174][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
