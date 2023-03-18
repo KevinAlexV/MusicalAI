@@ -9,6 +9,32 @@
 #include "GameFramework/SpringArmComponent.h"
 #include "EnhancedInputComponent.h"
 #include "EnhancedInputSubsystems.h"
+#include "Camera/PlayerCameraManager.h"
+#include "MusicalAIGameMode.h"
+#include "Kismet/KismetMathLibrary.h"
+
+//////////////////////////////////////////////////////////////////////////
+// Misc Functions
+
+void AMusicalAICharacter::rotateToCamera(UPaperFlipbookComponent* PaperFlipbook) 
+{
+
+	// Get the camera location
+	FVector cameraLocation = GetWorld()->GetFirstPlayerController()->PlayerCameraManager->GetCameraLocation();//FollowCamera->GetComponentTransform().GetLocation();//
+	
+	// Get the character location
+	FVector characterLocation = PaperFlipbook->GetComponentLocation();
+
+	// Get the direction from the character to the camera
+	//FVector direction = cameraLocation - characterLocation;
+
+	FRotator PlayerRot = UKismetMathLibrary::FindLookAtRotation(cameraLocation, characterLocation);
+
+	PlayerRot = FRotator(0.0, PlayerRot.Yaw + 90.0, PlayerRot.Roll);
+
+	// Rotate the character to face the camera
+	PaperFlipbook->SetWorldRotation(PlayerRot);
+}
 
 
 //////////////////////////////////////////////////////////////////////////
@@ -47,6 +73,10 @@ AMusicalAICharacter::AMusicalAICharacter()
 	FollowCamera->SetupAttachment(CameraBoom, USpringArmComponent::SocketName); // Attach the camera to the end of the boom and let the boom adjust to match the controller orientation
 	FollowCamera->bUsePawnControlRotation = false; // Camera does not rotate relative to arm
 
+	// Create a paper flipbook component
+	PlayerCharacter = CreateDefaultSubobject<UPaperFlipbookComponent>(TEXT("PaperFlipbook"));
+	PlayerCharacter->SetupAttachment(RootComponent);
+
 	// Note: The skeletal mesh and anim blueprint references on the Mesh component (inherited from Character) 
 	// are set in the derived blueprint asset named ThirdPersonCharacter (to avoid direct content references in C++)
 }
@@ -64,6 +94,14 @@ void AMusicalAICharacter::BeginPlay()
 			Subsystem->AddMappingContext(DefaultMappingContext, 0);
 		}
 	}
+}
+
+void AMusicalAICharacter::Tick(float DeltaTime)
+{
+	Super::Tick(DeltaTime);
+	
+	if(PlayerCharacter)
+		rotateToCamera(PlayerCharacter);
 }
 
 //////////////////////////////////////////////////////////////////////////
@@ -84,8 +122,42 @@ void AMusicalAICharacter::SetupPlayerInputComponent(class UInputComponent* Playe
 		//Looking
 		EnhancedInputComponent->BindAction(LookAction, ETriggerEvent::Triggered, this, &AMusicalAICharacter::Look);
 
+		//Attack B
+		EnhancedInputComponent->BindAction(AttackBAction, ETriggerEvent::Triggered, this, &AMusicalAICharacter::TriggerAttackB);
+		EnhancedInputComponent->BindAction(AttackBAction, ETriggerEvent::Started, this, &AMusicalAICharacter::StartAttackB);
+		EnhancedInputComponent->BindAction(AttackBAction, ETriggerEvent::Canceled, this, &AMusicalAICharacter::CancelAttackB);
+		EnhancedInputComponent->BindAction(AttackBAction, ETriggerEvent::Completed, this, &AMusicalAICharacter::CompletedAttackB);
 	}
 
+}
+
+void AMusicalAICharacter::TriggerAttackB(const FInputActionValue& Value)
+{
+	FTransform ProjectileTransform = FTransform(FRotator(0.0, 0.0, 0.0), PlayerCharacter->GetComponentTransform().GetLocation(), FVector(0.25, 0.25, 0.25));
+
+	
+	AActor* Projectile = GetWorld()->SpawnActorDeferred<AActor>(ProjectileClass, ProjectileTransform, this, this, ESpawnActorCollisionHandlingMethod::DontSpawnIfColliding);
+
+	Projectile->FinishSpawning(ProjectileTransform);
+
+	UE_LOG(LogTemp, Warning, TEXT("AttackB"));
+	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "AttackB");
+}
+
+void AMusicalAICharacter::StartAttackB(const FInputActionValue& Value)
+{
+	UE_LOG(LogTemp, Warning, TEXT("AttackB"));
+	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "AttackB");
+}
+void AMusicalAICharacter::CancelAttackB(const FInputActionValue& Value)
+{
+	UE_LOG(LogTemp, Warning, TEXT("AttackB"));
+	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "AttackB");
+}
+void AMusicalAICharacter::CompletedAttackB(const FInputActionValue& Value)
+{
+	UE_LOG(LogTemp, Warning, TEXT("AttackB"));
+	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "AttackB");
 }
 
 void AMusicalAICharacter::Move(const FInputActionValue& Value)

@@ -68,7 +68,7 @@
 /DBUILD_VERSION=++UE5+Release-5.1-CL-23058290
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COMPANY_NAME=KevinAlexV
-/DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
+/DPROJECT_COPYRIGHT_STRING="All rights reserved KevinAlexV. Music used belongs to respective author, and is not in any way claimed to be owned by the developers of this application."
 /DPROJECT_PRODUCT_NAME=MusicalAI
 /DPROJECT_PRODUCT_IDENTIFIER=MusicalAI
 /fo "F:\Workspace\Github\MusicalAI\MusicalAI\Intermediate\Build\Win64\UnrealEditor\Development\MusicalAI\Default.rc2.res"

@@ -1,18 +1,17 @@
 ﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" MusicalAIEditor Win64 Development -Project="F:\Workspace\Github\MusicalAI\MusicalAI\MusicalAI.uproject" -WaitMutex -FromMsBuild
   Log file: C:\Users\Kevin\AppData\Local\UnrealBuildTool\Log.txt
   Using 'git status' to determine working set for adaptive non-unity build (F:\Workspace\Github\MusicalAI).
-  Creating makefile for MusicalAIEditor (config setting changed)
   Waiting for 'git status' command to complete
   Building MusicalAIEditor...
   Using Visual Studio 2022 14.29.30148 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Determining max actions to execute in parallel (4 physical cores, 8 logical cores)
     Executing up to 4 processes, one per physical core
   Building 4 actions with 4 processes...
-  [1/4] Resource Default.rc2
+  [1/4] Compile MusicalAIGameMode.cpp
   [2/4] Link UnrealEditor-MusicalAI.lib
      Creating library F:\Workspace\Github\MusicalAI\MusicalAI\Intermediate\Build\Win64\UnrealEditor\Development\MusicalAI\UnrealEditor-MusicalAI.lib and object F:\Workspace\Github\MusicalAI\MusicalAI\Intermediate\Build\Win64\UnrealEditor\Development\MusicalAI\UnrealEditor-MusicalAI.exp
   [3/4] Link UnrealEditor-MusicalAI.dll
      Creating library F:\Workspace\Github\MusicalAI\MusicalAI\Intermediate\Build\Win64\UnrealEditor\Development\MusicalAI\UnrealEditor-MusicalAI.suppressed.lib and object F:\Workspace\Github\MusicalAI\MusicalAI\Intermediate\Build\Win64\UnrealEditor\Development\MusicalAI\UnrealEditor-MusicalAI.suppressed.exp
   [4/4] WriteMetadata MusicalAIEditor.target
-  Total time in Parallel executor: 1.89 seconds
-  Total execution time: 19.95 seconds
+  Total time in Parallel executor: 2.00 seconds
+  Total execution time: 9.37 seconds
