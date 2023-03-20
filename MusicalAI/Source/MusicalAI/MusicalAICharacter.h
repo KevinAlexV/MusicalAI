@@ -47,6 +47,7 @@ class AMusicalAICharacter : public ACharacter
 	class UPaperFlipbookComponent* PlayerCharacter;
 
 
+	FVector GetProjectileDirection();
 	void rotateToCamera(UPaperFlipbookComponent* PaperFlipbook);
 
 	FVector ProjectileSpawn = FVector(-15.0, 21.0, 26.0);

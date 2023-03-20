@@ -72,10 +72,16 @@
     <ClCompile Include="..\..\Source\MusicalAI\Private\MainMenu.cpp">
       <Filter>Source\MusicalAI\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\MusicalAI\Private\Projectile.cpp">
+      <Filter>Source\MusicalAI\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\MusicalAI\Public">
       <UniqueIdentifier>{F5DA97FF-8829-3D12-8733-BBA75620BC8A}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\MusicalAI\Public\MainMenu.h">
+      <Filter>Source\MusicalAI\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MusicalAI\Public\Projectile.h">
       <Filter>Source\MusicalAI\Public</Filter>
     </ClInclude>
   </ItemGroup>

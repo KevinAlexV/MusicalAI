@@ -36,6 +36,21 @@ void AMusicalAICharacter::rotateToCamera(UPaperFlipbookComponent* PaperFlipbook)
 	PaperFlipbook->SetWorldRotation(PlayerRot);
 }
 
+FVector AMusicalAICharacter::GetProjectileDirection()
+{
+
+	// Get the camera location
+	FVector cameraLocation = FollowCamera->GetComponentTransform().GetLocation();
+	
+	// Get the character location
+	FVector capsuleLocation = this->GetCapsuleComponent()->GetComponentLocation();
+	
+	// Get the direction from the character to the camera
+	FVector direction = cameraLocation - capsuleLocation;
+	direction = FVector(direction.X, direction.Y, 0.0);
+
+	return direction;
+}
 
 //////////////////////////////////////////////////////////////////////////
 // AMusicalAICharacter
@@ -76,6 +91,7 @@ AMusicalAICharacter::AMusicalAICharacter()
 	// Create a paper flipbook component
 	PlayerCharacter = CreateDefaultSubobject<UPaperFlipbookComponent>(TEXT("PaperFlipbook"));
 	PlayerCharacter->SetupAttachment(RootComponent);
+
 
 	// Note: The skeletal mesh and anim blueprint references on the Mesh component (inherited from Character) 
 	// are set in the derived blueprint asset named ThirdPersonCharacter (to avoid direct content references in C++)
@@ -135,8 +151,14 @@ void AMusicalAICharacter::TriggerAttackB(const FInputActionValue& Value)
 {
 	FTransform ProjectileTransform = FTransform(FRotator(0.0, 0.0, 0.0), PlayerCharacter->GetComponentTransform().GetLocation(), FVector(0.25, 0.25, 0.25));
 
-	
 	AActor* Projectile = GetWorld()->SpawnActorDeferred<AActor>(ProjectileClass, ProjectileTransform, this, this, ESpawnActorCollisionHandlingMethod::DontSpawnIfColliding);
+
+	//Projectile->AddComponentByClass(UProjectileMovementComponent::StaticClass(), false, FTransform(), true);//AddComponent("ProjectileMovementComponent", false, ProjectileMovement);
+	//Projectile->AddInstanceComponent(ProjectileMovement);
+
+	FVector projectileVelo = GetProjectileDirection();
+
+	//ProjectileMovement->SetVelocityInLocalSpace(FVector(projectileVelo.X*500.0, projectileVelo.Y * 500.0, projectileVelo.Z * 500.0));
 
 	Projectile->FinishSpawning(ProjectileTransform);
 

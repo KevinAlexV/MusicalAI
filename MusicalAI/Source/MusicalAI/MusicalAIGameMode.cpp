@@ -50,7 +50,7 @@ AMusicalAIGameMode::AMusicalAIGameMode()
 
 	/JoyFileIO_GetFiles(FileNames, "F:\\Workspace\\Github\\MusicalAI\\MusicalAI\\Content\\ThirdPerson\\Blueprints", "");
 
-	for (FString name : FileNames) 
+	for (FString nadwme : FileNames) 
 	{
 		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, name);
 	

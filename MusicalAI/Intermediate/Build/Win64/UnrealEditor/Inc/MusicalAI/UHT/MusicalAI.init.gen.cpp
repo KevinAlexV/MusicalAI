@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeMusicalAI_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x94F169DA,
-				0xACCDEE3F,
+				0x92FE1E2B,
+				0xDDECFC35,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_MusicalAI.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_MusicalAI.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MusicalAI(Z_Construct_UPackage__Script_MusicalAI, TEXT("/Script/MusicalAI"), Z_Registration_Info_UPackage__Script_MusicalAI, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x94F169DA, 0xACCDEE3F));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MusicalAI(Z_Construct_UPackage__Script_MusicalAI, TEXT("/Script/MusicalAI"), Z_Registration_Info_UPackage__Script_MusicalAI, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x92FE1E2B, 0xDDECFC35));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
