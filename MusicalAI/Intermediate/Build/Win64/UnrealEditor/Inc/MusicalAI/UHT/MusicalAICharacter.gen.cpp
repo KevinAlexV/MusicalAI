@@ -10,7 +10,6 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeMusicalAICharacter() {}
 // Cross Module References
 	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
-	ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USpringArmComponent_NoRegister();
@@ -18,6 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeMusicalAICharacter() {}
 	ENHANCEDINPUT_API UClass* Z_Construct_UClass_UInputMappingContext_NoRegister();
 	MUSICALAI_API UClass* Z_Construct_UClass_AMusicalAICharacter();
 	MUSICALAI_API UClass* Z_Construct_UClass_AMusicalAICharacter_NoRegister();
+	MUSICALAI_API UClass* Z_Construct_UClass_AProjectile_NoRegister();
 	PAPER2D_API UClass* Z_Construct_UClass_UPaperFlipbookComponent_NoRegister();
 	UPackage* Z_Construct_UPackage__Script_MusicalAI();
 // End Cross Module References
@@ -175,7 +175,7 @@ void EmptyLinkFunctionForGeneratedCodeMusicalAICharacter() {}
 		{ "ModuleRelativePath", "MusicalAICharacter.h" },
 	};
 #endif
-	const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_AMusicalAICharacter_Statics::NewProp_ProjectileClass = { "ProjectileClass", nullptr, (EPropertyFlags)0x0014000000000015, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(AMusicalAICharacter, ProjectileClass), Z_Construct_UClass_UClass, Z_Construct_UClass_AActor_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AMusicalAICharacter_Statics::NewProp_ProjectileClass_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMusicalAICharacter_Statics::NewProp_ProjectileClass_MetaData)) };
+	const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_AMusicalAICharacter_Statics::NewProp_ProjectileClass = { "ProjectileClass", nullptr, (EPropertyFlags)0x0014000000000015, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(AMusicalAICharacter, ProjectileClass), Z_Construct_UClass_UClass, Z_Construct_UClass_AProjectile_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AMusicalAICharacter_Statics::NewProp_ProjectileClass_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMusicalAICharacter_Statics::NewProp_ProjectileClass_MetaData)) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AMusicalAICharacter_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMusicalAICharacter_Statics::NewProp_CameraBoom,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMusicalAICharacter_Statics::NewProp_FollowCamera,
@@ -224,9 +224,9 @@ void EmptyLinkFunctionForGeneratedCodeMusicalAICharacter() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_MusicalAI_Source_MusicalAI_MusicalAICharacter_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AMusicalAICharacter, AMusicalAICharacter::StaticClass, TEXT("AMusicalAICharacter"), &Z_Registration_Info_UClass_AMusicalAICharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMusicalAICharacter), 675153613U) },
+		{ Z_Construct_UClass_AMusicalAICharacter, AMusicalAICharacter::StaticClass, TEXT("AMusicalAICharacter"), &Z_Registration_Info_UClass_AMusicalAICharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMusicalAICharacter), 2948305889U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_MusicalAI_Source_MusicalAI_MusicalAICharacter_h_3551323484(TEXT("/Script/MusicalAI"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_MusicalAI_Source_MusicalAI_MusicalAICharacter_h_663493016(TEXT("/Script/MusicalAI"),
 		Z_CompiledInDeferFile_FID_MusicalAI_Source_MusicalAI_MusicalAICharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_MusicalAI_Source_MusicalAI_MusicalAICharacter_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

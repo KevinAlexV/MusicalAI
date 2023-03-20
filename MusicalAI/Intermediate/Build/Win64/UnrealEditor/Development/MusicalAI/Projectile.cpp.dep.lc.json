@@ -15,7 +15,15 @@
             "d:\\[misc]\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
             "d:\\[misc]\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
             "d:\\[misc]\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
-            "d:\\[misc]\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h"
+            "d:\\[misc]\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "f:\\workspace\\github\\musicalai\\musicalai\\source\\musicalai\\public\\npc.h",
+            "d:\\[misc]\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\[misc]\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\[misc]\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\[misc]\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\[misc]\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\[misc]\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "f:\\workspace\\github\\musicalai\\musicalai\\intermediate\\build\\win64\\unrealeditor\\inc\\musicalai\\uht\\npc.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

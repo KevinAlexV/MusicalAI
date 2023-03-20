@@ -23,6 +23,7 @@ public:
 
 	bool isReleased = false;
 
+	void StartMoving(FVector projectileVelo);
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -35,11 +36,6 @@ protected:
 
 	UPROPERTY(EditInstanceOnly)
 	UProjectileMovementComponent* ProjectileMovement;
-
-	/*UPROPERTY(EditInstanceOnly)
-	UBoxComponent* Collider;*/
-
-	void StartMoving(FVector projectileVelo);
 
 	UFUNCTION()
 	void OverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);

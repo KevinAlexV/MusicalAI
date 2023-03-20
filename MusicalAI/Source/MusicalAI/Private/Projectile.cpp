@@ -3,6 +3,7 @@
 
 #include "Projectile.h"
 #include "Components/BoxComponent.h"
+#include "NPC.h"
 
 // Sets default values
 AProjectile::AProjectile()
@@ -19,7 +20,6 @@ AProjectile::AProjectile()
 	//Collider->SetBoxExtent(FVector(35.0f, 40.0f, 35.0f));
 	//Collider->SetupAttachment(StaticMesh);
 	//Collider->SetRelativeLocation(FVector(0.0f, 0.0f, 0.0f));
-
 
 	//Projectile Movement Component Declaration
 	ProjectileMovement = CreateDefaultSubobject<UProjectileMovementComponent>(TEXT("ProjectileMovement"));
@@ -50,6 +50,15 @@ void AProjectile::Tick(float DeltaTime)
 	if (isReleased)
 	{
 		lifespan += DeltaTime;
+
+		float scale = 1.0f - (lifespan / maxLifespan);
+
+		FVector currentScale = StaticMesh->GetRelativeScale3D();
+
+		//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, currentScale.ToString());
+
+		StaticMesh->SetRelativeScale3D(FVector(currentScale * scale));
+
 		if (lifespan >= maxLifespan)
 		{
 			Destroy();
@@ -59,15 +68,20 @@ void AProjectile::Tick(float DeltaTime)
 
 void AProjectile::OverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
+	Super::NotifyActorBeginOverlap(this);
+	
+	if (ANPC* PlayerController = Cast<ANPC>(OtherActor))
+	{
+		UE_LOG(LogTemp, Warning, TEXT("Overlapped NPC"));
+		//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "Overlapped NPC");
+		Destroy();
+	}
 
-	UE_LOG(LogTemp, Warning, TEXT("Overlapped projectile"));
-	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "Overlapped projectile");
-	//Destroy();
+	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "Overlapped");
 }
 
 void AProjectile::StartMoving(FVector projectileVelo) 
 {
-	
-	ProjectileMovement->SetVelocityInLocalSpace(FVector(projectileVelo.X * 500.0, projectileVelo.Y * 500.0, projectileVelo.Z * 500.0));
-
+	//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, projectileVelo.ToString());
+	ProjectileMovement->SetVelocityInLocalSpace(FVector(projectileVelo));
 }

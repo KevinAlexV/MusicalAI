@@ -6,6 +6,7 @@
 #include "GameFramework/Character.h"
 #include "InputActionValue.h"
 #include "PaperFlipbookComponent.h"
+#include "Projectile.h"
 #include "MusicalAICharacter.generated.h"
 
 
@@ -56,7 +57,7 @@ public:
 	AMusicalAICharacter();
 
 	UPROPERTY(BlueprintReadOnly, Category = Projectile, EditAnywhere)
-	TSubclassOf<AActor> ProjectileClass;
+	TSubclassOf<AProjectile> ProjectileClass;
 
 	/** Returns CameraBoom subobject **/
 	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
@@ -74,8 +75,7 @@ protected:
 	/** Called for looking input */
 	void TriggerAttackB(const FInputActionValue& Value);
 	void StartAttackB(const FInputActionValue& Value);
-	void CancelAttackB(const FInputActionValue& Value);
-	void CompletedAttackB(const FInputActionValue& Value);
+	void FinishAttackB(const FInputActionValue& Value);
 
 	// APawn interface
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
@@ -86,5 +86,9 @@ protected:
 	// To add mapping context
 	virtual void Tick(float deltatime);
 
+private:
+	AProjectile* Projectile;
+	FVector ProjectileDirection = FVector(0, 0, 0);
+	bool canMove = true;
 };
 

@@ -46,7 +46,8 @@ FVector AMusicalAICharacter::GetProjectileDirection()
 	FVector capsuleLocation = this->GetCapsuleComponent()->GetComponentLocation();
 	
 	// Get the direction from the character to the camera
-	FVector direction = cameraLocation - capsuleLocation;
+	FVector direction = capsuleLocation - cameraLocation;
+	direction.Normalize(0.1f);
 	direction = FVector(direction.X, direction.Y, 0.0);
 
 	return direction;
@@ -71,7 +72,7 @@ AMusicalAICharacter::AMusicalAICharacter()
 
 	// Note: For faster iteration times these variables, and many more, can be tweaked in the Character Blueprint
 	// instead of recompiling to adjust them
-	GetCharacterMovement()->JumpZVelocity = 700.f;
+	GetCharacterMovement()->JumpZVelocity = 500.f;
 	GetCharacterMovement()->AirControl = 0.35f;
 	GetCharacterMovement()->MaxWalkSpeed = 500.f;
 	GetCharacterMovement()->MinAnalogWalkSpeed = 20.f;
@@ -141,8 +142,8 @@ void AMusicalAICharacter::SetupPlayerInputComponent(class UInputComponent* Playe
 		//Attack B
 		EnhancedInputComponent->BindAction(AttackBAction, ETriggerEvent::Triggered, this, &AMusicalAICharacter::TriggerAttackB);
 		EnhancedInputComponent->BindAction(AttackBAction, ETriggerEvent::Started, this, &AMusicalAICharacter::StartAttackB);
-		EnhancedInputComponent->BindAction(AttackBAction, ETriggerEvent::Canceled, this, &AMusicalAICharacter::CancelAttackB);
-		EnhancedInputComponent->BindAction(AttackBAction, ETriggerEvent::Completed, this, &AMusicalAICharacter::CompletedAttackB);
+		EnhancedInputComponent->BindAction(AttackBAction, ETriggerEvent::Canceled, this, &AMusicalAICharacter::FinishAttackB);
+		EnhancedInputComponent->BindAction(AttackBAction, ETriggerEvent::Completed, this, &AMusicalAICharacter::FinishAttackB);
 	}
 
 }
@@ -151,35 +152,41 @@ void AMusicalAICharacter::TriggerAttackB(const FInputActionValue& Value)
 {
 	FTransform ProjectileTransform = FTransform(FRotator(0.0, 0.0, 0.0), PlayerCharacter->GetComponentTransform().GetLocation(), FVector(0.25, 0.25, 0.25));
 
-	AActor* Projectile = GetWorld()->SpawnActorDeferred<AActor>(ProjectileClass, ProjectileTransform, this, this, ESpawnActorCollisionHandlingMethod::DontSpawnIfColliding);
+	canMove = false;
 
-	//Projectile->AddComponentByClass(UProjectileMovementComponent::StaticClass(), false, FTransform(), true);//AddComponent("ProjectileMovementComponent", false, ProjectileMovement);
-	//Projectile->AddInstanceComponent(ProjectileMovement);
+	if (Projectile == nullptr || Projectile->isReleased)
+	{
+		Projectile = GetWorld()->SpawnActorDeferred<AProjectile>(ProjectileClass, ProjectileTransform, this, this, ESpawnActorCollisionHandlingMethod::DontSpawnIfColliding);
 
-	FVector projectileVelo = GetProjectileDirection();
+		ProjectileDirection = GetProjectileDirection();
+		Projectile->StartMoving(FVector(ProjectileDirection.X * 500.0, ProjectileDirection.Y * 500.0, ProjectileDirection.Z * 500.0));
 
-	//ProjectileMovement->SetVelocityInLocalSpace(FVector(projectileVelo.X*500.0, projectileVelo.Y * 500.0, projectileVelo.Z * 500.0));
+		Projectile->FinishSpawning(ProjectileTransform);
+	}
 
-	Projectile->FinishSpawning(ProjectileTransform);
-
-	UE_LOG(LogTemp, Warning, TEXT("AttackB"));
-	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "AttackB");
+	//UE_LOG(LogTemp, Warning, TEXT("AttackB"));
+	//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "AttackB");
 }
 
 void AMusicalAICharacter::StartAttackB(const FInputActionValue& Value)
 {
-	UE_LOG(LogTemp, Warning, TEXT("AttackB"));
-	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "AttackB");
+
+	//UE_LOG(LogTemp, Warning, TEXT("AttackB"));
+	//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "AttackB");
 }
-void AMusicalAICharacter::CancelAttackB(const FInputActionValue& Value)
+
+void AMusicalAICharacter::FinishAttackB(const FInputActionValue& Value)
 {
-	UE_LOG(LogTemp, Warning, TEXT("AttackB"));
-	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "AttackB");
-}
-void AMusicalAICharacter::CompletedAttackB(const FInputActionValue& Value)
-{
-	UE_LOG(LogTemp, Warning, TEXT("AttackB"));
-	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "AttackB");
+	if (Projectile != nullptr)
+	{
+
+		Projectile->isReleased = true;
+	}
+	//UE_LOG(LogTemp, Warning, TEXT("AttackB"));
+	//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "AttackB");
+
+
+	canMove = true;
 }
 
 void AMusicalAICharacter::Move(const FInputActionValue& Value)
@@ -187,7 +194,7 @@ void AMusicalAICharacter::Move(const FInputActionValue& Value)
 	// input is a Vector2D
 	FVector2D MovementVector = Value.Get<FVector2D>();
 
-	if (Controller != nullptr)
+	if (Controller != nullptr && canMove)
 	{
 		// find out which way is forward
 		const FRotator Rotation = Controller->GetControlRotation();
@@ -217,7 +224,3 @@ void AMusicalAICharacter::Look(const FInputActionValue& Value)
 		AddControllerPitchInput(LookAxisVector.Y);
 	}
 }
-
-
-
-

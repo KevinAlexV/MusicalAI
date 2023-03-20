@@ -5,20 +5,21 @@
   Invalidating makefile for MusicalAIEditor (working set of source files changed)
   Parsing headers for MusicalAIEditor
     Running Internal UnrealHeaderTool F:\Workspace\Github\MusicalAI\MusicalAI\MusicalAI.uproject F:\Workspace\Github\MusicalAI\MusicalAI\Intermediate\Build\Win64\MusicalAIEditor\Development\MusicalAIEditor.uhtmanifest -WarningsAsErrors -installed
-  Total of 3 written
-  Reflection code generated for MusicalAIEditor in 1.2373542 seconds
+  Total of 0 written
+  Reflection code generated for MusicalAIEditor in 1.2020692 seconds
   Building MusicalAIEditor...
   Using Visual Studio 2022 14.29.30148 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Determining max actions to execute in parallel (4 physical cores, 8 logical cores)
     Executing up to 4 processes, one per physical core
-  Building 6 actions with 4 processes...
-  [1/6] Compile MusicalAI.init.gen.cpp
-  [2/6] Compile Projectile.cpp
-  [3/6] Compile Projectile.gen.cpp
-  [4/6] Link UnrealEditor-MusicalAI.lib
+  Building 7 actions with 4 processes...
+  [1/7] Compile MusicalAIGameMode.cpp
+  [2/7] Compile MusicalAICharacter.gen.cpp
+  [3/7] Compile Projectile.cpp
+  [4/7] Compile MusicalAICharacter.cpp
+  [5/7] Link UnrealEditor-MusicalAI.lib
      Creating library F:\Workspace\Github\MusicalAI\MusicalAI\Intermediate\Build\Win64\UnrealEditor\Development\MusicalAI\UnrealEditor-MusicalAI.lib and object F:\Workspace\Github\MusicalAI\MusicalAI\Intermediate\Build\Win64\UnrealEditor\Development\MusicalAI\UnrealEditor-MusicalAI.exp
-  [5/6] Link UnrealEditor-MusicalAI.dll
+  [6/7] Link UnrealEditor-MusicalAI.dll
      Creating library F:\Workspace\Github\MusicalAI\MusicalAI\Intermediate\Build\Win64\UnrealEditor\Development\MusicalAI\UnrealEditor-MusicalAI.suppressed.lib and object F:\Workspace\Github\MusicalAI\MusicalAI\Intermediate\Build\Win64\UnrealEditor\Development\MusicalAI\UnrealEditor-MusicalAI.suppressed.exp
-  [6/6] WriteMetadata MusicalAIEditor.target
-  Total time in Parallel executor: 4.70 seconds
-  Total execution time: 15.57 seconds
+  [7/7] WriteMetadata MusicalAIEditor.target
+  Total time in Parallel executor: 4.55 seconds
+  Total execution time: 14.60 seconds
