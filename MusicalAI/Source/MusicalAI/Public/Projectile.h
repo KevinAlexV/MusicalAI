@@ -31,8 +31,8 @@ protected:
 	UPROPERTY(EditInstanceOnly, Category = "Projectile")
 	UStaticMeshComponent* StaticMesh;
 	
-	UPROPERTY()
-	USceneComponent* DefaultSceneRoot;
+	//UPROPERTY()
+	//USceneComponent* DefaultSceneRoot;
 
 	UPROPERTY(EditInstanceOnly)
 	UProjectileMovementComponent* ProjectileMovement;

@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeMusicalAI_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x2BBED408,
+				0x4DC3D721,
 				0x8AF573B0,
 				METADATA_PARAMS(nullptr, 0)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeMusicalAI_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_MusicalAI.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MusicalAI(Z_Construct_UPackage__Script_MusicalAI, TEXT("/Script/MusicalAI"), Z_Registration_Info_UPackage__Script_MusicalAI, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x2BBED408, 0x8AF573B0));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MusicalAI(Z_Construct_UPackage__Script_MusicalAI, TEXT("/Script/MusicalAI"), Z_Registration_Info_UPackage__Script_MusicalAI, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x4DC3D721, 0x8AF573B0));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -11,10 +11,10 @@ AProjectile::AProjectile()
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
-	DefaultSceneRoot = CreateDefaultSubobject<USceneComponent>(FName("Projectile"));
-	SetRootComponent(DefaultSceneRoot);
+	//DefaultSceneRoot = CreateDefaultSubobject<USceneComponent>(FName("Projectile"));
 	StaticMesh = CreateDefaultSubobject<UStaticMeshComponent>(FName("StaticMesh"));
-	StaticMesh->SetupAttachment(DefaultSceneRoot);
+	SetRootComponent(StaticMesh);
+	//StaticMesh->SetupAttachment(DefaultSceneRoot);
 
 	//Collider = CreateDefaultSubobject<UBoxComponent>(FName("Collider"));
 	//Collider->SetBoxExtent(FVector(35.0f, 40.0f, 35.0f));
@@ -68,16 +68,16 @@ void AProjectile::Tick(float DeltaTime)
 
 void AProjectile::OverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
-	Super::NotifyActorBeginOverlap(this);
+	Super::NotifyActorBeginOverlap(OtherActor);
 	
 	if (ANPC* PlayerController = Cast<ANPC>(OtherActor))
 	{
-		UE_LOG(LogTemp, Warning, TEXT("Overlapped NPC"));
+		//UE_LOG(LogTemp, Warning, TEXT("Overlapped NPC"));
 		//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "Overlapped NPC");
-		Destroy();
+		//Destroy();
 	}
 
-	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "Overlapped");
+	//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "Overlapped");
 }
 
 void AProjectile::StartMoving(FVector projectileVelo) 
