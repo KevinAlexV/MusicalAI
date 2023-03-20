@@ -6,7 +6,7 @@
 AMainMenu::AMainMenu()
 {
 	// set default pawn class to our Blueprinted character
-	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonSprite"));
+	//static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonSprite"));
 
 	/*if(FPaths::FileExists("F:\\Workspace\\Github\\MusicalAI\\MusicalAI\\Content\\ThirdPerson\\Blueprints"))
 	{
@@ -27,9 +27,9 @@ AMainMenu::AMainMenu()
 
 	}*/
 
-	if (PlayerPawnBPClass.Class != NULL)
+	/*if (PlayerPawnBPClass.Class != NULL)
 	{
 		DefaultPawnClass = PlayerPawnBPClass.Class;
-	}
+	}*/
 }
 
