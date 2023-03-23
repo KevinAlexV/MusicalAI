@@ -110,12 +110,6 @@ void AProjectile::OverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor*
 		//Destroy();
 		//TargetActor->OnAttack_Implementation(damage, NULL);
 	}
-	else
-	{
-		Destroy();
-		//UE_LOG(LogTemp, Warning, TEXT("Overlapped"));
-		//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "Overlapped");
-	}
 
 	//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "Overlapped");
 }
