@@ -110,14 +110,12 @@ void AProjectile::OverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor*
 		//Destroy();
 		//TargetActor->OnAttack_Implementation(damage, NULL);
 	}
-	else
-	{
-		Destroy();
-		//UE_LOG(LogTemp, Warning, TEXT("Overlapped"));
-		//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "Overlapped");
-	}
-
 	//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "Overlapped");
+}
+
+void AProjectile::NotifyHit(class UPrimitiveComponent* MyComp, AActor* Other, class UPrimitiveComponent* OtherComp, bool bSelfMoved, FVector HitLocation, FVector HitNormal, FVector NormalImpulse, const FHitResult& Hit)
+{
+	Destroy();
 }
 
 void AProjectile::StartMoving(FVector projectileVelo) 
