@@ -32,11 +32,11 @@ void ANPC::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 
 }
 
-//void ANPC::OnAttack_Implementation(float damage, AActor* Attacker)
-//{
-//	UE_LOG(LogTemp, Warning, TEXT("NPC was attacked!"));
-//	/*if (object != nullptr && IMyInterface::ImplementsInterface(object))
-//	{
-//		UActorComponent* myComp = IMyInterface::Execute_GetSomeComponent(object)
-//	}*/
-//}
+void ANPC::OnAttack_Implementation(float damage, AActor* Attacker)
+{
+	UE_LOG(LogTemp, Warning, TEXT("NPC was attacked!"));
+	/*if (object != nullptr && IMyInterface::ImplementsInterface(object))
+	{
+		UActorComponent* myComp = IMyInterface::Execute_GetSomeComponent(object)
+	}*/
+}
