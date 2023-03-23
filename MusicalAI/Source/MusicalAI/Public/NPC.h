@@ -4,10 +4,11 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+//#include "I_Attackable.h"
 #include "NPC.generated.h"
 
 UCLASS()
-class MUSICALAI_API ANPC : public ACharacter
+class MUSICALAI_API ANPC : public ACharacter//, public II_Attackable
 {
 	GENERATED_BODY()
 
@@ -25,5 +26,7 @@ public:
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+	//virtual void OnAttack_Implementation(float damage, AActor* Attacker) override;
 
 };

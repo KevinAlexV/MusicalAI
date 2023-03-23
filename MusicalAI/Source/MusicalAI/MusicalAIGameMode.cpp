@@ -36,23 +36,7 @@ bool JoyFileIO_GetFiles(TArray<FString>& Files, FString RootFolderFullPath, FStr
 AMusicalAIGameMode::AMusicalAIGameMode()
 {
 	// set default pawn class to our Blueprinted character
-	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/MusicAI_GameMode/BP_Character"));///Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter
-
-	static ConstructorHelpers::FClassFinder<AProjectile> PlayerProjectileA(TEXT("/Game/Characters/CharacterProps/MyProjectile"));
-
-	UE_LOG(LogTemp, Log, TEXT("[MusicalAIGameMode] ProjectileClass seraching..."));
-
-	if (PlayerProjectileA.Class != NULL)
-	{
-		//ProjectileClass = PlayerProjectileA.Class;
-		UE_LOG(LogTemp, Warning, TEXT("[MusicalAIGameMode] ProjectileClass found."));
-	}
-	else
-	{
-		UE_LOG(LogTemp, Error, TEXT("[MusicalAIGameMode] ProjectileClass not found."));
-		//UKismetSystemLibrary::QuitGame(GetWorld(), 0, EQuitPreference::Quit, true);
-	}
-
+	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/MusicAI_GameMode/BP_Character"));///Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacte
 
 	/*if(FPaths::FileExists("F:\\Workspace\\Github\\MusicalAI\\MusicalAI\\Content\\ThirdPerson\\Blueprints"))
 	{

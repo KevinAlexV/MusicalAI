@@ -103,11 +103,12 @@ void AProjectile::OverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor*
 {
 	Super::NotifyActorBeginOverlap(OtherActor);
 	
-	if (ANPC* PlayerController = Cast<ANPC>(OtherActor))
+	if (ANPC* TargetActor = Cast<ANPC>(OtherActor))
 	{
 		//UE_LOG(LogTemp, Warning, TEXT("Overlapped NPC"));
 		//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "Overlapped NPC");
 		//Destroy();
+		//TargetActor->OnAttack(damage, NULL);
 	}
 
 	//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, "Overlapped");

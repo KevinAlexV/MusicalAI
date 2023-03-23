@@ -22,6 +22,6 @@ class MUSICALAI_API II_Attackable
 
 	// Add interface functions to this class. This is the class that will be inherited to implement this interface.
 public:
-	UFUNCTION(BlueprintCallable, BlueprintNativeEvent, Category = "Attackable")
-	void OnAttack(float damage, AActor* OtherActor);
+	UFUNCTION(BlueprintCallable = true, BlueprintNativeEvent, Category = "Attackable")
+	void OnAttack(float damage, AActor* Attacker);
 };
