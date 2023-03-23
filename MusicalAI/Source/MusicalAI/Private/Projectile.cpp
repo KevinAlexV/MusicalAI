@@ -4,6 +4,7 @@
 #include "Projectile.h"
 #include "Components/BoxComponent.h"
 #include "NPC.h"
+#include "Kismet/KismetSystemLibrary.h"
 
 // Sets default values
 AProjectile::AProjectile()
@@ -14,12 +15,41 @@ AProjectile::AProjectile()
 	//DefaultSceneRoot = CreateDefaultSubobject<USceneComponent>(FName("Projectile"));
 	StaticMesh = CreateDefaultSubobject<UStaticMeshComponent>(FName("StaticMesh"));
 	SetRootComponent(StaticMesh);
+
 	//StaticMesh->SetupAttachment(DefaultSceneRoot);
 
 	//Collider = CreateDefaultSubobject<UBoxComponent>(FName("Collider"));
 	//Collider->SetBoxExtent(FVector(35.0f, 40.0f, 35.0f));
 	//Collider->SetupAttachment(StaticMesh);
 	//Collider->SetRelativeLocation(FVector(0.0f, 0.0f, 0.0f));
+
+	static ConstructorHelpers::FObjectFinder<UStaticMesh>MeshAsset(TEXT("/Game/SetPieces/Objects/Props/MaterialSphere.MaterialSphere"));
+	UStaticMesh* Asset = MeshAsset.Object;
+
+	if (Asset)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("[Projectile] Static Mesh being assigned from MaterialSphere"));
+		StaticMesh->SetStaticMesh(Asset);
+	}
+	else
+	{
+		UE_LOG(LogTemp, Warning, TEXT("[Projectile] StaticMesh not found"));
+		UKismetSystemLibrary::QuitGame(GetWorld(), 0, EQuitPreference::Quit, true);
+	}
+
+	static ConstructorHelpers::FObjectFinder<UMaterial>MaterialAsset(TEXT("/Game/Characters/CharacterProps/EnergyBallMat.EnergyBallMat"));
+	UMaterial* Material = MaterialAsset.Object;
+
+	if (Material)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("[Projectile] Material being assigned from EnergyBallMat"));
+		StaticMesh->SetMaterial(0, Material);
+	}
+	else
+	{
+		UE_LOG(LogTemp, Warning, TEXT("[Projectile] Material not found"));
+		UKismetSystemLibrary::QuitGame(GetWorld(), 0, EQuitPreference::Quit, true);
+	}
 
 	//Projectile Movement Component Declaration
 	ProjectileMovement = CreateDefaultSubobject<UProjectileMovementComponent>(TEXT("ProjectileMovement"));
@@ -32,6 +62,9 @@ AProjectile::AProjectile()
 	ProjectileMovement->bIsHomingProjectile = false;
 	ProjectileMovement->bInitialVelocityInLocalSpace = false;
 	ProjectileMovement->bRotationFollowsVelocity = true;
+
+	//StaticMesh->SetCollisionObjectType("");
+	StaticMesh->SetCollisionProfileName("PlayerProjectile");
 }
 
 // Called when the game starts or when spawned

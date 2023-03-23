@@ -12,6 +12,7 @@
 #include "Camera/PlayerCameraManager.h"
 #include "MusicalAIGameMode.h"
 #include "Kismet/KismetMathLibrary.h"
+#include "Kismet/KismetSystemLibrary.h"
 
 //////////////////////////////////////////////////////////////////////////
 // Misc Functions
@@ -58,6 +59,7 @@ FVector AMusicalAICharacter::GetProjectileDirection()
 
 AMusicalAICharacter::AMusicalAICharacter()
 {
+	
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
 		
@@ -156,7 +158,7 @@ void AMusicalAICharacter::TriggerAttackB(const FInputActionValue& Value)
 
 	if (Projectile == nullptr || Projectile->isReleased)
 	{
-		Projectile = GetWorld()->SpawnActorDeferred<AProjectile>(ProjectileClass, ProjectileTransform, this, this, ESpawnActorCollisionHandlingMethod::DontSpawnIfColliding);
+		Projectile = GetWorld()->SpawnActorDeferred<AProjectile>(AProjectile::StaticClass(), ProjectileTransform, this, this, ESpawnActorCollisionHandlingMethod::DontSpawnIfColliding);
 
 		ProjectileDirection = GetProjectileDirection();
 		Projectile->StartMoving(FVector(ProjectileDirection.X * 500.0, ProjectileDirection.Y * 500.0, ProjectileDirection.Z * 500.0));

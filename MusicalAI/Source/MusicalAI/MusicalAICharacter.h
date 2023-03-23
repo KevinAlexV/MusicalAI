@@ -56,9 +56,6 @@ class AMusicalAICharacter : public ACharacter
 public:
 	AMusicalAICharacter();
 
-	UPROPERTY(BlueprintReadOnly, Category = Projectile, EditAnywhere)
-	TSubclassOf<AProjectile> ProjectileClass;
-
 	/** Returns CameraBoom subobject **/
 	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
 	/** Returns FollowCamera subobject **/
@@ -90,5 +87,8 @@ private:
 	AProjectile* Projectile;
 	FVector ProjectileDirection = FVector(0, 0, 0);
 	bool canMove = true;
+
+	UPROPERTY()
+	TSubclassOf<AProjectile> ProjectileClass;
 };
 
