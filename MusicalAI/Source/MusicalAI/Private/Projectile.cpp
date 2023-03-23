@@ -28,7 +28,7 @@ AProjectile::AProjectile()
 
 	if (Asset)
 	{
-		UE_LOG(LogTemp, Warning, TEXT("[Projectile] Static Mesh being assigned from MaterialSphere"));
+		//UE_LOG(LogTemp, Warning, TEXT("[Projectile] Static Mesh being assigned from MaterialSphere"));
 		StaticMesh->SetStaticMesh(Asset);
 	}
 	else
@@ -42,7 +42,7 @@ AProjectile::AProjectile()
 
 	if (Material)
 	{
-		UE_LOG(LogTemp, Warning, TEXT("[Projectile] Material being assigned from EnergyBallMat"));
+		//UE_LOG(LogTemp, Warning, TEXT("[Projectile] Material being assigned from EnergyBallMat"));
 		StaticMesh->SetMaterial(0, Material);
 	}
 	else
