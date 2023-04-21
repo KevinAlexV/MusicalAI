@@ -5,6 +5,11 @@
 #include "UObject/ConstructorHelpers.h"
 #include "Sound/SoundBase.h"
 #include "Projectile.h"
+#include "HeadMountedDisplay/Public/HeadMountedDisplay.h"
+#include "HeadMountedDisplay/Public/IXRSystemAssets.h"
+#include "IXRTrackingSystem.h"
+//#include "OpenXRHMD/Public/OpenXRHMD.h"
+//#include "OpenXRExpansionPlugin/Public/OpenXRExpansionPlugin.h"
 
 /** Obtain all files in a provided directory, with optional extension filter. All files are returned if Ext is left blank. Returns false if operation could not occur. */
 //UFUNCTION(BlueprintPure, Category = "VictoryBPLibrary|File IO")
@@ -36,7 +41,8 @@ bool JoyFileIO_GetFiles(TArray<FString>& Files, FString RootFolderFullPath, FStr
 AMusicalAIGameMode::AMusicalAIGameMode()
 {
 	// set default pawn class to our Blueprinted character
-	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/MusicAI_GameMode/BP_Character"));///Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacte
+	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/MusicAI_GameMode/BP_Character"));///Game/MusicAI_GameMode/Blueprints/BP_ThirdPersonCharacter
+	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnVRClass(TEXT("/Game/VRTemplate/Blueprints/VRPawn"));
 
 	/*if(FPaths::FileExists("F:\\Workspace\\Github\\MusicalAI\\MusicalAI\\Content\\ThirdPerson\\Blueprints"))
 	{
@@ -59,7 +65,14 @@ AMusicalAIGameMode::AMusicalAIGameMode()
 
 	if (PlayerPawnBPClass.Class != NULL)
 	{
-		DefaultPawnClass = PlayerPawnBPClass.Class;
+		Default2DPawn = PlayerPawnBPClass.Class;
+		//DefaultPawnClass = PlayerPawnVRClass.Class;
+	}
+
+	if (PlayerPawnVRClass.Class != NULL)
+	{
+		DefaultVRPawn = PlayerPawnVRClass.Class;
+		//DefaultPawnClass = PlayerPawnVRClass.Class;
 	}
 }
 

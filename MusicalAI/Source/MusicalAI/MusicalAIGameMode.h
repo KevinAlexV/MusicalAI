@@ -13,6 +13,12 @@ class AMusicalAIGameMode : public AGameModeBase
 
 public:
 	AMusicalAIGameMode();
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
+	TSubclassOf<APawn> Default2DPawn;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
+	TSubclassOf<APawn> DefaultVRPawn;
 };
 
 
